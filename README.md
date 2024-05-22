@@ -1,6 +1,6 @@
 # Bands Service
 Implementation of a Bands Service with PHP 8.3, Symfony 7 and MySQL 8.
-The purpose of the service is to import bands and make them available using an API
+The purpose of the service is to import bands using an Excel file and make them available with an API.
 
 ## Requirements
 - git
