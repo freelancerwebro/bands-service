@@ -1,0 +1,33 @@
+services:
+  nginx:
+    container_name: bands-service-nginx
+    build:
+      context: .
+      dockerfile: docker/nginx/Dockerfile
+    ports:
+      - '8078:80'
+    volumes:
+      - ./:/var/www/bands-service
+
+  php:
+    container_name: bands-service-php
+    build:
+      context: .
+      dockerfile: docker/php/Dockerfile
+    volumes:
+      - .:/var/www/bands-service
+
+  database:
+    container_name: bands-service-database
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password
+    build: docker/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: bands-service
+      MYSQL_USER: symfony
+      MYSQL_PASSWORD: symfony
+    ports:
+      - '4309:3306'
+    volumes:
+      - ./mysql:/var/lib/mysql
