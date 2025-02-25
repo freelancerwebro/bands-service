@@ -1,5 +1,6 @@
 echo 'Prepare config files...'
 cp phpunit.xml.dist phpunit.xml
+cp .env.example .env
 #cp phpstan.dist.neon phpstan.neon
 
 echo 'Building containers...'
