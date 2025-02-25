@@ -3,7 +3,7 @@ cp phpunit.xml.dist phpunit.xml
 cp .env.example .env
 
 echo 'Building containers...'
-docker-compose up -d
+docker-compose up -d --build
 
 echo 'Installing composer...'
 docker exec -it bands-service-php composer install --prefer-dist --no-progress --no-interaction
