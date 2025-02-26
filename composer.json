@@ -78,6 +78,7 @@
     },
     "require-dev": {
         "doctrine/doctrine-fixtures-bundle": "^3.6",
+        "enlightn/security-checker": "^2.0",
         "friendsofphp/php-cs-fixer": "^3.70",
         "phpstan/phpstan": "^2.1",
         "phpunit/phpunit": "^9.5",
