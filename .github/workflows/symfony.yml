@@ -48,7 +48,7 @@ jobs:
     - name: Run PHPStan (Static Analysis)
       run: vendor/bin/phpstan analyse --memory-limit=2G
     - name: Run php-cs-fixer
-      run: vendor/bin/php-cs-fixer check 
+      run: PHP_CS_FIXER_IGNORE_ENV=1 vendor/bin/php-cs-fixer check
     - name: Run Security Checker
       run: vendor/bin/security-checker security:check    
     - name: Run PHPUnit Tests
