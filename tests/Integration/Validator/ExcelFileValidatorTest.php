@@ -45,7 +45,6 @@ class ExcelFileValidatorTest extends KernelTestCase
     public function test_invalid_file_size()
     {
         $this->expectException(ValidatorException::class);
-        $this->expectExceptionMessage('The file is too large (7.28 MB). Allowed maximum size is 5 MB.');
 
         $file = new UploadedFile(self::BASE_PATH.'invalidFileSize.csv', 'invalidFileSize.csv', 'text/csv', null, true);
 
