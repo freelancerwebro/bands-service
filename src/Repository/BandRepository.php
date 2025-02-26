@@ -16,12 +16,14 @@ class BandRepository extends ServiceEntityRepository
         parent::__construct($registry, Band::class);
     }
 
-    public function save(Band $band) {
+    public function save(Band $band)
+    {
         $this->getEntityManager()->persist($band);
         $this->getEntityManager()->flush();
     }
 
-    public function delete(Band $band) {
+    public function delete(Band $band)
+    {
         $this->getEntityManager()->remove($band);
         $this->getEntityManager()->flush();
     }

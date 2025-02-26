@@ -15,7 +15,7 @@ use Symfony\Component\Validator\Validator\ValidatorInterface;
 class BandController extends AbstractController
 {
     public function __construct(
-        private readonly BandRepository $bandRepository
+        private readonly BandRepository $bandRepository,
     ) {
     }
 
@@ -37,7 +37,7 @@ class BandController extends AbstractController
     public function create(
         Request $request,
         SerializerInterface $serializer,
-        ValidatorInterface $validator
+        ValidatorInterface $validator,
     ): JsonResponse {
         $band = $serializer->deserialize(
             $request->getContent(),
@@ -60,7 +60,7 @@ class BandController extends AbstractController
         Request $request,
         SerializerInterface $serializer,
         ValidatorInterface $validator,
-        Band $band
+        Band $band,
     ): JsonResponse {
         $band = $serializer->deserialize(
             $request->getContent(),
@@ -78,6 +78,7 @@ class BandController extends AbstractController
         }
 
         $this->bandRepository->save($band);
+
         return $this->json($band);
     }
 
@@ -85,6 +86,7 @@ class BandController extends AbstractController
     public function delete(Band $band): JsonResponse
     {
         $this->bandRepository->delete($band);
+
         return $this->json('', 204);
     }
 }

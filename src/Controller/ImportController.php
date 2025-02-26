@@ -18,7 +18,7 @@ class ImportController extends AbstractController
     public function index(
         Request $request,
         ParserServiceInterface $parserService,
-        ExcelFileValidator $excelFileValidator
+        ExcelFileValidator $excelFileValidator,
     ): JsonResponse {
         $file = $request->files->get('file');
 
@@ -36,7 +36,7 @@ class ImportController extends AbstractController
             $filename = $file->getPathname();
             $parserService->parse($filename);
         } catch (FileException $e) {
-            return $this->json(['error' => 'File processing failed: ' . $e->getMessage()], Response::HTTP_INTERNAL_SERVER_ERROR);
+            return $this->json(['error' => 'File processing failed: '.$e->getMessage()], Response::HTTP_INTERNAL_SERVER_ERROR);
         }
 
         return $this->json([

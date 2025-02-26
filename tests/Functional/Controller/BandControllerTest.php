@@ -15,7 +15,7 @@ class BandControllerTest extends WebTestCase
         $this->client = static::createClient();
     }
 
-    public function testListBand(): void
+    public function test_list_band(): void
     {
         $this->client->request('GET', '/band');
         $response = $this->client->getResponse();
@@ -30,7 +30,7 @@ class BandControllerTest extends WebTestCase
         );
     }
 
-    public function testCreateBand(): int
+    public function test_create_band(): int
     {
         $this->client->request('POST', '/band', [], [], [], json_encode([
             'name' => 'The band',
@@ -39,7 +39,7 @@ class BandControllerTest extends WebTestCase
             'startYear' => 2002,
             'founders' => 'John Doe',
             'members' => 2,
-            'presentation' => 'test'
+            'presentation' => 'test',
         ]));
         $response = $this->client->getResponse();
 
@@ -52,9 +52,9 @@ class BandControllerTest extends WebTestCase
     }
 
     /**
-     * @depends testCreateBand
+     * @depends test_create_band
      */
-    public function testGetBand($bandId)
+    public function test_get_band($bandId)
     {
         $this->client->request('GET', "/band/$bandId");
         $response = $this->client->getResponse();
@@ -74,9 +74,9 @@ class BandControllerTest extends WebTestCase
     }
 
     /**
-     * @depends testCreateBand
+     * @depends test_create_band
      */
-    public function testUpdateBand($bandId)
+    public function test_update_band($bandId)
     {
         $this->client->request(
             'PUT',
@@ -87,7 +87,7 @@ class BandControllerTest extends WebTestCase
             json_encode([
                 'name' => 'Updated Band',
                 'origin' => 'UK',
-                'city' => 'London'
+                'city' => 'London',
             ])
         );
 
@@ -104,9 +104,9 @@ class BandControllerTest extends WebTestCase
     }
 
     /**
-     * @depends testCreateBand
+     * @depends test_create_band
      */
-    public function testDeleteBand($bandId)
+    public function test_delete_band($bandId)
     {
         $this->client->request('DELETE', "/band/$bandId");
         $response = $this->client->getResponse();
@@ -120,36 +120,36 @@ class BandControllerTest extends WebTestCase
         $this->assertEquals(Response::HTTP_BAD_REQUEST, $response->getStatusCode());
     }
 
-    public function testDeleteNonexistentBand()
+    public function test_delete_nonexistent_band()
     {
-        $this->client->request('DELETE', "/band/100");
+        $this->client->request('DELETE', '/band/100');
         $response = $this->client->getResponse();
 
         $this->assertEquals(Response::HTTP_BAD_REQUEST, $response->getStatusCode());
         $this->assertStringContainsString('object not found', $response->getContent());
     }
 
-    public function testGetNonexistentBand()
+    public function test_get_nonexistent_band()
     {
-        $this->client->request('GET', "/band/100");
+        $this->client->request('GET', '/band/100');
         $response = $this->client->getResponse();
 
         $this->assertEquals(Response::HTTP_BAD_REQUEST, $response->getStatusCode());
         $this->assertStringContainsString('object not found', $response->getContent());
     }
 
-    public function testUpdateNonexistentBand()
+    public function test_update_nonexistent_band()
     {
         $this->client->request(
             'PUT',
-            "/band/100",
+            '/band/100',
             [],
             [],
             ['CONTENT_TYPE' => 'application/json'],
             json_encode([
                 'name' => 'Updated Band',
                 'origin' => 'UK',
-                'city' => 'London'
+                'city' => 'London',
             ])
         );
 
@@ -158,9 +158,9 @@ class BandControllerTest extends WebTestCase
         $this->assertStringContainsString('object not found', $response->getContent());
     }
 
-    public function testGetNonexistentUrl()
+    public function test_get_nonexistent_url()
     {
-        $this->client->request('GET', "/non-existent-url");
+        $this->client->request('GET', '/non-existent-url');
         $response = $this->client->getResponse();
 
         $this->assertEquals(Response::HTTP_BAD_REQUEST, $response->getStatusCode());

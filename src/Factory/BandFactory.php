@@ -63,9 +63,8 @@ final class BandFactory extends ModelFactory
      */
     protected function initialize(): self
     {
-        return $this
-            // ->afterInstantiate(function(Band $band): void {})
-        ;
+        return $this;
+        // ->afterInstantiate(function(Band $band): void {})
     }
 
     protected static function getClass(): string

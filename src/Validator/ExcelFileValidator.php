@@ -4,19 +4,20 @@ declare(strict_types=1);
 
 namespace App\Validator;
 
+use PhpOffice\PhpSpreadsheet\IOFactory;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
+use Symfony\Component\Validator\Constraints as Assert;
 use Symfony\Component\Validator\Exception\ValidatorException;
 use Symfony\Component\Validator\Validator\ValidatorInterface;
-use Symfony\Component\Validator\Constraints as Assert;
-use PhpOffice\PhpSpreadsheet\IOFactory;
 
 class ExcelFileValidator
 {
     private array $expectedHeaders = ['Name', 'Origin', 'City', 'StartYear', 'SeparationYear', 'Founders', 'Members', 'MusicalCurrent', 'Presentation'];
 
     public function __construct(
-        private readonly ValidatorInterface $validator
-    ) { }
+        private readonly ValidatorInterface $validator,
+    ) {
+    }
 
     public function validate(UploadedFile $file): array
     {
@@ -49,29 +50,29 @@ class ExcelFileValidator
         $headers = [];
         foreach ($sheet->getRowIterator(1, 1) as $row) {
             foreach ($row->getCellIterator() as $cell) {
-                if ($cell->getValue() !== null) {
+                if (null !== $cell->getValue()) {
                     $headers[] = $cell->getValue();
                 }
             }
         }
 
         if (count($headers) !== count($this->expectedHeaders)) {
-            throw new ValidatorException('Invalid Excel structure. Expected headers: ' . implode(', ', $this->expectedHeaders));
+            throw new ValidatorException('Invalid Excel structure. Expected headers: '.implode(', ', $this->expectedHeaders));
         }
 
         // Validate row data
         foreach ($sheet->getRowIterator(2) as $row) { // Start from row 2 (skip headers)
             $rowData = [];
             foreach ($row->getCellIterator() as $cell) {
-                $rowData[] = ($cell->getValue() !== null) ? $cell->getValue() : null;
+                $rowData[] = (null !== $cell->getValue()) ? $cell->getValue() : null;
             }
 
             if (!empty($rowData[3]) && !filter_var($rowData[3], FILTER_VALIDATE_INT)) {
-                throw new ValidatorException('Invalid StartYear on row: ' . $row->getRowIndex());
+                throw new ValidatorException('Invalid StartYear on row: '.$row->getRowIndex());
             }
 
             if (!empty($rowData[4]) && !filter_var($rowData[4], FILTER_VALIDATE_INT)) {
-                throw new ValidatorException('Invalid SeparationYear on row: ' . $row->getRowIndex() . ', value:' . $rowData[4]);
+                throw new ValidatorException('Invalid SeparationYear on row: '.$row->getRowIndex().', value:'.$rowData[4]);
             }
         }
     }

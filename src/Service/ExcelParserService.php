@@ -19,7 +19,7 @@ readonly class ExcelParserService implements ParserServiceInterface
     {
         $spreadsheet = IOFactory::load($filename);
         $spreadsheet = $spreadsheet->getActiveSheet();
-        $dataArray =  $spreadsheet->toArray();
+        $dataArray = $spreadsheet->toArray();
         array_shift($dataArray);
 
         foreach ($dataArray as $key => $row) {

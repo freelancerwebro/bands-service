@@ -12,15 +12,17 @@ use Symfony\Component\HttpFoundation\Response;
 class ImportControllerTest extends WebTestCase
 {
     private KernelBrowser $client;
-    private const BASE_PATH = __DIR__ . '/../../_files/';
+
+    private const BASE_PATH = __DIR__.'/../../_files/';
 
     protected function setUp(): void
     {
         $this->client = static::createClient();
     }
-    public function testValidExcelFileUpload()
+
+    public function test_valid_excel_file_upload()
     {
-        $filePath = self::BASE_PATH . 'valid.xlsx';
+        $filePath = self::BASE_PATH.'valid.xlsx';
 
         $this->client->request('POST', '/import', [], [
             'file' => new UploadedFile(
@@ -29,7 +31,7 @@ class ImportControllerTest extends WebTestCase
                 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
                 null,
                 true
-            )
+            ),
         ]);
 
         $response = $this->client->getResponse();
@@ -41,9 +43,9 @@ class ImportControllerTest extends WebTestCase
         );
     }
 
-    public function testInvalidFileUpload()
+    public function test_invalid_file_upload()
     {
-        $filePath = self::BASE_PATH . 'invalidFile.txt';
+        $filePath = self::BASE_PATH.'invalidFile.txt';
 
         $this->client->request('POST', '/import', [], [
             'file' => new UploadedFile(
@@ -52,7 +54,7 @@ class ImportControllerTest extends WebTestCase
                 'text/plain',
                 null,
                 true
-            )
+            ),
         ]);
 
         $response = $this->client->getResponse();
@@ -61,7 +63,7 @@ class ImportControllerTest extends WebTestCase
         $this->assertStringContainsString('Please upload a valid Excel', $response->getContent());
     }
 
-    public function testEmptyFileUpload()
+    public function test_empty_file_upload()
     {
         $this->client->request('POST', '/import', [], []);
 
