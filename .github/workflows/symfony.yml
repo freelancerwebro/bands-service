@@ -30,7 +30,7 @@ jobs:
         php-version: '8.4'
     - uses: actions/checkout@v4
     - name: Copy .env.test.local
-      run: php -r "file_exists('.env.test.local') || copy('.env.example', '.env.test.local');"
+      run: php -r "file_exists('.env') || copy('.env.example', '.env');"
     - name: Cache Composer packages
       id: composer-cache
       uses: actions/cache@v3
