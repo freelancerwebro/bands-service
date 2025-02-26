@@ -1,33 +1,48 @@
-# Bands Service
-Implementation of a Bands Service with PHP 8.3, Symfony 7 and MySQL 8.
-The purpose of the service is to import bands using an Excel file and make them available with an API.
+# 🎵 Bands Service
+A RESTful service built with **PHP**, **Symfony**, and **MySQL** for importing and managing bands using an Excel file.
 
-## Requirements
-- git
-- docker-compose
+## 📖 **Project Description**
+This project provides an **import system** for an Excel/CSV file, allowing bands to be stored in a database and accessed via an API.
 
-## Installation
-Clone the git repository:
+### **📝 Context**
+- **As a client**, I want my Excel file to be imported into a database
+- **In order to** consult, modify, or delete the information
+
+## 🔧 Tech Stack
+- Symfony 7.2
+- PHP 8.4
+- MySQL 8
+- REST API
+- Docker
+- PHPUnit
+
+## 🔧 Requirements
+- [git](https://github.com/git-guides/install-git)
+- [docker-compose](https://docs.docker.com/compose/install/)
+- [PHP](https://www.php.net/manual/en/install.php)
+
+## 📦 Installation
+🔹 Clone the git repository:
 ```
 git clone git@github.com:freelancerwebro/bands-service.git
 ```
 
-In order to build the service, run the command:
+🔹 Run the following command to build the service:
 ```
 ./deploy.sh
 ```
 
-Run tests:
+## ✅ Running Tests:
 ```
 composer test
 ```
 
-API usage:
+## 📂 API Endpoints:
 ```
-- POST `/import`: Import excel file
-- GET `/band`: List bands
-- GET `/band/{id}`: Get one band
-- POST `/band`: Create new band
-- PUT `/band/{id}`: Update existing band
-- DELETE `/band/{id}`: Delete existing band
+- POST `/import`: Import bands from an Excel/CSV file
+- GET `/band`: List all bands
+- GET `/band/{id}`: Retrieve a single band
+- POST `/band`: Add a new band
+- PUT `/band/{id}`: Update an existing band
+- DELETE `/band/{id}`: Delete a band
 ```

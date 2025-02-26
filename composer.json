@@ -70,7 +70,7 @@
         "post-update-cmd": [
             "@auto-scripts"
         ],
-        "test": "vendor/bin/phpunit"
+        "test": "php bin/phpunit --testdox"
     },
     "conflict": {
         "symfony/symfony": "*"
