@@ -1,0 +1,1001 @@
+uuid,seller_id,seller_firstname,seller_lastname,date_joined,country,contact_region,contact_date,contact_customer_fullname,contact_type,contact_product_type_offered_id,contact_product_type_offered,sale_net_amount,sale_gross_amount,sale_tax_rate,sale_product_total_cost
+81739c76-5e2a-456d-af27-6b6e3c39ecf3,997,Lanna,Ralfston,2007-10-13,NR,El Paso,2013-04-01,Di,Phone,775,Canned sausages,443.78,768.22,0.19,379.21
+27776276-70ac-4cc5-bc52-67559a08d84c,412,Ilse,Stilwell,2023-07-05,IT,Taiyuan,2019-03-14,Gilligan,Phone,549,Canned sausages,213.95,712.27,0.19,358.63
+d1d27d0c-8458-44bd-a611-c68899fef434,939,Tarra,Andrel,2007-03-10,CM,Mexico City,2003-08-09,Sallie,Email,751,Spätzle,273.68,865.95,0.19,478.11
+71b0534b-c361-4651-8e37-267342f8e5a6,652,Winny,Camden,2011-10-04,VU,Kandahar,2016-06-12,Trixi,Email,16,Spätzle,293.35,507.54,0.19,334.21
+f9ad4371-324e-4bb0-b2c9-9fae5dea30eb,97,Wendi,Chandler,2011-12-19,GB,Hanoi,2021-11-15,Nyssa,Email,52,Spätzle,466.16,596.25,0.19,388.66
+e3ca375e-935a-446d-bcf8-2cf1b068d7f4,50,Lizzie,Hewitt,2014-03-09,HT,Beirut,2014-10-24,Britte,Phone,853,Canned sausages,440.88,905.95,0.19,411.51
+2fe62294-5d5c-429b-a84e-5532e0dca765,500,Jessamyn,Christine,2024-11-11,AM,Lagos,2010-03-05,Tonia,Phone,912,Canned sausages,349.55,801.76,0.19,308.58
+b7a957b8-b1d6-4ab9-9dec-a7d8626b0405,256,Melanie,Ietta,2007-03-17,PL,Antofagasta,2018-12-09,Jenilee,Email,217,Canned sausages,321.26,652.2,0.19,313.86
+52945668-6883-4a1c-a55d-65f79173eb03,589,Layla,Ulphia,2001-11-22,AI,Abidjan,2012-04-15,Cassondra,Email,907,Spätzle,301.64,893.52,0.19,395.59
+4fec04eb-f543-4601-9206-f234dc55f1b6,480,Jsandye,Kare,2013-12-01,TZ,Hamilton,2009-04-11,Linzy,Phone,666,Spätzle,293.39,940.46,0.19,335.62
+792dcdeb-5c9d-402e-9f49-05c27f25629d,870,Cassondra,Rosalba,2024-09-11,KZ,Arequipa,2022-03-31,Karena,Email,425,Spätzle,298.77,515.46,0.19,379.93
+8b318eb5-5ae3-4ada-a264-5ab4513ac125,488,Rhoda,Timon,2007-01-03,PK,Campinas,2012-05-09,Doralynne,Phone,462,Spätzle,417.72,827.91,0.19,493.84
+c8c71ad4-b501-4897-a3f3-205a08830b63,422,Celisse,Donoghue,2019-02-22,TZ,Durango,2005-07-15,Elyssa,Email,592,Canned sausages,287.43,722.3,0.19,351.98
+3386bbe0-8e01-49ed-8d66-882f0482ac24,495,Maridel,Warthman,2000-04-28,PF,Astana,2011-05-03,Lenna,Phone,418,Spätzle,434.28,559.26,0.19,496.47
+c2749ed5-db06-4b6d-9fed-7344996bd969,528,Meg,Avi,2010-07-29,CV,Petropavlovsk-Kamchatsky,2011-07-20,Glenda,Phone,501,Canned sausages,342.75,651.42,0.19,468.83
+7a5612ba-6b77-4c70-8132-61282d99511b,724,Joy,Hirsch,2014-04-18,RO,Samara,2018-11-18,Lindie,Phone,250,Canned sausages,445.88,977.77,0.19,371.36
+49e33389-0b02-4c7f-92d5-f02b3144b5ee,878,Leanna,Kolnick,2006-04-10,KN,Omsk,2013-01-20,Agnese,Phone,31,Canned sausages,304.92,922.04,0.19,430.77
+c43fcd95-3ae8-424f-988f-af04500d4776,411,Tracey,Shanley,2022-12-25,GM,San Francisco,2012-06-07,Bibby,Email,962,Spätzle,364.07,945.68,0.19,351.32
+691727b1-ac1d-49f4-9872-1a5ca0964317,229,Gisela,Argus,2009-12-05,CN,Assis,2013-07-19,Alejandra,Phone,632,Spätzle,219.07,686.12,0.19,371.16
+708938a6-295b-4b84-bf11-c3ef1b615dc5,41,Ivett,Winthorpe,2007-01-03,PK,Innsbruck,2012-12-04,Elena,Email,206,Canned sausages,459.63,998.22,0.19,479.6
+15f27ddb-d0e1-44fe-bedf-61acf91da247,205,Nollie,Naor,2004-08-25,VC,Pittsburgh,2017-09-28,Lexine,Email,88,Spätzle,449.32,664.12,0.19,485.41
+5535a957-babd-42b5-8151-41d8d18d7200,435,Mignon,Gladstone,2019-06-01,GW,Rochester,2013-03-17,Paola,Phone,260,Canned sausages,387.8,686.85,0.19,485.95
+72062174-930c-4854-96c0-dbb1a988de25,616,Adelle,McLaughlin,2009-07-05,BF,Tel Aviv,2003-02-10,Alyda,Phone,333,Spätzle,283.43,879.64,0.19,302.15
+4db8339a-8b0c-42c2-af72-e8ef5908a835,134,Barbi,Quent,2003-12-15,IT,Xi'an,2010-12-12,Lilith,Email,658,Canned sausages,320.07,836.31,0.19,397.87
+faa3f1c3-e1c3-4c40-86aa-1ad7ee3d043b,105,Jemie,Ortrude,2011-07-28,GL,Damascus,2024-10-14,Sindee,Email,517,Spätzle,426.87,689.35,0.19,422.33
+449b4d78-1776-46f5-a999-df68f6b5a7a4,349,Fawne,Monaco,2000-08-14,MO,Moroni,2019-11-07,Lucy,Email,409,Spätzle,436.17,508.51,0.19,425.14
+b009e219-b74e-4e4d-8f94-2cdbe96f68bd,67,Phedra,Angelis,2020-09-23,LV,Quebec City,2008-06-08,Mahalia,Email,892,Spätzle,373.58,540.34,0.19,463.94
+94ea9d52-f6bd-4366-9cc4-e286cb81249a,249,Joeann,Pandolfi,2010-11-06,MQ,Kandahar,2009-06-10,Elena,Email,216,Spätzle,221.9,891.1,0.19,330.17
+c2fff1df-f98b-49cb-a531-a094c55dc563,846,Charissa,Hollingsworth,2016-06-26,PT,Kunming,2002-09-14,Ana,Phone,608,Canned sausages,431.87,971.11,0.19,382.2
+2d8b33cd-74ef-413a-b965-bb04b44c3bab,350,Elie,Parsaye,2004-10-11,TR,Harare,2008-03-10,Paola,Email,375,Spätzle,483.14,711.18,0.19,391.3
+31a6e4dc-5304-4307-86f4-9a8610b1aba4,990,Leontine,Jacinda,2023-12-05,TM,Vientiane,2006-12-09,Kirstin,Email,841,Canned sausages,281.54,739.49,0.19,429.97
+db5e6c40-bb43-4886-9c6f-00805a91ef48,771,Aeriela,Darbie,2001-09-21,BF,Bilbao,2021-11-02,Lizzie,Email,32,Spätzle,487.91,637.62,0.19,348.48
+de4f2720-a759-4222-b989-888ff1bb3c6e,709,Leona,Genna,2011-02-19,BM,İzmir,2013-01-29,Adelle,Phone,148,Spätzle,467.79,931.48,0.19,413.64
+acb43710-4f0d-448e-941e-7435baaef60d,962,Grier,Shama,2007-05-13,CG,Manaus,2010-08-23,Wilma,Phone,599,Spätzle,334.13,983.35,0.19,443.85
+568b051a-39b4-458e-891c-98bffad57a51,995,Layla,Ietta,2022-01-05,GP,Dalian,2003-04-24,Brietta,Email,852,Spätzle,326.97,817.54,0.19,333.94
+89465c13-6e93-48ae-9f39-50c5833f2b2f,266,Lauryn,Felizio,2010-05-16,AL,Colombo,2018-03-26,Gusella,Email,184,Canned sausages,261.54,678.56,0.19,485.27
+a39cf14e-3099-4a47-8e35-ebaa535e6113,874,Leanna,Corilla,2003-03-17,KM,Astana,2013-11-20,Tilly,Email,121,Spätzle,302.61,740.95,0.19,432.93
+d2b17776-a896-49af-93e1-ef95319e8992,89,Fanny,Jess,2007-05-18,AT,Asmara,2014-05-15,Lucy,Phone,380,Canned sausages,415.63,795.9,0.19,498.05
+bd4cd4c9-f7a1-4f9c-82d2-ac21734c18df,273,Aryn,Fleeta,2007-05-20,LU,Port Said,2020-09-02,Amelia,Email,599,Spätzle,225.94,571.38,0.19,305.93
+4aaa0856-3278-4959-8f77-7a7d63cb7d2d,131,Arlena,Anastatius,2016-09-24,LA,Bogor,2014-12-23,Veda,Email,797,Spätzle,340.73,593.96,0.19,481.27
+c4353bb0-adb9-4f76-af30-02e13f66c6c8,543,Joceline,Hourigan,2007-11-28,WS,St. George's,2001-02-28,Mady,Email,194,Canned sausages,363.72,873.83,0.19,310.1
+d0491595-a94b-4217-81ea-58b2839e7db4,934,Maisey,Johanna,2000-02-07,CM,Seoul,2021-02-20,Lenna,Email,769,Canned sausages,334.17,591.48,0.19,309.61
+197e7dfe-9105-4ca4-9939-5df73d8f9b2e,460,Vivia,Quent,2010-03-12,JE,Geneva,2023-02-20,Yetty,Email,468,Canned sausages,432.32,815.46,0.19,451.29
+3d901a4c-a333-4a16-adf8-a54fbb7946b4,924,Xylina,Koziara,2005-09-30,BA,Dallas,2012-02-17,Sam,Email,186,Canned sausages,440.81,660.68,0.19,425.65
+4f8d6733-62b7-4bdb-a42a-5d843fa99501,311,Charlena,Milde,2021-11-01,LS,Kawasaki,2013-03-25,Elfreda,Email,376,Spätzle,407.45,521.85,0.19,350.77
+0d5b4170-190d-4859-9f96-3fc10e0f9d53,979,Bill,Berl,2000-12-25,NC,Livingstone,2016-11-23,Sharlene,Email,649,Canned sausages,380.16,595.89,0.19,384.3
+bcc5406e-91ef-4cb5-8100-ec72aa6889e7,263,Deedee,Sperling,2011-05-28,LS,Columbus,2021-07-14,Nannie,Phone,429,Spätzle,442.4,878.64,0.19,383.67
+21572cff-c138-47dc-b118-c5d3190925f2,16,Therine,Myrilla,2019-08-23,GR,Anchorage,2013-06-27,Eolanda,Phone,653,Canned sausages,485.06,876.86,0.19,378.54
+8040570f-b7d4-4e0d-8e63-9d9e83ba569b,907,Marcy,McAdams,2009-08-07,SA,Islamabad,2009-08-30,Clarice,Phone,867,Canned sausages,293.14,625.48,0.19,458.54
+c03bffd9-1f00-4517-9bdc-b2708610cfb9,30,Lita,Middleton,2024-09-07,AL,Assis,2012-02-23,Barbi,Email,83,Spätzle,253.92,947.07,0.19,447.98
+5177e6d7-13ec-4bae-8ab7-f07bb1c3bef2,669,Glynnis,Standing,2017-08-16,PK,San Fernando,2012-01-03,Brana,Email,737,Canned sausages,236.16,982.22,0.19,480.43
+4ccbc94e-df92-46ba-af00-374fb0afe900,384,Lita,Saunderson,2020-12-27,BN,Multan,2017-08-26,Priscilla,Phone,950,Canned sausages,341.98,624.76,0.19,423.36
+261e143b-589e-4603-941e-d6e2515946ea,685,Loree,McClimans,2001-12-16,MT,Konya,2011-10-03,Demetris,Phone,170,Spätzle,328.01,775.25,0.19,498.13
+0f66baf9-b038-496f-8c47-01d5e7a99710,718,Alie,Richers,2015-03-30,GY,Okinawa,2010-02-19,Gloria,Email,316,Canned sausages,385.21,869.02,0.19,412.46
+699aa1a1-3eb5-4d17-a476-b759545cf67b,487,Sara-Ann,Berard,2004-05-17,VE,Kuching,2004-02-02,Wilma,Phone,514,Canned sausages,370.37,810.53,0.19,493.51
+c2b0938a-814b-4c07-8987-179324986ad3,127,Liana,Naashom,2001-03-22,NC,Chongjin,2009-10-09,Anthia,Email,79,Spätzle,299.61,686.78,0.19,454.5
+18c8cb10-8adc-488c-ae67-8abf73578910,585,Elbertina,Eiser,2013-01-23,AW,St. George's,2003-08-01,Kenna,Phone,598,Canned sausages,491.15,522.36,0.19,392.44
+2928f0cc-23be-4052-8b1a-2c8a49e3e720,476,Katuscha,Hull,2024-09-15,SE,Charlottetown,2022-07-16,Steffane,Phone,948,Canned sausages,357.3,957.9,0.19,340.6
+193667a9-54d4-40bb-8b30-4ee705bebcc8,386,Belva,Kendrick,2022-06-09,MA,Kandahar,2004-09-11,Amara,Email,557,Spätzle,426.48,819.45,0.19,470.48
+f605d6f3-ebf9-4c1f-8883-a2111db2b6c9,401,Joy,Jeanne,2024-05-07,KW,Medellín,2019-03-12,Bettine,Phone,302,Canned sausages,245.59,865.97,0.19,415.49
+b9fe9c9e-1d38-4486-84aa-0a03a5d0c038,312,Ebonee,Velick,2018-11-01,QA,Port Blair,2010-09-25,Myriam,Email,985,Canned sausages,276.82,847.86,0.19,359.79
+ccfa290e-8c15-43d4-b220-10d29f48c59a,365,Ayn,Zuzana,2021-04-11,CK,Kawasaki,2010-10-11,Marinna,Email,201,Spätzle,283.26,863.67,0.19,415.85
+7e9e772f-23c5-4557-8c02-69ea4fb6cb27,161,Hyacinthe,Pulsifer,2011-05-30,TF,Bahía Blanca,2018-06-10,Aurore,Email,117,Spätzle,280.04,574.05,0.19,490.99
+7df7d272-64d6-4fd1-a72c-a383b1c162ba,460,Rochette,Hillel,2002-06-04,AD,Cartagena,2012-12-22,Lita,Phone,81,Canned sausages,346,805.67,0.19,471.13
+962a6271-5664-483c-8ca3-9a4789751ab3,905,Kimmy,Jacqui,2000-10-22,MM,Shijiazhuang,2019-08-02,Sidoney,Phone,508,Canned sausages,484.88,970.32,0.19,436.86
+3579bd47-4ccf-409d-afc8-09b83a58a048,939,Vere,Lareena,2013-07-26,NP,Madrid,2012-10-07,Bernardine,Email,493,Canned sausages,495.58,932.02,0.19,422.82
+e91542ce-f0dd-4cc3-a1ce-a242b02a852b,700,Lexine,Schenck,2005-01-29,NZ,Kraków,2000-06-18,Olivette,Email,817,Canned sausages,237.3,929.84,0.19,346.52
+83c1d90d-9511-4eb7-af9c-866a2f8d259e,740,Laure,Hashim,2018-02-02,GI,Lanzhou,2022-10-25,Catrina,Email,162,Spätzle,347.1,839.6,0.19,375.61
+e2ad50d3-2ef5-4c7d-882f-3fb929b886d9,90,Mamie,Fennessy,2010-07-14,CX,Cali,2017-04-23,Petronia,Email,751,Canned sausages,490.5,732.49,0.19,331.03
+ee749c75-e68b-4298-846f-82835a1cef7f,966,Violet,Sheng,2015-10-08,FJ,Quetzaltenango,2018-08-23,Coral,Email,127,Canned sausages,341.24,583.2,0.19,445.04
+79aed4b1-f25a-4908-a771-772622370970,23,Concettina,Redmond,2012-07-08,AQ,Phuket (city),2008-05-26,Shaylyn,Phone,290,Canned sausages,346.07,529.51,0.19,411.25
+81080bfc-41c2-48d9-b8ea-dec542efcf5a,230,Ardenia,Lanita,2006-06-21,PA,Virginia Beach,2005-02-13,Shauna,Phone,685,Canned sausages,485.15,932.42,0.19,390.86
+13f57ebd-dafc-419a-8464-cc8e89c05117,900,Tabbatha,Chesna,2012-06-08,CD,Dodoma,2019-10-06,Konstance,Email,91,Canned sausages,454.44,649.35,0.19,327.93
+3dfe16b8-a60c-4505-b1dc-0a048b1b4baf,933,Nariko,Juliet,2020-09-10,LV,Tiraspol,2016-02-28,Rayna,Email,769,Spätzle,445.56,903.29,0.19,345.03
+115e0800-aba1-44e1-a1e1-5ac14f9dcc15,474,Sidoney,Carleen,2012-02-04,IR,Concepción,2007-09-08,Kassey,Email,167,Spätzle,495.01,668.61,0.19,413.44
+21c6a458-e53f-4d6d-af30-9f2095b777ec,774,Sibella,Moina,2000-07-12,VA,Charlottetown,2020-02-16,Amelia,Email,462,Canned sausages,350.65,989.84,0.19,318.98
+11b803cb-fdf9-454b-9add-175b17d1be28,484,Brana,Harl,2011-02-20,AX,San Diego,2020-01-11,Nessie,Phone,784,Spätzle,287.56,766.23,0.19,413.72
+ff751664-432b-4e34-9004-16c515f542f8,16,Jemie,Barrus,2004-08-29,BB,Canberra,2003-04-22,Dede,Email,69,Spätzle,333.87,640.39,0.19,460.03
+3728559d-0085-498a-9410-90474ea7574f,25,Donnie,Friede,2014-04-24,TF,Islamabad,2002-02-07,Cecile,Phone,617,Spätzle,482.51,859.48,0.19,466.24
+624c7aaf-feb2-40d0-91d2-a147db8a9099,197,Sean,Fosque,2009-07-02,TH,San Fernando,2020-02-04,Lindie,Phone,992,Canned sausages,482.97,532.07,0.19,498.26
+2b43b100-13d3-427b-8b22-1f1df216741c,608,Elena,Keelia,2013-01-11,KG,Louisville,2001-01-21,Winifred,Email,359,Canned sausages,310.05,525.07,0.19,466.78
+a617aead-3cbc-41a4-9b9c-8d5adbb155c4,989,Sue,Arathorn,2010-11-10,MX,Brazzaville,2017-10-26,Nariko,Phone,171,Canned sausages,239.8,753.26,0.19,348.12
+0e5075a2-b4e0-464b-9865-89297f80e1f4,738,Lolita,Barney,2002-11-30,DM,London,2023-01-17,Donetta,Email,28,Canned sausages,324,569.85,0.19,444.22
+c327cd2f-aa6f-4b9c-a4dc-1ff18bc2e979,149,Teddie,Kalinda,2006-04-11,AT,Gold Coast,2022-01-21,Nanete,Email,709,Canned sausages,378.05,941.47,0.19,431.89
+c67d15d9-81ba-4e6a-bad4-bff7ef66eace,272,Julieta,Ralfston,2004-12-10,LI,Willemstad,2011-01-22,Lauryn,Email,628,Canned sausages,439.17,812.29,0.19,367
+437af08a-13fa-47e3-9bda-7aab5d60bc33,236,Kirstin,Khorma,2019-04-01,NF,Hilo,2014-01-20,Mariele,Phone,106,Canned sausages,262.84,991.39,0.19,406.89
+b90b63d5-f5ed-491a-9b43-87d18e8047d7,726,Noelle,Rolf,2019-06-03,JP,Bilbao,2012-05-08,Tina,Phone,989,Canned sausages,434.31,616.15,0.19,435.71
+ae79e042-9dc6-44e6-a673-31501dfb727f,153,Ardys,Granoff,2008-02-27,DJ,Ponta Delgada,2017-08-04,Dode,Phone,332,Spätzle,243.09,942.43,0.19,424.93
+a7986951-e509-4e2b-aa14-ac814522c166,988,Elmira,Egbert,2005-02-23,UM,Oranjestad,2017-05-25,Orsola,Email,260,Canned sausages,200.93,504.07,0.19,340.71
+76f86f17-4708-4f0e-81be-0496eb85d897,367,Gaylene,Publia,2017-10-30,ET,Phoenix,2008-02-15,Lynnea,Email,59,Spätzle,329.48,937.61,0.19,490
+29f125bd-a003-4276-937b-d0a0cbc05aa2,305,Dorice,Koehler,2006-08-14,MT,Saint John,2022-01-30,Carlie,Email,503,Canned sausages,428.88,636.59,0.19,348.37
+73f77fc9-8529-4aa2-8fcd-f8b159e5dffa,744,Selma,Halla,2018-07-26,ET,San Carlos de Bariloche,2001-10-04,Anallese,Email,239,Spätzle,260.59,972.78,0.19,476.82
+8702f585-af08-48a5-832b-13696b120f9f,272,Sashenka,Rodmann,2005-03-09,DE,Dublin,2015-02-26,Ashlee,Email,665,Spätzle,417.39,556.64,0.19,301.76
+077d7647-f239-44d8-a4c5-e165ba30970d,560,Maye,Gibbeon,2001-08-22,NC,Maseru,2006-06-30,Minda,Email,346,Canned sausages,241.45,813.48,0.19,392.12
+6dbac380-c588-4d74-9fb0-0d0dfad6dc10,726,Shauna,Valerio,2014-07-16,GP,Louisville,2009-08-11,Allis,Email,399,Canned sausages,405.64,816.52,0.19,441.02
+8c34a49c-1f34-4dcb-91af-dde1cbd22b23,721,Dawn,Linskey,2003-11-08,IO,Washington,2003-01-13,Katleen,Email,614,Canned sausages,371.59,556.72,0.19,365.18
+47b6b26d-c4ef-4417-b54d-ee0d0687942d,793,Damaris,Gahl,2007-04-16,DE,Mwanza,2012-04-10,Helena,Phone,566,Canned sausages,243.74,918.05,0.19,352
+d28fbc63-82cc-48bc-b4c5-e2d60c5bedb3,227,Chickie,Uird,2010-10-14,VA,Managua,2001-10-12,Carree,Email,257,Canned sausages,475.94,916,0.19,388.34
+d945b173-9c73-4110-ae42-a2ecc04684f5,494,Edith,Suzetta,2000-07-26,AT,Hamburg,2004-02-19,Mamie,Phone,562,Spätzle,316.84,992.13,0.19,303.12
+ab2e2a09-c478-476e-ba1a-7ae0df51f6f4,342,Alia,Truc,2019-08-01,MG,Nanning,2018-05-13,Merrie,Email,807,Canned sausages,292.03,558.8,0.19,443.24
+4505b1bf-ea8f-4e09-8ea8-10454d9579f8,573,Tybie,Erlandson,2008-10-09,AF,Saskatoon,2013-03-04,Jany,Phone,10,Spätzle,495.1,861.45,0.19,363.57
+2eee25d4-e9e8-4ac3-aa8c-80106f613272,923,Caritta,Vittoria,2018-12-19,CZ,Managua,2002-09-08,Mallory,Email,890,Spätzle,477.73,977.02,0.19,481.1
+e5160a31-a7c9-42db-b069-b11cd1d24d38,190,Libbie,Jobi,2003-01-19,CO,Providence,2010-05-24,Maridel,Phone,385,Canned sausages,356.46,509.09,0.19,428.89
+1502b275-96d1-4712-9234-1f1e08517d11,337,Rhea,Andrel,2012-02-08,TJ,Mata-Utu,2024-09-13,Demetris,Email,808,Canned sausages,269.53,917.76,0.19,303.88
+2325aa1a-ef86-46ac-a782-96fba7456f56,377,Shaine,Kendrick,2004-07-01,IN,Nagoya,2012-07-27,Carlie,Phone,921,Spätzle,232.87,773.36,0.19,414.7
+1a1acfba-bdb0-4352-bdf8-732e17520f86,682,Isa,Lanita,2013-07-09,GY,Astana,2020-09-15,Coral,Phone,987,Canned sausages,225.52,596.86,0.19,415.27
+694efce4-640f-4b20-aa9e-402e6091d440,298,Vonny,Edison,2023-09-18,BG,Fairbanks,2005-07-24,Aimil,Email,819,Spätzle,276.51,963.03,0.19,341.16
+f5875496-d249-4bcc-bb8d-123a2b04bf1c,968,Minne,Deegan,2019-05-05,TW,Sydney,2006-02-07,Misha,Email,662,Spätzle,367.36,744.04,0.19,355.19
+3e85960c-f108-4658-84c7-818190f6fc07,148,Sam,Iphlgenia,2004-07-25,TJ,Warsaw,2016-01-04,Shell,Phone,799,Spätzle,260.39,607.87,0.19,368.11
+f88da5e4-d948-4729-b1a6-9f2b4e3f48d3,98,Betta,Bluh,2016-12-25,KN,Maputo,2021-11-08,Demetris,Email,673,Spätzle,365.22,970.04,0.19,407.35
+dd5a50aa-6b0c-4f04-b6ce-3ebf6953c245,174,Jemie,Screens,2014-12-22,GB,Nantes,2003-02-05,Gabi,Phone,600,Canned sausages,450.26,630.35,0.19,300.14
+78b41020-9f46-43cb-ab0c-7f01b88afb48,655,Candi,Zola,2005-07-06,AZ,Port Moresby,2010-05-06,Kamilah,Email,234,Canned sausages,302.75,618.01,0.19,416.96
+5be0095f-d629-4875-8f34-72574f5ea23e,203,Gusella,Burch,2009-08-03,TO,Houston,2024-03-02,Nita,Phone,170,Canned sausages,420.92,919.01,0.19,389.91
+4faf8cd7-089e-4187-b869-afb12edcc785,925,Albertina,Clarissa,2015-07-30,VG,Porto,2013-10-25,Nannie,Email,599,Spätzle,243.54,809.57,0.19,409.58
+3797eed8-9fe4-4066-8bdd-ef416656f43a,805,Kaja,Hieronymus,2003-04-18,DK,Antwerp,2009-04-14,Atlanta,Email,265,Spätzle,351.14,927.5,0.19,390.62
+db28930d-9a36-4389-a93a-ae68514efdcf,582,Tami,Valoniah,2019-09-12,GB,Konya,2009-03-08,Quintina,Email,877,Canned sausages,236.59,787.56,0.19,317.86
+2a88dcf3-11a3-45ce-a2b0-70030cc051b4,894,Viki,Luhe,2020-11-27,SR,Cayenne,2008-07-10,Sabina,Email,215,Canned sausages,390.56,686.03,0.19,301.54
+1f5375bd-d4e0-4413-986c-1139b4f02f9a,362,Diena,Bonilla,2014-04-25,GS,Magadan,2015-07-16,Chandra,Email,336,Canned sausages,268.69,842.78,0.19,476.17
+ff9e02d4-94bf-4472-8a84-0561dafc01e0,156,Kenna,Drisko,2004-10-14,IL,Alofi,2016-01-31,Clo,Email,392,Canned sausages,348.25,935.16,0.19,365.46
+72030a38-5059-44a7-b268-090b7de2b280,167,Nananne,Dorothy,2011-10-05,TG,Austin,2001-04-19,Selia,Phone,580,Spätzle,230.72,640,0.19,465.78
+b99e001f-987d-4587-ba8b-ea491d815129,146,Netty,Jacqui,2014-01-31,GG,Barcelona,2007-11-25,Roseline,Email,642,Spätzle,220.39,502.77,0.19,422.18
+ad957a33-0fd7-4fef-8771-9eed81e7f2b8,957,Dolli,Himelman,2006-03-03,EG,Bangkok,2022-06-30,Patricia,Phone,552,Canned sausages,288.53,834.19,0.19,318.24
+3e25acb0-d682-49d6-8dbb-0bc930df6d17,517,Anthia,Thunell,2005-01-12,DO,Port Said,2020-05-16,Shandie,Email,376,Spätzle,215.86,951.66,0.19,406.82
+23579b55-d120-4c55-9cec-230cb09897ee,167,Blake,Joeann,2020-01-27,PY,Raleigh,2006-09-14,Valli,Email,946,Canned sausages,257.09,532.19,0.19,497.5
+ab47c384-29d4-4325-95da-a3d63a7c6f63,207,Ada,Poll,2017-05-04,LT,N'Djamena,2013-05-07,Keelia,Email,860,Spätzle,362.98,635.78,0.19,440.7
+5f5511d0-2d71-4ab5-804c-8262441e3a48,677,Leona,Leopold,2004-12-16,KM,Boston,2000-02-05,Hope,Email,854,Spätzle,250.28,933.69,0.19,443.01
+23bff009-ff95-4c7e-96e4-b4f0eebade4e,910,Michaelina,Lail,2002-12-26,MD,Wuhan,2007-08-07,Nickie,Phone,361,Canned sausages,475.99,523.66,0.19,321.47
+4d812fa0-0cc1-47bf-8344-fd85174afb4f,883,Chloris,Ventre,2006-05-31,KZ,Jayapura,2011-09-19,Kirstin,Email,735,Spätzle,349.17,650.77,0.19,462.59
+d8774ce1-2852-4ce3-b4a3-610785c9e018,104,Willetta,Wandie,2009-02-06,SK,Munich,2016-11-02,Eolanda,Phone,346,Canned sausages,409.05,824.71,0.19,497.49
+9ec567d8-cee5-42c2-86e9-ca4a9e7fb436,875,Jessy,Dorine,2013-03-06,IO,Brisbane,2020-06-08,Ileana,Email,48,Canned sausages,237.69,920.9,0.19,479.61
+e7677c3b-9859-4ff5-bb60-530bc46960a8,471,Gui,Alrich,2012-06-07,FK,Shanghai,2018-09-16,Susan,Email,366,Canned sausages,373.78,785.65,0.19,474.56
+625a5ad7-6932-4c4b-a487-c1ef39b065e5,579,Tami,Klotz,2012-02-05,CX,Shanghai,2003-04-05,Gwyneth,Email,739,Canned sausages,341.67,932.47,0.19,478.62
+b0d6306b-7070-42c9-967e-e7dc027f877f,525,Nariko,Scammon,2000-02-09,JO,Kota Bharu,2014-12-20,Halette,Phone,891,Canned sausages,476.5,718.05,0.19,482.11
+7aeba299-64b9-4d53-8055-027d4f70d526,596,Dennie,Claudine,2012-12-10,HK,Tunis,2001-09-05,Christian,Email,956,Spätzle,472.77,690.78,0.19,383.8
+64495c9a-b1e3-44b2-b10f-1db7d3b61fa0,751,Mireielle,Ethban,2010-01-31,QA,Oranjestad,2002-11-25,Camile,Phone,117,Canned sausages,454.38,559.69,0.19,468.22
+2a7dc0f5-fef1-4975-a01c-8fd0a0ecdbc5,720,Mariele,Kazimir,2001-02-17,AI,San Carlos de Bariloche,2020-01-02,Claresta,Phone,201,Canned sausages,404.63,868.51,0.19,361.36
+8deb14db-fde2-4d69-afa3-bdfd131fc5d9,60,Jsandye,Angelis,2008-06-25,MC,Alexandria,2007-06-21,Heddie,Email,367,Canned sausages,460.96,966.05,0.19,440.01
+2535b5e5-d3d0-4580-a0bd-b23ca5c47786,483,Nadine,Taima,2014-07-18,GE,New York City,2009-01-22,Sindee,Email,400,Canned sausages,313.15,841.32,0.19,426.84
+3f3be871-1aa2-48d0-a1c0-f75dfc43bed5,971,Helsa,Lattie,2022-10-28,SZ,Portland,2023-08-07,Doralynne,Phone,713,Canned sausages,259.25,604.94,0.19,426.1
+9d9b9c6e-c88b-41a7-b833-e7f027ad9743,713,Anthia,Sharl,2011-04-04,TN,Magadan,2018-06-20,Siana,Email,221,Spätzle,451.19,787.56,0.19,390.02
+d1f4ab87-73b8-4626-bba0-8b3dcaa432fd,549,Corry,Melony,2008-12-17,GN,Sacramento,2024-04-05,Janenna,Email,417,Canned sausages,325.99,851.68,0.19,318.01
+dd0e5bf0-5a62-4282-aa01-1ebf1b42a713,34,Corly,Phi,2011-05-24,SN,Kanpur,2023-01-02,Tera,Email,100,Canned sausages,311.69,535.74,0.19,332.54
+4171406d-95fb-427f-8f65-1fc4452a73c0,267,Joane,Gaspard,2019-11-11,VA,St. John's,2018-09-30,Nonnah,Email,556,Canned sausages,434.27,806.79,0.19,445.26
+d08e3f86-dd8f-4734-988a-2e6fdac3feac,184,Kial,Payson,2019-12-30,DK,Hargeisa,2012-03-20,Gilda,Email,956,Spätzle,358.58,613.35,0.19,400.28
+a52efcbe-f212-4378-aa8d-eebcfecf32fd,481,Jaime,Roxanna,2009-01-20,LS,Christchurch,2008-01-13,Loree,Phone,791,Canned sausages,208.04,614.76,0.19,418.36
+8b67979a-923d-446d-a7d5-63155d648918,683,Fidelia,Philoo,2018-10-27,GF,Bridgetown,2018-09-09,Bertine,Phone,310,Canned sausages,320.04,824.74,0.19,344.97
+c3f21423-ec48-4551-80ed-aca9abc92c0f,77,Cassondra,Lynn,2022-10-25,SV,Horta (Azores),2011-04-03,Maisey,Email,240,Spätzle,264.91,714.59,0.19,378.45
+f377a5ca-e520-4c84-9a2a-409ce361c171,387,Chloris,Herrera,2012-08-07,US,Enugu,2006-11-03,Celisse,Phone,813,Canned sausages,278.66,506.93,0.19,334.34
+ac0199ed-7817-407a-98f1-c0dbf873fc91,108,Mathilda,Schwejda,2009-07-26,TN,Marseille,2018-03-29,Brena,Phone,733,Spätzle,387.39,600.71,0.19,385.35
+ee3e9bbe-f615-426e-9cd1-2bdcdff77fb5,463,Frances,Isacco,2013-10-26,JM,Guadalajara,2002-11-01,Sibella,Email,452,Canned sausages,488.16,748.83,0.19,498.81
+fbd523bf-4968-4da9-8d8e-573d7a819db3,624,Tilly,Doig,2013-11-10,AI,Dili,2020-09-18,Meghann,Email,491,Canned sausages,270.46,981.13,0.19,357.3
+75b2b7ea-c0f3-4089-8e7a-99a9186ec3cf,364,Angela,Guthrie,2019-10-26,MZ,Lima,2023-12-19,Collen,Email,298,Canned sausages,350.03,557.42,0.19,418.94
+fb67777b-9275-46a5-8124-da46fe4bb815,313,Donetta,Jerold,2004-05-03,JM,Kabul,2001-08-23,Allyce,Phone,780,Spätzle,310.84,687.01,0.19,324.06
+f896b610-cbfe-4cd5-90c4-ce0092eea0a3,367,Elise,Couture,2003-12-08,ZW,Blantyre,2011-01-26,Vinita,Phone,443,Canned sausages,360.96,914.25,0.19,412.06
+646928fc-bed6-4eec-8470-f156cf8da412,409,Cassondra,Baptlsta,2014-01-24,QA,Kunming,2024-05-27,Bernie,Phone,948,Canned sausages,440.7,888.74,0.19,344.96
+90ac6e51-4e5b-445c-bbb1-ab08a56e63e7,257,Nollie,Deny,2006-05-11,ID,Alor Star,2020-07-05,Almeta,Phone,267,Spätzle,247.2,998.21,0.19,325.66
+42e1efb7-464a-4c7b-9e11-13b7d5f45662,809,Cherrita,Chandler,2002-06-18,SK,Dammam,2013-01-07,Hallie,Email,478,Canned sausages,380.89,939.13,0.19,429.46
+57167fc8-3f0f-4c33-8939-8ee9696e23d2,669,Danika,Rurik,2018-05-13,FJ,Maracaibo,2012-09-14,Celene,Email,677,Spätzle,482.9,977.73,0.19,339.67
+edf13651-e98b-45d2-91a1-cabc6c9563fd,502,Mureil,Wandie,2015-04-14,CH,Ponta Delgada,2004-06-11,Cathyleen,Email,373,Spätzle,489.13,828.22,0.19,373.44
+1d68364d-569f-4cab-87a5-23a053dec694,200,Janey,Sherrie,2004-08-19,AX,São Paulo,2018-06-19,Korrie,Phone,402,Spätzle,367.54,619.66,0.19,458.3
+2c328398-b472-43c8-85e9-6f09855b639d,899,Gusty,Selway,2010-07-26,SR,Port-au-Prince,2019-03-16,Sue,Phone,872,Spätzle,225.02,751.93,0.19,332.45
+0a661cf2-60c5-43d8-beab-f2768579256d,42,Charlena,Ulphia,2009-10-25,KW,Nouakchott,2009-07-11,Sam,Email,242,Canned sausages,496.34,763.87,0.19,388.35
+a466c7b4-684c-44a1-b06c-7aee204b01f8,973,Tilly,Dahlia,2021-08-17,KY,İzmir,2002-10-16,Randa,Phone,322,Canned sausages,276.29,901.16,0.19,486.46
+1d3b9c99-484d-4b8a-b0e8-4bb6f4ee866a,25,Malina,Garbe,2017-01-26,SD,Osaka,2019-08-21,Selma,Email,668,Spätzle,450.24,619.7,0.19,379.12
+c3f79466-77f3-43ac-bebc-d700cf8618be,954,Tybie,Celestine,2010-10-14,IN,Zamboanga City,2006-03-27,Kamilah,Phone,474,Spätzle,376.16,800.05,0.19,338.22
+a715769a-eb0b-41af-a210-f26d79a75a4f,378,Nicoli,Buttaro,2004-10-13,GD,Budapest,2020-12-05,Sonni,Phone,270,Spätzle,432.92,917.93,0.19,481.58
+a7c71c85-bac4-4404-b42b-4d0282e56459,257,Carol-Jean,Brian,2019-04-18,MN,Leeds,2002-02-20,Gwyneth,Email,969,Spätzle,495.53,502.21,0.19,429.5
+a507e0df-d5fd-41c7-b5ae-02b241666893,942,Sindee,Krystle,2007-03-22,DM,Brikama,2005-02-17,Vevay,Email,480,Canned sausages,205.2,817.86,0.19,389.03
+aaee758f-36c1-4b79-bccb-90facdf9957b,832,Pamella,Eugenia,2007-06-29,QA,Basra,2003-10-09,Gilligan,Email,795,Canned sausages,401.46,622.87,0.19,448.42
+8180ce72-951b-47ca-ad7e-f88eeb51dac0,698,Dotty,Radu,2022-05-03,VG,Marrakech,2012-06-14,Lusa,Phone,370,Canned sausages,279,953.79,0.19,476.07
+d03a9b10-8ccb-406a-9e60-3ef6a7ff7dc7,430,Amara,Margarete,2013-12-05,AI,Fukuoka,2019-05-20,Wanda,Phone,354,Canned sausages,316.44,509.27,0.19,359.04
+594904c2-8c3a-4290-a6ee-9964aad588cc,970,Cam,Federica,2008-09-09,TO,Punta Arenas,2009-06-29,Jasmina,Phone,467,Canned sausages,310.26,530.94,0.19,449.35
+594364a4-3c3a-4886-82f4-41a1537ec815,557,Jenda,Wattenberg,2021-01-24,LT,Padang,2008-07-05,Adriana,Phone,251,Canned sausages,453.4,856.22,0.19,441.18
+49af84e2-0c6f-42dd-9ead-18c8d26a892b,729,Elsie,Brenn,2005-11-29,DK,Ibiza,2019-10-09,Roslyn,Email,300,Spätzle,411.5,601.7,0.19,311.65
+2d54e371-6ea3-4cfb-bdb4-9413467d6154,611,Gabi,Quent,2011-06-13,MX,Okinawa,2020-07-13,Fredericka,Phone,484,Spätzle,364.06,636.9,0.19,318.13
+7e28994c-2ff9-428b-a339-fe8d32eacf81,177,Elie,Edmund,2021-07-07,PN,Saint-Denis,2003-03-31,Belva,Phone,660,Spätzle,463.13,927.98,0.19,368.46
+9aea8c0e-cb99-4261-9da2-c4e8b5fe214e,874,Starla,Ardeha,2015-04-11,LR,Providence,2019-06-14,Merci,Phone,502,Canned sausages,489.79,520.99,0.19,300.15
+e2b8964f-a7bc-4026-950d-df831d861296,32,Thalia,Sasnett,2002-06-29,PE,Nanning,2002-12-12,Esmeralda,Phone,847,Canned sausages,346.02,927.86,0.19,309.61
+71956a94-30a3-47ef-ad7a-122a3eb243b3,557,Wilma,Bertold,2024-03-19,UM,Damascus,2021-07-03,Patricia,Email,240,Canned sausages,385.05,853.28,0.19,456.39
+cbb53226-65a7-4f9e-8550-2214f2481bad,395,Maud,Raama,2017-01-21,NA,Huế,2003-12-08,Iseabal,Email,214,Canned sausages,215.42,837.9,0.19,351.55
+55cde7c0-2991-48d5-a26a-122db7f05277,639,Luci,Himelman,2023-02-03,VC,Paris,2015-07-15,Moyna,Phone,742,Spätzle,208.48,685.26,0.19,351.45
+6d9d7ff5-2dd0-4f08-b211-fa2e41a8162d,692,Chandra,Ehrman,2013-04-04,KM,Conakry,2018-03-31,Bertine,Phone,54,Canned sausages,490.66,738.78,0.19,434.36
+94b75c45-b160-41f0-bd07-50e328dfafcd,296,Chloris,Karna,2014-07-03,NA,Espoo,2022-09-09,Leeanne,Email,59,Spätzle,480.73,757.2,0.19,426.29
+37580de3-2b58-4ab7-adc3-e0efd4269bf6,274,Katleen,Tice,2002-08-18,NA,Suez,2000-01-11,Brynna,Phone,353,Canned sausages,250.61,622.86,0.19,374.64
+d441ab03-8226-414c-bc5d-e53178fad44f,573,Julieta,Hedve,2023-07-22,SN,Bahía Blanca,2001-09-02,Catrina,Phone,703,Canned sausages,445.09,795.11,0.19,358.17
+44bcfb41-fca2-4961-a214-8f4dfe9527a1,126,Maurene,Baptlsta,2005-04-13,HM,Cincinnati,2020-08-25,Shauna,Phone,500,Spätzle,353.76,750.64,0.19,414.31
+0bc0e4db-7f6e-4b2f-8fb7-8de63dbe000d,787,Anallese,Joachim,2001-10-11,LS,Kinshasa,2010-05-19,Katleen,Phone,86,Spätzle,301.88,584.18,0.19,412.2
+f42c3fab-ec0e-43be-a820-4873693824d0,273,Myriam,Westphal,2007-12-27,DO,Regina,2001-08-05,Jaclyn,Phone,474,Spätzle,295.12,967.9,0.19,422.5
+06749e32-2d2f-45d2-acf2-cd37fa8aa052,483,Silvana,Calhoun,2009-05-21,PK,Dededo,2000-06-21,Celestyna,Phone,81,Spätzle,255.07,902.9,0.19,401.22
+f3a564df-21f3-456e-b5a7-14efc191ff34,54,Ketti,Kamaria,2022-12-19,GD,Belfast,2003-03-12,Vivia,Phone,600,Spätzle,212.04,797.94,0.19,319.94
+51edc0f3-4212-460c-b6cf-a393258f47e5,437,Marylou,Irmine,2020-05-20,MK,Shanghai,2014-02-17,Steffane,Phone,798,Spätzle,236.69,787.26,0.19,406.01
+6698be35-de24-4be4-b562-d06e065d4532,805,Gertrud,Papageno,2011-06-22,FK,Darwin,2007-04-23,Marcelline,Phone,910,Canned sausages,302.64,954.81,0.19,383.11
+84b13650-e602-4db5-b23a-460b973ee323,73,Karlee,Leifeste,2013-03-21,PW,Ljubljana,2023-03-21,Cathyleen,Email,972,Canned sausages,218.54,876.87,0.19,374.43
+ba48d9a8-0fd5-4c3a-8388-bfcc826ea888,417,Emylee,Lauraine,2023-09-29,AO,Port of Spain,2010-10-17,Joleen,Phone,139,Canned sausages,456.92,704.23,0.19,344.36
+6c3f3bcc-b245-4af6-aca1-e7e9d0f379a9,759,Bertine,Thema,2022-03-19,DZ,Gibraltar,2011-06-18,Gratia,Phone,27,Canned sausages,470.82,963.86,0.19,321.04
+ba573e42-d1c6-4f4a-a263-e3751216aa15,395,Karolina,Goldina,2019-07-05,NA,Rome,2021-10-02,Jorry,Email,233,Canned sausages,396.86,928.31,0.19,334.36
+7d467927-92ea-4b6c-990b-27c374cafe49,521,Janenna,Drisko,2018-04-24,LY,Antofagasta,2010-04-23,Renae,Phone,149,Canned sausages,240.89,953.25,0.19,393.02
+4aa4dfb5-bb19-463b-860a-86356d352a0c,26,Chrystel,Braun,2023-11-26,TF,Chittagong,2018-05-27,Kathy,Email,844,Spätzle,486.28,875.92,0.19,441.56
+4b4c161a-7a94-4003-98a6-8898b08850e1,866,Marleah,Erskine,2007-07-15,LR,Zamboanga City,2011-08-14,Lizzie,Email,692,Spätzle,356.53,736.36,0.19,360.71
+b9bf74d8-9456-43be-a7b3-dcc8e77b26d3,16,Candi,Hewitt,2001-01-04,PR,Udon Thani,2019-08-04,Laurene,Phone,542,Canned sausages,274.3,740.67,0.19,474.52
+d6333ee2-ec08-4d39-95fe-28f1fc8faf3a,646,Clary,Voletta,2022-04-06,IO,La Paz,2023-05-09,Marline,Phone,281,Spätzle,385.84,538.9,0.19,451.51
+4adebce3-3d60-42bc-9cb2-166a3d5cef8b,484,Audrie,Halsey,2019-04-30,SA,Cologne,2020-08-27,Ezmeralda,Phone,899,Spätzle,476.53,855.89,0.19,357.07
+9c2141d8-6a01-4894-ba1d-3cd876388513,712,Willetta,Secrest,2003-01-23,DM,Lobamba,2002-12-18,Calla,Phone,927,Spätzle,490.97,649.84,0.19,341.56
+e865e1df-db6d-4d8a-866a-9d1a8e8ee0af,200,Natka,Vale,2012-08-07,PE,Lucknow,2006-01-04,Aeriela,Phone,145,Canned sausages,277.67,871.89,0.19,389.5
+b9febbb8-42f9-4149-86e9-6bdab49f22e3,267,Hope,Corabella,2001-05-28,CX,Ulan Bator,2022-01-05,Jessy,Phone,728,Spätzle,331.92,875.22,0.19,300.75
+022da371-f15f-4760-8f5d-a552c7e5e06d,100,Eolanda,Vorster,2020-09-14,BV,Milan,2005-06-07,Harrietta,Email,239,Spätzle,394.98,779.11,0.19,331.04
+61de34e9-2208-4c61-b8cc-e624cf42e297,470,Minne,Nadia,2008-02-06,TN,Djibouti (city),2021-08-02,Chere,Phone,966,Canned sausages,466.25,547.13,0.19,420.51
+7fcd241a-9351-4b72-9ffe-3b73c5d6f774,658,Annora,Georgy,2001-03-04,BS,Strasbourg,2010-05-20,Bertine,Phone,373,Spätzle,414.4,514.82,0.19,367.98
+7fe5d769-8f38-4c65-9b18-e34de66d78ef,248,Florie,Leopold,2020-02-07,KN,Hargeisa,2016-05-13,Verla,Email,912,Spätzle,435.37,670.94,0.19,305.98
+f5ad6304-39f8-4928-861a-f2fcb93ce22a,303,Renie,Hilbert,2022-09-12,BT,Malacca Town,2004-02-03,Gusella,Phone,519,Canned sausages,371.59,958.19,0.19,398.15
+2be62e18-4bb7-430c-87d8-d64a0811f9ab,597,Bertine,Buttaro,2004-01-31,VE,Ashgabat,2008-03-14,Gianina,Email,331,Canned sausages,481.37,828.66,0.19,406.7
+daff78d7-53a0-42d7-958b-dd81fe3e90a8,597,Donnie,Martguerita,2009-07-08,GQ,Cleveland,2002-01-13,Selma,Email,830,Canned sausages,412.72,795.09,0.19,452.91
+b37e9c8c-35cc-4262-8de9-4defea277024,969,Maud,Richers,2017-04-07,GG,Mendoza,2011-02-02,Jany,Email,799,Canned sausages,236.6,912.97,0.19,437.49
+81f74d3c-7ac6-4259-a94e-69d9652a8fd5,510,Basia,Vastah,2018-10-19,AW,Beirut,2020-09-13,Sue,Phone,870,Canned sausages,442.89,888.71,0.19,468.94
+baaa5eb9-b708-4835-b0dd-ce1fdbf1469b,731,Melisent,Kravits,2017-12-25,MY,Toulouse,2019-04-28,Libbie,Email,731,Spätzle,248.64,648.51,0.19,328.67
+6e1e1706-f07b-4eba-be1d-7d7b904bf038,860,Donetta,Lowry,2008-07-09,MW,Thessaloniki,2010-05-16,Trudie,Phone,7,Canned sausages,289.5,931.66,0.19,468.92
+484452b2-f9ea-485e-af9e-2e2bfbe84c7c,701,Bobinette,Croix,2015-03-21,PH,Phuket (city),2020-11-21,Doralynne,Email,754,Canned sausages,440.76,992.72,0.19,406.68
+cc0d88fc-2a3c-4d21-bbab-86c0ef7f661c,47,Queenie,Infield,2009-06-14,MX,Gaziantep,2013-06-01,Juliane,Phone,267,Canned sausages,415.24,856.55,0.19,495.68
+9e17f261-030c-4e46-931e-6212a43cf4b6,637,Carmencita,Sammons,2001-12-09,CY,Hangzhou,2014-08-20,Deirdre,Email,173,Canned sausages,423.67,895.4,0.19,450.73
+b78d3d4f-b304-430b-a5ad-bbcf974a5592,923,Roxane,Pip,2011-07-12,CS,Calama,2024-05-19,Laurene,Email,387,Canned sausages,310.36,989.74,0.19,394.73
+ba7fe6c8-5e51-4984-9265-18f877e58527,999,Eugine,Odysseus,2016-09-03,ET,Philadelphia,2021-05-10,Agnese,Phone,142,Spätzle,353.12,857.22,0.19,311.91
+885b5efa-2780-468a-86ec-449446e44acc,159,Talya,Burnside,2020-08-05,TM,Santa Cruz de la Sierra,2017-12-25,Gisela,Email,158,Spätzle,492.51,885.47,0.19,435.41
+af4dfdb3-7449-4516-8e11-292c5a22a232,481,Nananne,Linehan,2018-11-08,BH,Ahmedabad,2006-10-01,Mallory,Phone,93,Spätzle,461.26,932.4,0.19,368.97
+23f0de22-ee40-47ad-9bbc-02224d331cc1,309,Vevay,Pulsifer,2000-08-01,GA,Colombo,2015-08-06,Stacey,Email,376,Canned sausages,488.03,900.71,0.19,487.88
+1cea215d-c12a-43bc-901e-926ec5a53040,973,Sibella,Maryanne,2017-09-04,RW,El Aaiún,2000-10-10,Lonnie,Phone,692,Spätzle,315.99,692.71,0.19,355.26
+4c34c6dd-a489-48af-b26c-ce1d14984c71,467,Ofilia,Swigart,2000-04-06,PA,Santa Cruz de la Sierra,2005-09-22,Trixi,Phone,84,Canned sausages,297.05,547.5,0.19,321.06
+96b22322-07b7-4963-afdc-49aa82e4bd35,84,Nickie,Mata,2001-12-28,QA,Colombo,2015-05-07,Madalyn,Email,39,Canned sausages,272.76,987.85,0.19,348.48
+60a2a048-9815-4c36-88c1-22cefd81640e,63,Elka,Charity,2010-03-28,AU,Amman,2009-08-31,Gusty,Phone,951,Canned sausages,455.6,583.4,0.19,336.67
+8f88bd84-6440-4e2e-8538-04c6533fc054,182,Deirdre,Land,2002-08-05,LV,Porto-Novo,2001-08-10,Danny,Phone,955,Spätzle,439.87,743.08,0.19,306.64
+2fb0144b-b26c-48ea-9e43-6a234800ea5b,515,Sadie,Standing,2005-01-04,DK,Murmansk,2011-10-03,Kimberley,Phone,764,Spätzle,234.71,963.65,0.19,491.26
+74bfc107-5520-4e1f-917a-4548b3cba266,723,Gusella,Destinee,2010-04-21,KE,Newcastle,2009-05-03,Calla,Phone,797,Spätzle,326.17,658.91,0.19,418.11
+d4a09882-f197-4573-b33d-70cd1896326c,138,Marylou,Zetta,2002-12-07,BS,Rockhampton,2009-07-21,Stacey,Email,632,Spätzle,292.85,714.7,0.19,492.24
+14e896fc-3af8-4aaf-993d-bf867637843b,580,Carree,Wesle,2017-07-12,MU,Wellington,2009-09-25,Hallie,Email,471,Canned sausages,373.48,986.13,0.19,389.5
+67a5060d-d3a2-423d-b34c-f61539021f87,990,Genevra,Fiann,2008-02-22,LR,Dongguan,2010-03-31,Kial,Phone,741,Canned sausages,281.77,669.02,0.19,483.62
+e58dee0f-f29c-4048-b056-9ed43b6dc617,433,Randa,Aprile,2010-01-12,MS,Thiès,2001-04-13,Meg,Phone,976,Spätzle,317.64,664.76,0.19,357.92
+37540813-edc4-48f0-97d7-f2fed8627e56,719,Annabela,Adrienne,2019-05-23,PM,Multan,2024-02-25,Cathie,Email,200,Canned sausages,464.05,988.33,0.19,391.65
+a6abe4fc-286e-4cc2-b79e-b538e3e2a061,854,Alia,Newell,2002-04-07,GU,Magadan,2014-02-23,Shandie,Phone,423,Spätzle,235.16,863.96,0.19,496.25
+059c268c-83e1-499e-89a4-f68cc79156d0,606,Sheelagh,Mike,2012-08-14,KG,Ürümqi,2022-03-17,Justinn,Email,417,Spätzle,223.97,638.08,0.19,362.59
+d47f37a7-42c1-4689-8310-2402850d115d,706,Shel,Barney,2003-09-23,SM,Damascus,2012-09-23,Celene,Phone,211,Canned sausages,215.42,662.48,0.19,381.29
+fc8468f1-9d47-46d1-8650-0f9202324b1e,125,Candy,Stoller,2003-04-05,IR,Marseille,2013-08-02,Annora,Phone,488,Canned sausages,365.06,796.36,0.19,323.75
+3ad4eca7-9541-42d2-b76a-449c6b611778,251,Leia,Olin,2022-05-28,CZ,Hamilton,2017-02-05,Marjie,Email,129,Spätzle,267.66,792.4,0.19,448.72
+3fd17f8e-f6c5-4172-99a9-fac5b4d956de,736,Robinia,Fairweather,2002-05-14,PK,Adana,2021-03-05,Ardys,Email,132,Spätzle,264.43,743.83,0.19,375.88
+91f9e052-b1fd-44ee-abbe-d4c502beafa6,589,Dennie,Marisa,2015-10-25,QA,Cairo,2017-12-12,Nita,Phone,818,Spätzle,493.75,654.46,0.19,384.9
+91cfd1ec-8417-492f-b3b2-7403a5b1c477,581,Gusella,Genna,2011-09-03,BR,Lahore,2014-06-04,Addia,Phone,916,Spätzle,322.34,652.9,0.19,365.53
+ae39ca0f-a680-446d-a43f-22b76ca7743b,120,Renie,Karna,2020-12-21,SB,Nouméa,2020-05-07,Dari,Phone,52,Canned sausages,359.52,667.57,0.19,454.22
+6968dd83-ea80-4220-bba1-6016e94f43db,567,Elyssa,Lauraine,2000-01-19,DJ,Hyderabad,2010-09-02,Benita,Email,880,Canned sausages,291.81,976.28,0.19,483.73
+088ed1f5-8f49-4ec5-ab28-e6b98856d1fb,186,Marcelline,Hubert,2006-01-19,RU,Nairobi,2008-06-16,Emylee,Email,198,Canned sausages,396.02,605.22,0.19,494.44
+34c65e87-d7c6-4eab-87be-5d070bdc6a6a,463,Carlie,Granoff,2001-05-20,TO,Tartu,2009-08-03,Nelle,Email,169,Spätzle,311.49,903.81,0.19,341.17
+204b3723-7134-4776-ba38-9cd01b4b4c1f,563,Taffy,Ranjiv,2006-08-04,TJ,Tórshavn,2016-11-01,Rebeca,Phone,735,Canned sausages,296.48,926.11,0.19,389.29
+e53924fb-6f99-429a-8080-1f3322715304,597,Agathe,Bouchard,2017-04-10,MG,Geelong,2007-07-18,Hildegaard,Email,543,Canned sausages,375.88,965.54,0.19,306.24
+fb30700d-3768-4313-a0f3-169974bf864a,579,Rosene,Sekofski,2004-04-11,CO,Samara,2000-12-04,Riannon,Phone,372,Canned sausages,470.1,944.31,0.19,396.75
+d99782a2-b175-4ae0-9872-a9d3a14c2657,563,Drucie,Raimondo,2003-08-23,PY,Belmopan,2010-11-10,Brana,Email,716,Canned sausages,388.36,535.05,0.19,351.41
+f149aecb-fc8b-4ac4-8ad0-5f5261d487ad,248,Chickie,Johanna,2012-04-21,CG,Yekaterinburg,2016-11-22,Joelly,Email,526,Spätzle,267.58,701.35,0.19,389.48
+00199706-73b2-4da8-b971-bd8678dc474f,845,Tierney,Rese,2024-12-28,MQ,Espoo,2021-06-22,Minne,Phone,976,Spätzle,357.19,619.8,0.19,436.7
+54211bb5-029b-4ec1-bc14-e4f2931cdc5e,397,Wileen,Salchunas,2007-01-03,AI,Shillong,2021-08-03,Daryl,Phone,370,Canned sausages,269.2,581.64,0.19,411.64
+3a4cd232-8fd2-4c45-a5ac-20a6ecbb7971,916,Katuscha,Trinetta,2001-07-23,LU,Basra,2011-04-11,Cyb,Email,461,Spätzle,470.61,569.63,0.19,366.4
+a1393959-04bc-4a9a-b7b9-e06fc036b50c,499,Gwyneth,Dalli,2016-04-12,KM,Puerto Williams,2024-03-26,Jean,Phone,299,Canned sausages,499.23,689.21,0.19,315.8
+95b459fd-af64-4521-91af-57c2e50042e1,947,Drucie,Celestine,2021-03-05,NP,Papeete,2021-03-16,Cathie,Email,382,Spätzle,497.08,598.67,0.19,431.33
+93f61bfd-111e-49cb-9c8a-336143296df9,698,Theodora,Bultman,2024-08-24,BO,Tabriz,2003-11-06,Chandra,Email,334,Spätzle,423.6,627.22,0.19,351.64
+4a13ad80-c262-486a-8eb6-9e5d32e1d4bb,691,Sheelagh,Wittie,2010-10-05,ML,Niamey,2005-08-31,Annice,Email,538,Canned sausages,399.78,937.98,0.19,354.73
+1438763e-a747-43ef-bd4e-64d7238e40a9,921,Tori,Koziara,2017-07-22,KY,Riyadh,2014-03-28,Lita,Phone,958,Spätzle,260.05,757.98,0.19,469.62
+af962ca2-98dc-46bb-82b6-135a248a8a8b,114,Alleen,Yorick,2003-06-28,NO,Ciudad del Este,2000-05-26,Ana,Phone,810,Spätzle,422.93,863.09,0.19,374.46
+ae5cfcc6-5084-426f-aeca-5ec7cedb561a,928,Marcelline,Jorgan,2011-10-06,SZ,Chaguanas,2019-06-09,Kassey,Email,591,Canned sausages,470.87,566.1,0.19,431.06
+fd8f4440-18d1-4e9a-ad97-19885d9079a6,759,Nyssa,Cecile,2000-02-16,IT,Ürümqi,2004-04-04,Bill,Phone,37,Canned sausages,238.83,555,0.19,382.53
+b37fd464-4141-4e61-a8d3-75ac7c61cdbf,120,Jolyn,Fabiola,2007-05-13,BO,Pontianak,2005-08-19,Sadie,Phone,849,Spätzle,260.38,649.32,0.19,422.77
+18eee19c-b00a-4067-bde4-ae89420accaa,290,Stevana,Melan,2007-01-05,LY,Bangkok,2007-08-21,Konstance,Email,804,Canned sausages,230.54,893.09,0.19,420.98
+0b08bd10-4278-42d0-8aee-2a69691aeb1d,515,Liana,Atcliffe,2012-07-28,UY,Palembang,2008-03-21,Natka,Email,272,Spätzle,482.75,781.73,0.19,405.31
+81c54405-86af-4f68-a999-f42d3401f47b,651,Kore,Tremayne,2005-03-25,GU,Chihuahua,2000-05-21,Ekaterina,Phone,414,Canned sausages,494.16,555.04,0.19,306.32
+67e13b03-8e13-4593-ae28-cb09617be18f,242,Lexine,Gale,2017-05-28,TO,Málaga,2009-03-14,Sadie,Email,651,Spätzle,482.38,841.02,0.19,310.6
+ad3edd27-f7d7-4b68-93b9-8eb9d950d4bf,560,Daryl,Hurley,2014-08-21,LK,City of San Marino,2020-11-06,Sheelagh,Email,269,Spätzle,326.98,835.93,0.19,431.68
+34b3bf29-bc42-4581-8bf3-d9d462cb97b5,236,Quintina,Bebe,2021-03-02,KY,Dibrugarh,2022-06-28,Madeleine,Phone,225,Canned sausages,328.76,626.9,0.19,315.22
+a0a2e578-84c5-4141-bc88-16433c49b236,435,Lulita,Karl,2001-11-29,PK,Naples,2003-07-28,Jemie,Phone,454,Spätzle,390.44,546.6,0.19,394.01
+5eb2aa7c-0b23-45ab-94ad-b56cc1c6e838,2,Jenilee,Atonsah,2005-09-19,EG,Libreville,2005-12-19,Ebonee,Email,665,Canned sausages,261.71,557.01,0.19,360.88
+d2d8659b-8c2f-4c27-9c31-9c847aaee38d,886,Gratia,Richers,2013-01-22,TG,Kuwait City,2019-03-08,Max,Phone,22,Spätzle,489.97,501.38,0.19,477.51
+f7f664ff-2ac8-46d4-b643-4736423b249b,722,Tani,Brodench,2018-12-22,TT,San Diego,2015-12-12,Ruthe,Email,627,Spätzle,298.85,858.52,0.19,372.41
+50c7c726-d8dd-4de3-b4da-d724392df533,304,Mahalia,Ajay,2012-02-06,SD,Phnom Penh,2008-01-11,Correy,Phone,739,Canned sausages,309.98,960.22,0.19,369.19
+59a71f3d-47a4-4e81-af8e-de24ebf2e4dd,223,Allis,Blisse,2006-12-04,CC,Sacramento,2007-11-08,Sara-Ann,Phone,798,Canned sausages,200.81,777.55,0.19,348
+523d667b-7128-44a8-9f30-22cffbdc232a,901,Ulrike,Garbe,2009-10-11,IN,Lima,2006-12-16,Flo,Phone,234,Spätzle,441.38,953.69,0.19,320.33
+5d81dab0-bab5-4d6d-85a6-9335a1b7da42,415,Zsa Zsa,Lissi,2014-12-02,AD,Budapest,2022-10-23,Trixi,Email,350,Spätzle,324.4,511.29,0.19,304.08
+2adca678-0c40-46f8-8db2-1a79c87ab949,96,Zsa Zsa,Fink,2014-04-18,ML,Punta Arenas,2006-03-30,Florencia,Email,586,Spätzle,213.09,795.55,0.19,399.96
+92e1e73c-a2d7-4fe4-8729-8a7eeb1d57c1,71,Daphne,Germann,2004-05-04,IT,Dunedin,2021-11-16,Sidoney,Email,690,Canned sausages,428.2,615.87,0.19,402.52
+88b6adf7-4bc8-4400-86fb-1f34eb59ccbf,120,Lisette,Dorine,2016-09-21,MP,Mersin,2016-05-06,Bettine,Phone,877,Spätzle,230.13,595.57,0.19,331.91
+93b0c71e-ffc9-4e86-9392-15e2ec4c53a1,803,Moyna,Anyah,2010-01-28,MY,Tunis,2003-08-29,Taffy,Phone,678,Canned sausages,445.39,691.91,0.19,364.17
+acc1cf79-94bd-468f-9e27-61c3f38352fb,646,Magdalena,Fulmer,2010-06-04,TR,Roseau,2024-02-06,Maridel,Phone,215,Spätzle,253.35,607.51,0.19,358.8
+7c2be261-d7c1-49d4-bbbf-630d92b9a107,903,Jacquetta,Buffum,2010-08-03,NG,Quito,2017-03-23,Thalia,Phone,241,Spätzle,203.15,611.48,0.19,343.91
+4a488014-630c-41ef-ad50-328bf4cb5e16,103,Merrie,Sekofski,2015-03-22,HK,Harbin,2002-04-02,Adele,Email,568,Canned sausages,454.76,610.13,0.19,462.2
+7c69e30d-9f02-49f0-8796-3882f27ad064,632,Dari,Pascia,2005-07-02,SA,Gothenburg,2020-12-08,Shaylyn,Email,430,Spätzle,356.42,980.89,0.19,342.65
+39402370-1414-476e-a875-e578602add1b,797,Dawn,Mintz,2017-08-28,VA,Chuí,2016-06-19,Abbie,Phone,925,Spätzle,477.84,867.89,0.19,382.08
+1131206e-b06e-4797-a7b0-0777332f55bf,546,Heida,Ammann,2014-10-19,GE,Winnipeg,2003-10-15,Lily,Email,117,Spätzle,336.02,956.07,0.19,477.89
+3b090059-3d6f-4639-b051-baee2e533e1b,958,Luci,MacIntosh,2006-12-13,RE,Pattaya,2024-01-14,Tina,Phone,286,Canned sausages,209.16,921.11,0.19,464.69
+9e35cda0-eda0-4b2c-8fa2-368fd36431f8,279,Merry,Carolin,2023-03-27,TN,Yakutsk,2012-02-19,Brandise,Phone,611,Canned sausages,248.39,635.59,0.19,427.09
+3b2b3817-67df-4fd1-874b-8de5a6bdf93e,82,Siana,Terencio,2008-07-12,TD,St. George's,2003-04-07,Deloria,Phone,316,Spätzle,461.69,750.49,0.19,396.78
+777ad8a3-f43b-475c-8f06-762bc8df42f2,443,Norine,Goerke,2010-07-03,MT,Brasília,2020-10-02,Nollie,Email,573,Spätzle,201.39,558.45,0.19,416.56
+3d235641-bf3f-4e23-b0ab-5ab1b4142738,243,Atlanta,Ellerey,2020-05-02,MS,Albuquerque,2001-12-09,Gabriellia,Email,639,Spätzle,306.84,593.85,0.19,487.26
+5bd71423-77de-4fd1-bcfe-615aa72f73ff,308,Charmaine,Kenwood,2024-09-12,HK,Konya,2016-04-12,Myriam,Phone,21,Spätzle,416.93,876.83,0.19,485.15
+8efe96f8-e920-42df-b774-27eb40f6823a,629,Rayna,Cohdwell,2021-01-27,BY,Mata-Utu,2009-08-05,Caryl,Phone,792,Canned sausages,235.09,563.22,0.19,306.01
+cfea79a4-02f7-4c3f-98cd-8c2835267197,252,Candi,Dominy,2021-11-16,PG,Shenzhen,2006-04-25,Pearline,Email,288,Spätzle,436.53,902.34,0.19,431.1
+5ad41229-f6d0-4c07-8eac-118a6b16ef28,361,Lenna,Peonir,2021-01-24,AI,Sana'a,2010-12-09,Josephine,Email,484,Spätzle,336.27,723.96,0.19,498.4
+0c0e06e3-6872-49a3-834b-43d9f66a9e4c,675,Jenda,Hashim,2001-05-05,BN,Norilsk,2003-08-27,Ketti,Phone,778,Canned sausages,291.67,889.66,0.19,312.96
+5224a907-6825-4bd8-9e6f-a0aabbe46508,610,Tonia,Avi,2012-08-04,AI,Atlanta,2023-07-23,Babita,Email,213,Canned sausages,250.79,662.92,0.19,483.71
+3a62b699-743b-45a7-9cf5-4a56a28d57e9,262,Shandie,Glovsky,2004-09-25,AM,Willemstad,2007-03-20,Alisha,Email,647,Canned sausages,245.38,754.97,0.19,448.24
+ab8b6b90-3d09-49e7-873a-c89b7e223147,949,Esmeralda,Goode,2019-12-09,MK,Denpasar,2020-01-22,Allyce,Email,270,Spätzle,413.37,988.96,0.19,378.14
+2def6ca1-5c8e-4adf-88fa-bdf325c16f13,662,Atlanta,Berard,2018-11-13,BR,Riverside,2022-12-21,Aigneis,Email,371,Spätzle,465.05,776.63,0.19,392.52
+29c2a818-16d0-48ee-99af-d96bad20feca,103,Zaria,Chabot,2019-09-15,BH,Handan,2016-02-04,Berta,Email,413,Spätzle,332.61,688.5,0.19,461.38
+8ef95085-2149-47c3-8f72-50d800b4c5e7,80,Cordi,Emanuel,2018-06-16,IR,Vitória,2023-12-02,Marylou,Phone,385,Spätzle,450.43,576.13,0.19,361.23
+0b9a349a-bb1c-4405-95cf-12c9bfc9cf6a,311,Dolli,Tayib,2014-01-23,MR,Thessaloniki,2022-06-15,Latisha,Email,182,Spätzle,239.06,859.21,0.19,331.98
+df635f1c-75a8-4429-aa93-76a2fb8b5490,559,Chastity,Cosenza,2011-06-20,LY,Manzini,2020-01-17,Angelique,Phone,136,Spätzle,379.61,906.43,0.19,379.73
+42226cea-1acd-47df-bbea-9d79a0c4c950,879,Bobbi,Arne,2013-10-20,KP,Greenwich,2014-07-25,Nollie,Phone,998,Canned sausages,271.04,964.41,0.19,316.95
+97f67ff8-4cda-4b41-9932-cc3bc8f21ed6,707,Agathe,Si,2002-10-13,LC,Kunming,2012-04-25,Elena,Phone,942,Canned sausages,408.16,586.09,0.19,343.04
+82b400a3-690a-4c54-badc-ad0663ae8bea,793,Janenna,Jerold,2017-03-28,PA,Liverpool,2024-11-19,Tami,Email,172,Spätzle,386.43,675.13,0.19,360.4
+1c2125ed-4fd2-4030-9b88-9f0fb6e512d5,497,Clary,Kendrick,2012-04-03,MV,Santiago de Cuba,2013-04-23,Roberta,Email,575,Canned sausages,281.9,503.28,0.19,336.38
+7bd6b9c6-5222-4cc0-9a4f-dcf8f63812f7,811,Yvonne,Liebermann,2016-06-14,GQ,Pune,2014-12-24,Imojean,Phone,403,Spätzle,214.38,798.23,0.19,346.29
+59ab1982-c0a1-440b-8415-3342664ca8ec,694,Paule,Valerio,2020-04-20,MV,Luxor,2002-06-10,Winny,Email,428,Spätzle,424.26,925.41,0.19,338.01
+c2950867-e0d5-47d5-902d-7b1a45393ce7,812,Clo,Gavrila,2023-08-31,CS,Antwerp,2006-05-24,Barbara,Email,60,Spätzle,402.83,714.35,0.19,353
+b80e6bbc-72ec-4979-a916-79177f1d0a83,882,Karina,Tiffa,2020-09-26,AG,Vilnius,2019-04-15,Trixi,Phone,978,Canned sausages,279.59,645.52,0.19,438.97
+50c77bbc-f1f2-4f98-8184-d2a2e061dd8a,536,Celene,Old,2001-03-18,RW,Los Angeles,2011-12-17,Averyl,Email,887,Canned sausages,295.97,898.42,0.19,349.05
+7b65c269-2ddb-4675-9f66-34ad4f5f71e0,560,Marnia,Weaks,2004-09-11,GE,Bergen,2020-04-07,Carolina,Phone,495,Spätzle,369.81,513.8,0.19,306.76
+28c0f203-fb35-4cfe-b1bb-f32abc8910d4,859,Pearline,Edvard,2019-05-01,US,Memphis,2019-07-30,Harrietta,Phone,770,Canned sausages,302.67,955.07,0.19,338.95
+ffd92a27-39ca-4992-9a2c-476e9c37c834,130,Lynnea,Munn,2009-10-01,AZ,Jersey City,2024-08-10,Deloria,Email,644,Spätzle,259.27,954.24,0.19,485.24
+ca6dedf5-7bd0-40f9-a32f-9819a368fd88,399,Eolanda,Leifeste,2021-01-30,NR,Cairns,2000-05-06,Carree,Email,179,Canned sausages,419.84,827.63,0.19,317.23
+de97e1bd-681b-4129-a362-3a9f26fec5aa,618,Rayna,O'Rourke,2002-01-04,BG,Valletta,2016-03-23,Corina,Phone,577,Spätzle,460.14,916.66,0.19,440.42
+5c84924f-cf98-4f82-b13a-81a60d2d3731,967,Ezmeralda,Gualtiero,2020-07-23,RU,Bucharest,2009-04-12,Ernesta,Email,786,Canned sausages,314.94,827.52,0.19,452.17
+fd436f18-5613-4d4a-a2a3-4bace8ada9c7,913,Anallese,Hurley,2013-11-13,US,Busan,2008-08-30,Joelly,Email,616,Spätzle,249.23,664.71,0.19,490.63
+2153060a-d103-4981-823e-0b509735f517,331,Corene,Gemini,2003-09-06,SV,Nassau,2006-06-10,Amelia,Phone,488,Canned sausages,289.45,838.8,0.19,498.58
+9bd59158-a020-45fa-b7ab-a434de03c2a5,620,Kassey,Darbie,2005-02-10,KG,Gothenburg,2009-01-09,Charlena,Email,261,Spätzle,300.75,993.16,0.19,429.43
+ecc08eba-436c-465a-a826-5089da0615e3,349,Wendi,Astra,2006-06-13,MY,Hyderabad,2016-11-12,Cyndie,Phone,103,Spätzle,494.39,830.36,0.19,365.32
+27f266e9-c2a8-433b-b421-84cc535e6835,221,Lusa,Wolfgram,2016-02-01,LT,Abu Dhabi,2014-02-15,Myrtice,Phone,466,Spätzle,372.66,982.95,0.19,451.78
+2aa5d40d-9b44-4cb0-8808-f798b1a94076,85,Karena,Donoghue,2000-11-10,GQ,Rotterdam,2002-02-02,Demetris,Email,60,Spätzle,441.81,771.59,0.19,492.07
+c97c538f-f22a-4fd9-ab65-ea85ebabd364,153,Cristabel,Longfellow,2007-07-22,SK,Makassar,2015-11-18,Arlina,Email,516,Canned sausages,422.31,843.1,0.19,396.68
+9f84931f-cdfd-4280-81ac-16a6212c30aa,49,Karina,Andrel,2012-08-18,BS,Fredericton,2019-06-27,Evita,Email,72,Canned sausages,281.74,791.73,0.19,391.34
+2336c638-1a07-4a48-8910-08be7fe59a5f,27,Alia,Liebermann,2015-04-23,AW,Bridgetown,2017-01-18,Melisent,Phone,919,Canned sausages,454.16,939.1,0.19,311.23
+4bca0cf9-086f-4122-8d17-54a1d2090d9f,845,Anthia,McNully,2008-10-26,SN,Montreal,2002-11-30,Chloris,Email,809,Canned sausages,412.3,837,0.19,344.89
+27372c47-f714-4841-a094-ee4d9e7933b3,765,Deirdre,Mich,2012-10-04,PH,Portland,2016-07-05,Millie,Email,524,Spätzle,493.18,513.82,0.19,427.66
+a5fbd402-3b7f-4803-8521-5f94685fb7c2,96,Gloria,Orlene,2004-05-28,PF,Shillong,2024-08-30,Sallie,Email,98,Canned sausages,281.41,787.63,0.19,311.51
+895d5cea-ba2b-42f6-9177-a0f43c5b4bae,439,Marcy,Natica,2013-04-05,SN,Thessaloniki,2018-08-08,Neila,Email,424,Canned sausages,324.46,734.61,0.19,461.8
+a62c7896-9365-4b0e-9bd9-abc1c9982a41,842,Dolli,Cressida,2009-10-18,HN,Campo Grande,2017-07-27,Carolina,Email,658,Canned sausages,309.17,857.79,0.19,468.79
+15ecab4c-fa82-48b9-852b-d5f69908319d,291,Trudie,Beebe,2023-06-25,TT,Amsterdam,2012-05-06,Drucie,Phone,742,Spätzle,289.89,882.76,0.19,402.4
+a713b96e-fbc5-4408-815b-7022998476e0,576,Candi,Velick,2006-12-02,PR,Tianjin,2010-06-16,Zsa Zsa,Phone,516,Spätzle,329.5,693.66,0.19,437.19
+b6044b94-8ca1-41e8-a481-36b3daee52e2,445,Gwyneth,Reinke,2012-01-21,LY,Almaty,2004-04-19,Ursulina,Phone,427,Spätzle,367.06,552.86,0.19,492.43
+4fa54b23-c0d3-43ad-abf1-1bce7291de09,961,Celisse,Dex,2009-09-16,FI,Cusco,2023-03-01,Ninnetta,Phone,75,Canned sausages,409.48,837.88,0.19,354.75
+7c9b1978-0a6a-417f-976c-f99d10ed77e3,629,Fredericka,Nerita,2006-04-01,IE,Bangkok,2010-01-12,Evaleen,Phone,689,Canned sausages,272.23,759.54,0.19,435.99
+b54232d8-3443-495e-8a40-692b7cefed35,738,Audrie,Llovera,2008-12-04,GH,Bamako,2001-09-20,Rhea,Phone,490,Spätzle,256,765.3,0.19,330.03
+9d72ad31-4382-49a8-ac0c-dd2894064c20,41,Annora,Roxanna,2023-08-08,TG,Nouméa,2011-06-06,Gavrielle,Phone,121,Canned sausages,476.33,918.31,0.19,418.66
+7fdb1122-3c99-41fa-ac02-c6f34ddbed43,234,Aurore,Hull,2017-03-13,DZ,Madrid,2010-07-19,Modestia,Phone,649,Spätzle,364.82,848.49,0.19,386.58
+6ee9fe4e-6ea6-4c39-bc0d-8153b7726f74,744,Ivett,Kylander,2001-04-13,DK,Gaborone,2001-11-09,Fanchon,Email,682,Spätzle,299.7,894.71,0.19,354.32
+54b99cd4-321d-48f6-8eba-64d3791f3c96,609,Rayna,Garlinda,2008-12-20,SN,Sydney,2009-02-25,Nickie,Phone,194,Canned sausages,203.87,897.06,0.19,361.59
+d961f9b8-af40-47af-a427-cba7d7f8956f,82,Winny,McNully,2007-10-26,TF,Harare,2006-07-14,Stephanie,Phone,512,Canned sausages,395.83,647.93,0.19,412.95
+d80ed992-8ac2-4ca6-85e2-a76f37cd8966,155,Tiffie,Georgy,2014-07-29,NP,Budapest,2016-04-22,Collen,Phone,460,Canned sausages,329.3,954.52,0.19,490.28
+600ba180-6a95-4a51-ba25-56369842ab70,383,Netty,Ammann,2002-12-01,DE,Balikpapan,2005-11-01,Eadie,Email,760,Spätzle,235.58,760.3,0.19,364.42
+9f4dbb1b-9e2d-463b-99c8-78be65daa846,692,Rebeca,Rooney,2021-02-03,MM,San José,2024-04-23,Dacia,Email,748,Canned sausages,291.21,900.71,0.19,435.04
+1a28b14c-0047-43d6-a2eb-c93dde201813,435,Joy,Quinn,2023-05-30,UM,Taichung,2009-06-05,Lusa,Email,904,Canned sausages,297.23,831.26,0.19,396.9
+fab19604-ba82-4eda-857f-7fa466fba046,96,Luci,Dorine,2008-08-23,KE,San Salvador,2014-07-10,Collen,Email,112,Canned sausages,258.09,676.23,0.19,384.26
+5ec09288-48c0-4ecc-b4dc-322ed45f3900,221,Elora,Sheedy,2008-03-01,MW,Tunis,2009-10-06,Madeleine,Email,239,Spätzle,416.23,955.96,0.19,449.25
+34fa707d-bca4-4838-94f5-50244fd2e220,199,Marsiella,Earlie,2001-10-15,AL,Frankfurt,2001-05-31,Marika,Email,702,Canned sausages,346.46,554.83,0.19,388.45
+9a7b8c28-9ce3-4490-a01e-5fc3147cd9b0,603,Althea,Buckler,2010-03-26,CZ,Sana'a,2002-01-20,Tera,Email,440,Canned sausages,321.87,519.07,0.19,353.4
+62aa024d-c23e-47fa-a40d-caccc0548cd4,739,Yolane,Emerson,2014-09-20,BI,Jeddah,2006-03-04,Merci,Email,88,Spätzle,353.95,711.75,0.19,459.25
+cb529162-c371-419a-be57-0c274da3d7bf,268,Henriette,Pip,2002-02-04,YE,Mandurah,2003-12-07,Fidelia,Email,360,Spätzle,427.25,691.96,0.19,457.69
+b43eadee-580c-4a9c-819d-e32ec8bc722c,509,Valli,Zola,2005-12-09,NA,Jakarta,2005-04-08,Gretal,Email,762,Spätzle,483.07,705.41,0.19,310.46
+c32fa439-892c-4085-a9f7-cbc9131e4bff,775,Annice,Hepsibah,2019-11-10,AQ,Port Hedland,2006-06-21,Margarette,Email,465,Spätzle,252.66,702.95,0.19,462.38
+d12f6f40-859b-428d-9c6c-ecdebda89c1f,457,Carly,Lamoree,2015-05-10,GD,St. Louis,2002-12-19,Xylina,Phone,734,Spätzle,286.59,529.53,0.19,415.9
+08dc274b-c25d-44b1-9077-8d06f37f5090,788,Jolyn,Raama,2022-01-12,GR,Gold Coast,2024-06-10,Catrina,Email,255,Spätzle,314.92,898.2,0.19,446.48
+fd4c42ff-f2a5-4e54-a8e6-e010f333de87,648,Suzette,Greenwald,2021-06-14,IQ,Karachi,2002-02-07,Frances,Email,583,Canned sausages,262.21,906.54,0.19,486.8
+9f0ba08b-8e60-4fd9-acfa-be4637fa0d8d,558,Laurene,Friede,2003-03-27,CY,Philadelphia,2007-01-25,Alie,Email,786,Spätzle,217.59,722.23,0.19,458.67
+8cc15189-c4d9-479c-8824-5b4e685cdb33,667,Lisette,Ruvolo,2023-09-02,JP,Belgrade,2006-04-21,Laure,Email,248,Spätzle,241.24,771.85,0.19,318.71
+9c15efe3-5a9e-4050-a6c9-004e56a63a93,996,Clo,Latini,2005-04-09,AD,Hamburg,2004-01-30,Janey,Phone,965,Spätzle,301.17,923.71,0.19,419.24
+76265c7e-8c3d-44e5-9910-08453f3f9004,617,Gianina,Jacinda,2024-08-22,GP,Lhasa,2023-04-26,Magdalena,Phone,442,Spätzle,228.59,801.14,0.19,356.02
+8e025a4b-04cc-4e5e-a070-4bcee34ebda8,370,Tonia,Jehu,2000-06-30,PE,Charlotte,2006-05-12,Bobinette,Phone,323,Canned sausages,219.92,540.72,0.19,471.26
+4fee2a26-0642-4d15-bdf8-c2eaac751ab7,781,Nessie,Kinnard,2001-10-23,PK,Campinas,2011-12-11,Stephanie,Phone,839,Canned sausages,276.84,708.67,0.19,424.52
+2fc325fe-815d-4142-b2e1-6cb1601f61b3,385,Tarra,Joachim,2021-08-11,MK,Port Said,2019-11-08,Kittie,Phone,235,Canned sausages,333.29,581.04,0.19,428.29
+8b0c7374-19b2-4ac7-beee-4be78bce0316,330,Madeleine,Kolnick,2010-10-22,NE,Nantes,2020-09-16,Kara-Lynn,Email,368,Canned sausages,221.55,558.45,0.19,366.04
+e8866f80-6dfd-4957-bf99-93de9144cf45,813,Lusa,Garlinda,2022-03-01,CI,Nantes,2008-01-25,Blinni,Email,523,Canned sausages,344.08,851.81,0.19,312.66
+d2814568-0811-4303-b18f-6352e5006bcf,53,Berget,Willie,2013-12-25,JO,Cincinnati,2005-02-10,Shauna,Phone,921,Canned sausages,306.98,788.63,0.19,407.12
+443b9cc9-52f0-4e86-85ed-ec41219dedfd,470,Karena,Carolin,2020-08-22,HU,Punta Arenas,2023-02-23,Consuela,Phone,849,Canned sausages,298.03,548.45,0.19,308.14
+d18b0e39-71bf-493a-bd1d-60c5ac86fc26,911,Alyssa,Sophronia,2020-02-17,GW,San Francisco,2008-05-31,Jessy,Email,951,Canned sausages,213.62,940.17,0.19,435.96
+4251ca7b-cbb2-4683-9a54-c6be75bbeaee,820,Lizzie,Karl,2017-01-01,SV,Handan,2024-11-03,Daphne,Phone,82,Canned sausages,328.83,874.18,0.19,393.66
+ffe26f06-fbc4-4dac-ae42-5ef02fdff7ff,282,Rhoda,Billye,2002-02-22,GF,Dili,2014-07-12,Jaime,Email,513,Spätzle,488.38,961,0.19,488.42
+0ade6500-02d3-4a93-8deb-262479a462c6,445,Zondra,Louanna,2011-04-01,LR,Los Angeles,2016-07-11,Anthia,Phone,238,Spätzle,436.29,534.64,0.19,402.81
+734fda20-1562-4310-8253-fc999453369b,360,Marline,Diogenes,2001-04-15,IO,Porto Velho,2020-07-05,Caryl,Phone,601,Spätzle,354.64,711.59,0.19,338.29
+51b9b334-49c3-40b7-8a16-f1161e3d9e5f,789,Kelly,Gregrory,2016-05-02,VU,Dubai,2005-05-31,Lynnea,Email,920,Spätzle,480.75,841.16,0.19,435.31
+889df32a-0fcf-4824-8f74-3ab6e47189ce,265,Corene,Mehalek,2010-02-05,TM,Taiyuan,2001-04-15,Darlleen,Email,839,Canned sausages,422.53,965.76,0.19,369.71
+03f4f494-697e-4cbe-a35d-be0ed99092cb,533,Gianina,Rogerio,2000-05-27,VA,Astana,2003-05-25,Elie,Phone,790,Spätzle,380.98,874.91,0.19,325.45
+71112ad3-608d-4991-ab32-d6c4b3eed8f4,671,Miquela,Frodi,2001-11-28,GW,Qingdao,2006-02-19,Nonnah,Phone,461,Spätzle,309.2,873.34,0.19,350.99
+0c5dc3f3-9357-4be2-9dda-0d2c1daa8c22,303,Jolyn,Dielu,2010-10-23,KI,Johannesburg,2012-03-11,Paule,Email,589,Spätzle,220.35,623.75,0.19,466.76
+491a698d-c28e-4da6-bae0-8a45ecab5502,504,Tobe,Payson,2004-05-22,PY,Gangtok,2001-05-16,Amara,Email,115,Spätzle,410.61,870.68,0.19,461.76
+257f3af3-7e02-40b4-830b-d2c0faf1313a,260,Bernie,Maisey,2007-06-03,UG,Jinan,2006-10-16,Steffane,Email,669,Spätzle,358.27,588.37,0.19,370.31
+247e5e2c-ec50-4413-b24f-b7fb72a4955e,461,Aubrie,Tomasina,2012-12-29,LU,Sucre,2010-07-05,Frank,Email,691,Canned sausages,320.59,972.61,0.19,318.02
+d34647a5-981a-4fb9-897f-931369709f71,972,Sue,Delacourt,2020-08-23,QA,Majuro,2001-01-23,Kerrin,Phone,520,Spätzle,354.55,718.46,0.19,481.83
+52b25bf0-e9d3-4fcc-8ff5-cab1a2401cc2,321,Daphne,Terrence,2019-06-02,KE,Riverside,2010-12-20,Marguerite,Email,3,Canned sausages,380,710.84,0.19,395.56
+29a9cf40-c36e-4d04-a6cd-7263aa708b06,825,Nerta,Penelopa,2004-08-25,BH,Podgorica,2021-07-21,Betta,Phone,358,Spätzle,381.55,942.42,0.19,337.99
+782fb729-6aa5-4a71-a301-dad4eafa90e6,255,Averyl,Grimbly,2000-08-16,PS,Kingstown,2007-08-11,Doro,Email,423,Spätzle,444.43,737.53,0.19,434.78
+9eb2db34-25c2-43d1-a2d3-6ac179a5e65f,915,Elfreda,Chandler,2021-12-06,JM,Wellington,2011-12-13,Pamella,Email,562,Canned sausages,427.62,892.49,0.19,439.79
+9126c0d9-2a7e-4718-af0a-4861d1e2c5dc,486,Tersina,Uund,2000-03-06,AW,Naypyidaw,2014-12-26,Lexine,Phone,769,Spätzle,441.4,643.38,0.19,442.41
+6d6bd014-c863-4f74-a135-b2382a38eb2d,993,Glenda,Myrilla,2016-01-01,IO,Cairns,2009-01-14,Berget,Phone,157,Spätzle,414.38,711.41,0.19,410.55
+c56c5b98-1588-4119-8510-45383601cf4c,118,Yolane,Alcott,2024-02-19,UA,Quito,2008-06-02,Ayn,Email,156,Spätzle,500.92,939.04,0.19,401.95
+60b02e27-1e21-4c9e-8b71-386b5c3ee877,735,Tobe,Ventre,2013-01-07,BT,Santa Cruz de Tenerife,2017-10-12,Lita,Phone,272,Canned sausages,384.77,550.07,0.19,374.7
+b3c6150e-eda1-42d6-ba30-65b3282715bb,913,Michaelina,Pulsifer,2009-05-17,HU,Surat,2018-03-21,Verla,Phone,826,Canned sausages,413.72,672.3,0.19,416.82
+e38d0430-b22c-4688-8a14-87ca37a3cdee,542,Allis,Larochelle,2004-05-08,GH,Islamabad,2000-10-07,Fernande,Phone,26,Canned sausages,214.42,985.23,0.19,403.12
+069d68f9-d234-42e1-8cb3-46d7670fd27c,530,Elvira,Stuart,2001-07-27,AN,Qingdao,2006-04-08,Trudie,Email,380,Spätzle,480.23,832.81,0.19,303.25
+9d525946-231f-4130-8f2b-c030a5ca269f,369,Daphne,Paton,2023-04-02,MW,Fortaleza,2021-11-20,Deloria,Email,635,Canned sausages,300.44,887.15,0.19,365.84
+d08f2aaf-7167-4732-97f7-d1a343d35df4,717,Ethel,Means,2016-06-23,DK,Oklahoma City,2018-01-29,Annaliese,Phone,444,Canned sausages,466.86,850.32,0.19,359.29
+cc25be82-ae4e-42cb-b493-ca177fe3525b,857,Lita,Granoff,2020-08-05,TW,Saint-Pierre,2012-12-10,Elbertina,Phone,508,Spätzle,407.9,937.69,0.19,322.59
+b2ffe6d1-c442-4755-9133-477995eeeaa8,420,Carmencita,Ries,2005-05-22,TN,Mandurah,2021-08-24,Mara,Email,210,Canned sausages,299.08,669.13,0.19,379.9
+a752ce3c-3a4b-4eb5-bc49-474495221b2c,697,Yetty,Nickola,2011-05-10,PW,Amsterdam,2010-08-17,Dorene,Email,19,Canned sausages,393.46,527.62,0.19,435.03
+0f4c3496-4f06-4758-b942-9045b647b7b3,468,Phylis,Thilda,2020-11-13,KZ,Huế,2018-06-21,Ermengarde,Phone,392,Spätzle,477.57,722.94,0.19,451.83
+669ccbfc-4392-4c96-9a5b-4f9f3b164469,364,Tybie,Gwenore,2020-04-29,SN,Shillong,2002-07-22,Fidelia,Email,326,Spätzle,383.31,841.02,0.19,480.61
+eed31586-4647-4156-8d37-d6c3c4e1959b,24,Josephine,Ursulette,2010-03-01,SC,Da Nang,2004-11-11,Felice,Phone,937,Canned sausages,324.33,557.76,0.19,323.84
+1926c4eb-ec50-49d5-804b-78f96a1500a7,962,Yolane,Blase,2018-01-11,CL,Moroni,2022-10-29,Candy,Email,637,Spätzle,464.51,888.94,0.19,375.79
+969aaa76-b965-4f85-b6b4-249efaafc631,893,Caryl,Naashom,2010-07-09,ES,Nassau,2002-12-26,Max,Phone,567,Spätzle,331.6,790.79,0.19,347.57
+e30ffe58-79f2-4366-8797-ee494c5593c0,17,Deirdre,Ariella,2017-11-17,PY,Maceió,2011-10-05,Ernesta,Email,936,Canned sausages,278.92,515.76,0.19,482.64
+07c047fc-7cbd-402f-9bbc-ab66308fbf2d,97,Althea,Nedrud,2015-12-20,IE,Tijuana,2006-01-19,Lusa,Phone,132,Canned sausages,291.94,618.11,0.19,380.61
+4b2b1e2e-f36e-4c6a-9943-abb1c5d758ec,880,Margarette,Jacobah,2022-03-10,PK,Valparaíso,2012-04-13,Doralynne,Email,740,Canned sausages,487.82,669.08,0.19,441.12
+62c0e55e-81b1-490f-866a-0164795df899,67,Marti,Zitvaa,2006-06-01,YE,Indianapolis,2016-04-18,Brianna,Phone,837,Spätzle,461.37,594.49,0.19,446.77
+76fc81e7-4996-4511-96bd-d4e1b7f096d0,853,Sidoney,Bow,2023-10-23,PT,Iqaluit,2016-02-06,Anallese,Phone,443,Spätzle,239.84,621.46,0.19,420.21
+43b6ffa1-8a95-4079-a1a5-44635f0a7d57,391,Marcelline,Raimondo,2024-08-23,VG,Kuching,2018-01-17,Darci,Email,882,Canned sausages,274.19,680.73,0.19,490.78
+63095621-246f-41a5-a21f-115aa76720ce,61,Aubrie,Hutchison,2009-07-09,DE,Udon Thani,2018-10-15,Fanchon,Phone,533,Canned sausages,398.56,573.1,0.19,367.66
+f4f99dc4-a9e0-46d3-8ef5-278296633e4d,70,Morganica,Radu,2021-06-08,CS,Arbil,2021-04-25,Frances,Phone,481,Spätzle,357.22,678.19,0.19,360.95
+cc0cbd82-5f1e-4564-b0b6-d00e25982a54,127,Fayre,Rurik,2014-12-31,YE,Jerusalem,2023-07-07,Chloris,Email,812,Canned sausages,500.15,926.72,0.19,432.72
+2aebd955-e93f-4ff4-a864-7d17c34954db,974,Emylee,Cleo,2001-08-05,TO,Tskhinvali,2008-04-19,Heddie,Email,585,Spätzle,331.35,763.1,0.19,309.74
+d755ce0f-e71f-4947-b956-10f6294c9dce,86,Merle,Cohdwell,2005-04-30,JM,Rabi Island,2000-01-16,Agnese,Phone,264,Canned sausages,441.04,825.76,0.19,320.87
+1e647ed8-e1e3-495b-ac86-d507a4d4070c,408,Karolina,Milson,2022-08-31,NL,Detroit,2024-09-29,Rochette,Email,100,Spätzle,481.14,873.22,0.19,403.83
+2b5ef24b-a0fb-4aff-997c-dd077e8a1b68,126,Brietta,Oneida,2003-12-16,NR,Honiara,2024-12-02,Eugine,Phone,536,Spätzle,297.27,625.94,0.19,471.36
+cf027c5d-dba8-41ac-8f5b-19112ad8884e,690,Petronia,Garrison,2020-03-19,AL,Hanover,2003-06-27,Brana,Email,818,Spätzle,245.55,880.94,0.19,441.59
+3c0c580b-454c-4d0a-9cba-6f94a36170fb,333,Jennica,Maples,2000-02-02,NU,Valparaíso,2000-02-28,Rayna,Email,503,Canned sausages,475.4,613.2,0.19,432.89
+cda7251b-bcec-42cd-bd65-c91e1a797761,285,Brietta,Charmine,2019-04-07,CR,Zapopan,2012-05-21,Karina,Email,440,Canned sausages,331.85,634.32,0.19,453.43
+fe21c40e-a754-4635-8da6-887dc2f88555,211,Bibby,Lindemann,2005-07-15,TR,Birmingham,2018-02-23,Rani,Email,130,Canned sausages,351.02,631.54,0.19,405.69
+19473586-3192-4823-87f0-00e8af0c2ec4,147,Candy,Bates,2014-01-31,RW,Hamburg,2008-05-26,Phedra,Phone,325,Spätzle,409.07,580.72,0.19,454.88
+b3d5f48e-acb1-432a-8535-eac022fb346d,256,Alyssa,Alisia,2024-08-17,GP,Iqaluit,2000-11-08,Di,Phone,268,Spätzle,376.73,773.12,0.19,388.8
+1eae3f51-20c6-4095-ab52-b5090da047ef,427,Marcy,Lewes,2003-08-06,DZ,Santa Cruz de Tenerife,2007-03-27,Janeczka,Phone,801,Spätzle,261.86,602.18,0.19,479.27
+566a2ac4-dca2-4889-9ee9-35ca962a41d2,503,Karlee,Khorma,2013-04-27,EG,Guwahati,2023-10-05,Felice,Phone,663,Spätzle,388.55,852.68,0.19,434.04
+0dffaad4-ae68-4d09-89a1-31fb2e670df8,706,Laurene,Erlandson,2018-06-12,YT,Kiev,2018-05-10,Dianemarie,Email,640,Spätzle,275.27,638.72,0.19,418.06
+312bb85e-ae83-4276-a38e-541f65a00624,910,Gilda,Lane,2020-11-14,NG,Chongjin,2014-11-19,Carly,Phone,259,Canned sausages,493.81,667.97,0.19,425.26
+0adc4f07-1419-41a1-a7c4-5d5b972568b7,967,Nannie,Tannie,2001-06-12,SV,Magadan,2011-06-07,Merrie,Phone,16,Spätzle,490.26,912.78,0.19,445.36
+6e609907-225c-4a81-8cdf-5452681f1eda,273,Latisha,Leffen,2021-10-28,KG,Juneau,2002-02-06,Rhoda,Email,1000,Spätzle,232.63,924.4,0.19,355.82
+9cce555b-9ff2-4e31-9ee7-b759a0472abf,226,Margarette,Sikorski,2006-07-18,VI,Valdivia,2009-04-02,Gui,Email,217,Spätzle,382.11,623.11,0.19,439.59
+a3b8e685-c10d-49f7-a3fa-d6092e7dfcec,398,Romona,Armanda,2000-10-16,GR,Lomé,2020-06-01,Ursulina,Phone,149,Spätzle,462.83,820.87,0.19,327.23
+967003c4-dcaf-497d-8bf8-d9bf413ccafe,308,Sidoney,Graig,2003-09-13,CX,Sabha,2003-06-17,Minne,Email,668,Spätzle,260.39,646.46,0.19,344.39
+d61e6fab-07d5-40a9-8499-c2b3868c3821,801,Corry,Dituri,2015-01-09,TD,Leeds,2007-08-30,Philis,Email,416,Spätzle,417.43,856.25,0.19,420.19
+a8f7d1ef-e420-40f0-9f74-4acbc335685c,942,Lolita,Naashom,2011-02-10,ML,Brisbane,2006-08-14,Regina,Email,71,Canned sausages,354.98,580.62,0.19,447.65
+93f56aa6-7daf-4612-9e22-bc16174243ec,328,Karina,Dannye,2001-06-30,IN,Brikama,2021-11-15,Donnie,Phone,511,Canned sausages,447.98,562.63,0.19,396.95
+2e5a685c-8b5c-45bf-b288-3d8a3ae7dd4c,925,Jessamyn,Kelula,2004-08-31,AI,Timbuktu,2014-10-01,Myrtice,Phone,981,Canned sausages,424.96,503.38,0.19,421.63
+cd22a004-0963-415c-80e3-5fb750974865,827,Emelina,Vacuva,2024-12-21,TO,Multan,2012-03-15,Amara,Email,476,Canned sausages,262.9,789.49,0.19,395.99
+0e98ab28-db9e-4a36-a585-4d5b754b201e,142,Kaia,Orpah,2012-12-24,AG,Sacramento,2007-09-18,Gloria,Phone,775,Spätzle,358.95,779.18,0.19,343.11
+ee41158e-4dbc-4a43-a0fd-d62c6de85292,628,Blake,Oneida,2019-05-16,CS,Chongjin,2018-02-26,Ulrike,Phone,826,Spätzle,407.14,821.68,0.19,333.58
+99713af5-2ad1-49eb-97a4-54277429a998,543,Peri,Alva,2000-03-22,SV,Dresden,2017-03-09,Johna,Email,898,Spätzle,303.33,948.99,0.19,342.57
+9c9d20a1-5034-4951-9064-3ee2bbf621cb,264,Alleen,Andrel,2018-06-08,CO,Manama,2002-04-19,Oona,Phone,671,Spätzle,356.83,961.58,0.19,465.83
+351b62d5-cbe6-48c4-8390-8d5724af231c,478,Ursulina,Pettiford,2000-07-18,TC,Minsk,2014-07-18,Livvyy,Phone,690,Spätzle,489.6,584.58,0.19,431.11
+06515f6f-6f73-4659-9a3a-3c25e1dade0c,855,Tybie,Norvol,2006-09-23,GQ,Makati City,2021-12-08,Dede,Email,19,Spätzle,319.85,878.78,0.19,328.94
+9b24661d-b071-4902-80ee-a86fc2a5fb46,484,Alisha,Calhoun,2014-12-20,SY,Sana'a,2013-09-25,Ruthe,Email,64,Spätzle,411.51,661.02,0.19,357.82
+b9326781-7a39-4957-82ea-e6eb47211c89,181,Myrtice,Schonfeld,2019-12-21,PK,Pyongyang,2020-09-13,Glenda,Email,237,Canned sausages,259.75,514.9,0.19,497.38
+57914766-2f07-425a-a71f-981db694e18d,315,Suzette,Karl,2017-06-01,VA,Jerusalem,2006-03-07,Andree,Phone,775,Spätzle,343.65,951.41,0.19,332.62
+a99222e9-0749-40ff-b758-ed06f867b7b8,213,Harrietta,Goldina,2008-06-06,AW,Munich,2002-09-11,Darlleen,Phone,422,Spätzle,229.08,678.78,0.19,394.53
+5fdadb22-6b94-4f4b-86b6-e79661f11bc0,444,Verla,Kosey,2018-05-31,GU,Bandung,2016-12-02,Therine,Phone,554,Canned sausages,436.24,720.52,0.19,404.79
+d0a8bc7c-d74f-42a8-9cfe-2acc599a5e78,158,Lauryn,Romelda,2016-11-27,PS,Harbin,2013-12-01,Yvonne,Email,711,Canned sausages,499.98,834.6,0.19,420.73
+d06a59b5-d8c2-4906-b124-53e84e9af735,237,Vinita,Lesley,2024-04-22,CD,Charlotte,2010-04-17,Bettine,Phone,188,Canned sausages,310.37,857.53,0.19,453.75
+5fbbdf5f-ed45-47b5-a5e3-386a356a4095,862,Annaliese,Bluh,2009-10-15,PL,Moscow,2001-11-28,Penelopa,Email,92,Spätzle,303.08,695.62,0.19,383.87
+bf6bfc65-3b60-4b91-9f5e-23d11469bd96,258,Katleen,Shirberg,2002-09-28,ID,Thessaloniki,2013-03-31,Talya,Phone,994,Spätzle,402.06,761.72,0.19,330.74
+68a45dcb-125e-42ea-9a0f-68b1e7bf4398,878,Karly,Colyer,2014-08-01,PG,Saipan,2021-11-07,Susan,Phone,967,Canned sausages,273.18,521.82,0.19,397.94
+080f8f4a-74c9-4a21-90e2-9e4902ed517a,732,Annabela,Frendel,2019-01-28,LB,Salt Lake City,2013-12-19,Trixi,Phone,900,Spätzle,312.35,696.4,0.19,454.31
+7d40305c-025e-490a-ab6a-b99d9ca31d8a,295,Dennie,Westphal,2022-07-03,IN,Taiyuan,2023-07-23,Pearline,Email,67,Canned sausages,210.53,784.79,0.19,445.62
+aa9e4489-2f01-4f92-b9fc-91473ec0f521,34,Dale,Gale,2009-03-05,CV,Taichung,2014-06-23,Vonny,Phone,68,Canned sausages,439.2,949.4,0.19,484.57
+81ccd007-687c-4ec2-8c85-a6609ef03525,159,Brooks,Elsinore,2013-10-26,NU,Iloilo City,2010-05-03,Lucille,Phone,892,Canned sausages,377.62,705.54,0.19,441.44
+a6c52a71-1417-4e83-980a-e0d2ca0867bd,745,Kenna,Othilia,2007-10-10,CO,Rabi Island,2006-08-30,Joleen,Email,303,Canned sausages,220.24,789.24,0.19,478.25
+d2907235-7f44-4a25-8fe2-a7b7684c0df1,952,Sashenka,Evangelia,2020-12-01,SY,Padang,2020-04-26,Joleen,Phone,444,Spätzle,378.63,527.65,0.19,312.06
+b9bf296e-8fd0-4234-8465-32d254e5fdae,907,Frieda,Robertson,2008-06-29,IO,Conakry,2018-11-06,Bernie,Phone,255,Spätzle,412.25,950.87,0.19,315.68
+6c8f965c-331a-4243-a1b7-ca1f450337f3,535,Blondelle,Erskine,2020-05-20,EG,Kota Kinabalu,2019-07-30,Raina,Email,310,Spätzle,353.08,657.31,0.19,492.72
+2a5a9926-d8b7-4a20-ae13-40e94947ab50,961,Natka,Kiyoshi,2021-04-22,BY,Minneapolis,2022-02-27,Collen,Phone,31,Spätzle,385.14,526,0.19,417.43
+0343f6fe-02b2-41ee-9a1e-35d281f5c202,483,Jorry,Idelia,2008-11-07,IQ,Taichung,2014-01-06,Marcelline,Email,474,Spätzle,398.19,677.63,0.19,349.82
+fb8e6744-aa9a-4997-8df0-9b5c09d0529f,447,Barbi,Standing,2014-08-04,CA,Hai Phong,2003-11-20,Celestyna,Email,323,Canned sausages,260.78,704.31,0.19,352.32
+d7b11cf0-0f0b-43ca-82a6-03781f2d30a6,15,Felice,Gower,2015-06-02,AZ,Brisbane,2016-06-19,Renie,Email,556,Spätzle,495.03,564.79,0.19,480.39
+683e5875-702f-46ac-926c-0215f607d1c7,797,Oralee,Maribeth,2012-03-31,IN,Charlottetown,2013-08-05,Maye,Email,815,Spätzle,221.98,785.37,0.19,365.83
+bfa50441-e9c8-4b24-96ef-6129524280ca,140,Mariele,Chauncey,2005-01-29,KM,Melekeok,2014-01-09,Marita,Email,788,Spätzle,371.36,888.94,0.19,316.3
+5b250fd2-29a4-4add-90ca-916ac06a85d0,593,Gaylene,Stover,2011-10-27,SR,Timbuktu,2008-10-07,Claudina,Phone,642,Spätzle,313.76,542.42,0.19,452.62
+1279975d-c8a1-430d-b58e-15c077d5050a,899,Almeta,Gower,2016-07-30,CM,Nassau,2015-03-20,Ruthe,Email,302,Spätzle,355.23,704.36,0.19,441.06
+5b324007-8d31-49ab-912d-e81303c4639a,436,Leia,Tufts,2019-10-13,ML,Abuja,2019-02-23,Collen,Email,34,Spätzle,258.8,529.6,0.19,381.06
+e02a0223-ba69-4f48-866a-915beee6680e,837,Genovera,Ariella,2016-01-27,SB,Lucknow,2012-05-02,Marjie,Email,808,Canned sausages,466.39,718.15,0.19,437.32
+88e6ad1c-7251-45bf-ab76-e336a032c2ab,169,Kial,Lay,2007-04-18,BV,Lahore,2013-07-13,Aaren,Email,913,Canned sausages,266.37,867.39,0.19,493.93
+f96128db-6878-4cd9-ade1-5069122d3284,203,Collen,Nisbet,2001-12-23,AL,Tokyo,2012-08-15,Latisha,Phone,361,Canned sausages,336.38,564.37,0.19,479.8
+9a67c5b2-b2d5-4e87-8212-51b2c12a91d5,997,Aeriela,Uund,2017-06-08,LB,Nukus,2001-03-27,Jolyn,Email,968,Spätzle,234.09,680.16,0.19,333.72
+da2779c7-cfb1-4025-a6c8-e5918c9665f0,284,Mureil,Kenwood,2009-12-11,ZA,Bridgetown,2000-04-16,Ketti,Phone,724,Canned sausages,266.84,556.81,0.19,338.39
+2054e4b7-c53c-41d1-ab23-7a9bc34779f8,903,Fayre,Monaco,2020-05-11,PR,Bogotá,2006-09-23,Iseabal,Email,232,Spätzle,300.16,762.62,0.19,473.49
+8dd6d3f6-7e2e-43f0-8cc1-67fca2cecdff,141,Elbertina,McCutcheon,2005-01-23,CK,Indianapolis,2024-10-21,Madalyn,Phone,607,Spätzle,321.46,683.89,0.19,427.74
+5a07f3b6-4dae-48b0-9785-40c17150a07f,513,Ellette,Parette,2021-12-23,LI,Brisbane,2003-04-09,Georgetta,Phone,55,Canned sausages,285.3,790.46,0.19,337.4
+32454a8f-46d5-4c9a-a90c-4461a9b856c4,623,Bobinette,Dudley,2023-05-31,PW,Asunción,2016-02-25,Wendi,Email,903,Canned sausages,339.3,898.63,0.19,330.54
+e66b7875-6401-4f3d-94e3-a052a9179e9e,141,Meriel,Sallyann,2003-08-21,BZ,Belfast,2006-07-21,Brooks,Email,389,Canned sausages,356.34,681.73,0.19,395.12
+c9e63bdb-854d-4e40-aa60-ed0f48ddd649,619,Kamilah,Mullane,2014-08-23,AG,Riga,2020-08-27,Violet,Phone,130,Canned sausages,304.74,646.09,0.19,488.81
+0e963c8b-68e0-4d73-8778-df03fa51235e,193,Ebonee,Noelyn,2008-12-03,GM,Libreville,2021-12-21,Bertine,Email,8,Spätzle,460.31,889.3,0.19,458.89
+29cb5fc0-1317-4132-acf2-aef670826c9d,413,Corry,Idelia,2024-12-29,AD,Sukhumi,2014-03-24,Tabbatha,Email,817,Spätzle,440.58,973.28,0.19,443.81
+8aab9910-9cd8-4541-9f0e-c33d2c40a7c9,20,Dorene,Arvo,2012-10-01,MR,Kandy,2008-10-06,Mary,Phone,796,Spätzle,453.53,629.63,0.19,313.82
+ccd4e30a-efe6-4a29-ab33-430e256d9b3e,104,Lynea,Sacken,2013-09-19,FK,Stepanakert,2008-10-29,Stevana,Phone,245,Canned sausages,319.32,749.08,0.19,388.59
+ab7008d6-e0f9-41cc-b56a-4ef2feed8e06,490,Cissiee,Burnside,2004-09-02,KW,Lhasa,2010-06-12,Jobi,Phone,635,Spätzle,489.73,977.27,0.19,312.07
+8caaec78-8c15-454f-b434-813a7541619b,611,Ninnetta,Iaverne,2014-08-22,MT,Peshawar,2022-03-23,Konstance,Phone,765,Canned sausages,462.9,959.14,0.19,402.44
+05b838b7-bec5-4c90-9a38-eae90897ff94,607,Mahalia,Shelba,2020-01-27,BG,Hobart,2014-02-28,Julieta,Phone,159,Spätzle,208.94,522.48,0.19,454.5
+2b2cad0d-30ab-4a25-b296-05cf26474ff4,914,Dania,Merat,2008-07-31,KN,Adamstown,2010-08-31,Beverley,Phone,968,Spätzle,387.8,761.41,0.19,492.36
+15eabcfd-088e-43a2-856e-af657cc5d7e3,238,Amalie,Schwejda,2004-09-26,GY,Birmingham,2016-04-30,Hope,Email,27,Spätzle,438.41,783.01,0.19,365.85
+bb892c2d-0e7d-4b7d-9ae8-0c31f608fe52,15,Caryl,Berl,2001-03-14,SD,Fairbanks,2001-10-04,Mamie,Email,111,Canned sausages,422.96,792.6,0.19,468.59
+4f67be4c-47b4-4dd9-877b-d0e286f67e2d,544,Dari,Therine,2021-01-01,LK,Port Said,2006-05-22,Coral,Phone,339,Canned sausages,253.05,845.77,0.19,423.09
+a3cd2bd5-c8ea-484b-b617-7c4d14cec784,876,Calla,Montgomery,2006-01-10,SO,Ludhiana,2009-04-12,Quintina,Email,534,Spätzle,328.9,523.7,0.19,409.38
+47647d6a-fcd6-4d8c-8143-fcbf995fb4ca,603,Frieda,Noelyn,2008-08-13,HM,Zagreb,2005-04-29,Jolyn,Email,622,Spätzle,306.36,731.68,0.19,400.76
+b9d9173a-599f-4759-aecd-b231f86cc792,920,Yetty,Stevy,2016-05-13,CL,Cebu City,2015-05-05,Tori,Email,611,Spätzle,259.86,920.5,0.19,457.14
+7cfc6285-869f-4397-a9e4-41e50ec1e740,29,Britte,Abbot,2004-08-19,AG,Kandahar,2016-03-08,Wendi,Phone,424,Spätzle,478.09,998.8,0.19,418.57
+80b6e064-d70e-4412-aca0-853348383375,604,Layla,Carey,2016-10-19,HR,Philadelphia,2014-06-01,Nanete,Email,124,Canned sausages,226.23,910.38,0.19,396.8
+6246778d-7c57-4072-bddf-2db8d2157b05,17,Ricky,Kunin,2012-03-08,KR,Medellín,2017-01-22,Edith,Email,585,Canned sausages,449.5,788.38,0.19,316.31
+59c7da20-1356-42c4-9fd6-e92eede5cc96,941,Sam,Anyah,2009-08-05,MM,Alexandria,2023-01-26,Drucie,Phone,279,Canned sausages,486.88,880.42,0.19,404.13
+69c7fd49-e1f8-403b-a667-07a646d04447,73,Cyndie,Danby,2009-01-12,KZ,Kigali,2020-10-06,Jsandye,Phone,141,Spätzle,408.63,535.25,0.19,462.66
+b8f0e69b-96f9-4b78-a8ad-76acb3a2a6b7,974,Elka,Nickola,2014-02-22,CH,Ambon,2007-06-22,Philis,Phone,244,Spätzle,351.31,704.4,0.19,414.81
+b92a6020-d9b5-4d47-9217-f62148120ddf,795,Helena,Yorick,2006-09-24,PF,Nagoya,2006-01-11,Adore,Phone,270,Spätzle,368.91,837.76,0.19,414.29
+72b248be-d175-44a6-9b1e-11cab5ede383,790,Lynnea,Stevy,2010-08-18,MP,Copenhagen,2021-12-29,Stacey,Phone,615,Spätzle,312.58,597.5,0.19,414.53
+5325bac5-e225-4508-9298-ad1d2de7f519,981,Leona,Erich,2005-12-19,JM,Port Said,2008-05-11,Carolina,Phone,128,Spätzle,399.76,653.34,0.19,399.28
+3f2bdc3d-f4f4-4b90-bbb0-d170849cc6ba,533,Gerrie,Candy,2008-11-16,SN,Birmingham,2018-04-08,Therine,Phone,257,Spätzle,292.4,790.81,0.19,344.91
+97ed9f18-47c3-47fe-b0f1-dd992cf8ae0c,932,Lelah,Federica,2009-04-25,IO,Kota Bharu,2024-04-12,Tamqrah,Phone,263,Spätzle,373.71,515.78,0.19,367.65
+7379bf2c-d604-4da4-9187-50562bfdc9c0,575,Veda,Ferrell,2003-01-15,LY,Rosario,2012-04-22,Atlanta,Email,208,Canned sausages,433.7,829.18,0.19,485.5
+4292b07a-5699-4b49-bb8f-8fe06aa1d047,528,Joleen,Bertold,2013-12-25,KN,Reykjavík,2004-10-22,Audrie,Email,447,Canned sausages,262.35,674.46,0.19,472.57
+a557c66c-2259-47a0-9892-794e44173821,127,Jessy,Doig,2007-04-01,HT,Antwerp,2016-05-11,Codie,Email,771,Canned sausages,231.25,819.62,0.19,302.77
+c8250aaf-8777-475f-89c6-96bcf6f92d20,378,Linet,Kirstin,2012-08-10,MN,Port Louis,2003-10-23,Dari,Email,406,Canned sausages,497.5,840.25,0.19,309.35
+a6fe5c03-f464-40bf-9fc4-16b3562ea1c7,650,Leeanne,Penelopa,2010-09-10,TO,Udon Thani,2018-07-23,Hallie,Email,394,Canned sausages,491.18,925.83,0.19,464.08
+0cf9bd78-bcc3-4ed3-bec6-ff6e022f7c08,746,Vonny,Fadiman,2003-08-30,MQ,Monaco,2007-12-05,Carlie,Phone,106,Spätzle,216.8,698.13,0.19,340.63
+c989f4fc-66d8-4714-afad-b1e156d31c1b,956,Nananne,Trinetta,2009-07-15,IR,Yekaterinburg,2014-06-18,Demetris,Phone,386,Spätzle,295.09,673.09,0.19,441.05
+feb3e78b-2a44-4b78-b6cf-fcad20a9bc2a,337,Nonnah,Hamil,2023-11-20,BR,Malang,2007-03-04,Valera,Email,180,Canned sausages,479.06,945.49,0.19,384.92
+2591c8b7-d101-4e5c-ac31-2543f7bf40ae,608,Addia,Modie,2013-09-10,AX,Kaohsiung,2018-10-13,Orelia,Phone,643,Spätzle,260.56,616.27,0.19,328.95
+73c8ca37-d202-41b4-abd1-8ae531e8ea0c,527,Joy,Swanhildas,2017-04-25,SD,Port Louis,2013-05-15,Esmeralda,Email,7,Canned sausages,210.53,937.64,0.19,356.78
+a7fb8ac2-11ba-4086-970f-3a1c0545585c,206,Nickie,Gavrila,2002-01-25,HR,Saint John,2006-05-31,Blondelle,Phone,278,Canned sausages,213.71,977.85,0.19,370.64
+11c8e154-971e-4c6c-9589-36b395e6e1cc,111,Ayn,Drus,2016-09-15,MO,Copenhagen,2022-07-13,Ezmeralda,Email,619,Canned sausages,425.41,932.12,0.19,377.56
+7cc39e87-d540-4d10-8672-ae5b1c57dc17,486,Aurelie,Nickola,2013-10-08,MY,Palembang,2021-11-02,Estell,Phone,456,Spätzle,497.88,888.67,0.19,437.83
+0237eba4-ef9d-4465-a30e-9313e0d18d7e,443,Arlena,Leary,2010-03-03,FR,Darwin,2007-09-19,Carmencita,Phone,841,Spätzle,411.18,597.69,0.19,330.76
+6f558748-d9a6-4e38-935c-a5a839cc83b3,968,Lesly,Garek,2005-12-13,BB,Basra,2012-01-02,Kayla,Phone,485,Spätzle,500.94,869.64,0.19,429.04
+e67f41d2-98db-4ba1-9a02-97a3df8a4335,959,Chloris,Roumell,2000-01-21,AE,Qingdao,2011-02-06,Willetta,Phone,521,Canned sausages,366.82,984.58,0.19,388.81
+aebdfe35-724c-424c-8d73-d539b8e60acb,925,Olivette,Borrell,2001-04-10,LC,Pattaya,2013-10-27,Binny,Email,197,Canned sausages,468.9,752,0.19,382.09
+733c0e59-b068-4116-8ce4-741be9752fb4,543,Fanny,Weide,2022-09-07,BM,Luxor,2002-07-19,Charlena,Email,316,Spätzle,265.24,874.68,0.19,392.93
+677e10b5-dba2-419f-b7a1-7ca8041f719b,470,Celisse,Primalia,2017-10-01,MZ,Chongqing,2024-10-04,Sam,Email,371,Spätzle,204.89,754.72,0.19,402.02
+cf4ac440-3dfb-44ab-94df-ee6a1959a040,882,Ardeen,Joachim,2018-03-24,MP,Pyongyang,2004-03-11,Jaclyn,Phone,879,Canned sausages,324.14,819.81,0.19,366.24
+714253b0-02d7-4ce1-a710-9e0e20065dbd,800,Joceline,Paton,2006-08-19,FJ,Mashhad,2011-09-03,Eugine,Phone,621,Spätzle,317.4,845.4,0.19,360
+f3f03432-ff34-4d1a-a84a-22e0bdcd7002,818,Nannie,Jerold,2009-08-10,BY,Tucson,2016-06-03,Almeta,Email,641,Spätzle,219.79,989.47,0.19,469.14
+e6aafa08-2b08-44c1-8eec-34797502372e,322,Evaleen,Deny,2011-08-03,MS,Adelaide,2020-08-16,Coral,Phone,881,Canned sausages,336.79,548.63,0.19,354.03
+d1e9d5e8-62e1-4b9d-82b1-984aefe2c8b8,369,Cassondra,Hessler,2023-02-19,PT,Mandurah,2017-12-13,Myriam,Email,680,Spätzle,294.18,970.24,0.19,316.97
+8032350e-8239-44cb-8282-b0168eee70a7,389,Clarice,Cosenza,2009-10-28,CD,Hamilton,2022-05-21,Augustine,Email,421,Canned sausages,255.93,953.2,0.19,338.11
+ed648914-dfb2-46f5-aaff-3c6c4c76a13f,939,Shaylyn,Afton,2021-03-16,GH,Kaesong,2004-10-02,Orsola,Email,291,Canned sausages,313.82,612.73,0.19,311.7
+84937eb8-39fa-4fe8-9cdd-b399de4fc6b3,867,Netty,Ardeha,2009-11-01,IO,Ciudad del Este,2004-01-16,Betta,Phone,484,Spätzle,454.88,670.34,0.19,451.98
+ceb59656-7b58-4f9a-81f7-dda6c1d1dfc7,429,Sarette,Noam,2013-08-18,CV,Honiara,2009-01-23,Wendi,Phone,467,Spätzle,273.58,892.47,0.19,320.05
+1b25a481-efaa-4cab-a797-51991bb5290c,61,Lexine,Jeanne,2002-10-07,TG,Kaesong,2021-03-06,Kirstin,Email,104,Canned sausages,370.18,912.46,0.19,380.15
+e464cdbc-b846-4425-9c7d-7ed33aa5f1d0,325,Yvonne,Bury,2016-02-14,AQ,Manila,2017-09-13,Rosanne,Phone,276,Spätzle,267.25,714.86,0.19,398.07
+2f6f9695-a88d-4ae0-bbdb-a87cf336e873,746,Adore,Chapland,2014-01-22,BJ,Brussels,2009-04-23,Jasmina,Phone,888,Canned sausages,431.67,585.09,0.19,313.81
+482c9bce-3ec0-413f-9921-bf235b471900,308,Lucille,Dorothy,2021-06-13,CO,Khartoum,2017-06-09,Ulrike,Email,756,Canned sausages,479.79,862.45,0.19,461.25
+93b894bb-f988-4f44-99ad-bbfe81f25511,936,Ekaterina,Obed,2001-03-29,PF,Samara,2013-04-15,Joleen,Email,639,Spätzle,396.69,657.93,0.19,418.78
+174871ed-4082-4368-bed3-6b83d41c0516,942,Belinda,Jeanne,2022-05-25,IE,Monaco,2023-05-02,Britni,Email,473,Canned sausages,338.5,603.33,0.19,333.94
+ceed7b50-ac28-4791-b9bf-a37a5356bb67,942,Teriann,Dowski,2004-03-05,GR,Hargeisa,2021-07-13,Lorne,Email,696,Canned sausages,305.16,835.11,0.19,424.78
+37106d03-4975-4785-88ca-26f165595d0f,351,Tersina,Fax,2010-10-08,GS,Palikir,2009-12-02,Ezmeralda,Email,853,Canned sausages,425.13,540.16,0.19,495.76
+673cdaea-4277-4508-869f-31d7f700b2fd,80,Myrtice,Bigner,2008-11-01,EE,Iqaluit,2017-03-16,Tilly,Phone,878,Canned sausages,361.51,849.09,0.19,425.41
+f4aa529c-c942-4cf5-8ec8-a3bba50ac1df,899,Selia,Suk,2013-02-23,EG,Dededo,2006-04-24,Tomasina,Phone,448,Canned sausages,437.57,875.94,0.19,446.93
+586d459e-05c7-48e5-bf6b-a9430e718f8e,350,Nicoli,Herrera,2004-09-16,MS,Avarua,2020-12-15,Trixi,Email,823,Canned sausages,213.62,830.5,0.19,308.97
+a9dfed68-db0b-4f9e-ad5a-03f463a37c52,471,Dari,Delila,2021-05-27,TZ,Dublin,2019-01-07,Rochette,Phone,884,Canned sausages,444.09,913.8,0.19,430.44
+e9652231-68d6-4799-9613-6ab6a7a76243,369,Tracey,Mich,2006-07-18,MS,Saint John,2015-04-09,Melina,Phone,464,Spätzle,356.54,669.23,0.19,318.52
+fd7e7013-8707-4a45-afc5-c0dda0d640a4,271,Wilma,Oriana,2003-05-23,US,Dalian,2010-02-07,Alejandra,Phone,887,Canned sausages,472.74,834.49,0.19,407.27
+c4cd86c4-dcdb-453d-a24c-7640e07e4784,755,Amara,Gert,2024-10-11,BA,Angra do Heroísmo,2016-09-11,Jinny,Phone,472,Spätzle,231.81,949.85,0.19,469.09
+4b5b5400-57fc-4fba-a853-5b02cc1bf911,606,Oralee,Earlie,2017-07-28,BZ,Alor Star,2000-09-20,Sara-Ann,Email,428,Spätzle,266.73,601.25,0.19,470.7
+0f1afd90-f26a-4053-b2d8-48beb65bf2de,303,Meriel,Darbie,2023-09-01,DJ,Agartala,2013-11-29,Wilma,Email,25,Spätzle,200.33,835.55,0.19,381.03
+344ed3eb-078b-4a70-8b5e-c98b635b3f50,607,Meghann,Byrne,2005-03-23,MU,Portland,2008-11-18,Janey,Email,87,Spätzle,426.82,632.57,0.19,400.16
+03d84016-500d-4cbd-b535-e2515155cc9d,269,Lesly,Chesna,2014-05-25,FM,Bogotá,2022-04-24,Tracey,Email,27,Canned sausages,318.67,722.89,0.19,481.51
+33bc2ec2-7333-4cb8-be25-43d8ab1639ed,63,Evita,Wenoa,2012-01-27,BF,Jayapura,2017-12-13,Modestia,Phone,878,Canned sausages,281.21,993.15,0.19,459.53
+7ad6d4fa-da11-40d0-9f2b-96fe5825fb9c,497,Marsiella,Kristi,2015-03-08,AX,Blantyre,2001-01-01,Josephine,Email,502,Canned sausages,252.58,903.84,0.19,314.06
+5caa5d48-f73a-4a63-adda-99f1f13bfaac,187,Oralee,Sidonius,2019-09-01,US,Bamako,2024-11-03,Phedra,Email,617,Canned sausages,402.82,954.6,0.19,337.97
+f2af0ba3-0924-4fd0-bdde-b605fb30e147,251,Gusella,Pettiford,2002-05-29,KY,Nagpur,2008-10-23,Barbi,Email,282,Canned sausages,218.96,821.21,0.19,492.88
+54ae6ac8-439a-4f39-a31d-3e306b2861ec,623,Carly,Rona,2003-04-08,KN,Port Moresby,2000-07-12,Marleah,Phone,488,Spätzle,399.61,930.76,0.19,472.52
+37a9db95-9519-4084-ad47-9c37aed08ae8,46,Latisha,Adrienne,2003-03-08,AQ,Magadan,2008-04-30,Madelle,Phone,775,Canned sausages,373.99,944.51,0.19,472.73
+8d015ca7-671f-4ffd-be57-10a61b0814fa,333,Romona,Margret,2006-05-13,LR,Asmara,2008-04-09,Barbara,Email,992,Spätzle,486.7,920.19,0.19,377.19
+7b877244-5163-4750-b528-4108456a0e98,301,Michaelina,Ruvolo,2020-08-03,MM,Serekunda,2007-05-15,Aeriela,Phone,989,Canned sausages,389.62,900.03,0.19,488.05
+7465e5e9-5860-4dea-b088-d0059559a967,468,Winifred,Firmin,2004-04-01,LA,Washington,2020-08-06,Alie,Phone,892,Spätzle,331.25,781.1,0.19,491.73
+e0a7b172-36b9-485f-a0ce-e44d0166cc6c,380,Marjie,Faria,2002-07-13,NF,Guangzhou,2010-03-19,Leanna,Phone,671,Canned sausages,267.91,632.55,0.19,368.64
+a4b9ce79-882a-4636-b873-31e6a268367c,499,Chloris,Timon,2009-07-17,SO,Miri,2008-10-09,Jaime,Phone,466,Spätzle,426.11,835.02,0.19,407.82
+06bf53cf-8ae3-47f4-b0b1-13a928a715ce,35,Katuscha,Donell,2021-07-08,TG,Kinshasa,2019-02-11,Deedee,Phone,585,Canned sausages,380.9,739.26,0.19,439.26
+81ab0250-29d2-45ba-848c-127ff4a8c81d,126,Jasmina,Eno,2015-02-22,PF,Bahía Blanca,2003-10-30,Collen,Phone,163,Spätzle,404.73,756.49,0.19,382.21
+6f9747f2-ea33-42dc-b0a8-abbc0395a982,403,Melina,Publia,2004-07-05,AU,Saint-Pierre,2024-08-15,Berget,Email,408,Spätzle,233.16,724.13,0.19,386.92
+c41e2f8d-9ad8-411f-8d70-06d7f8bd45ff,764,Lulita,Wiener,2000-10-13,YT,Adak,2021-05-31,Farrah,Email,208,Spätzle,200.52,682.25,0.19,345.3
+30a412e9-d3d0-49ae-9d79-8d143f76d082,780,Nanete,Lay,2006-01-02,AQ,Innsbruck,2003-06-15,Violet,Phone,395,Spätzle,358.18,568.36,0.19,338.8
+fbf5474d-f76a-4084-ad3d-acddd8e2e843,538,Selma,Old,2007-03-14,ZW,Accra,2015-09-12,Danny,Email,828,Spätzle,405.71,669.86,0.19,355.55
+5bf8aba1-42cb-4a6c-9a31-b866b7ea77f7,120,Annice,Laurianne,2021-11-23,LS,Pekanbaru,2022-01-10,Pamella,Phone,773,Spätzle,354.33,605.06,0.19,480.95
+07058433-b7ef-4b9e-88db-ae33edbbc8f8,794,Sue,Marcellus,2017-07-12,RU,Baku,2007-10-24,Chandra,Phone,294,Spätzle,337.62,729.17,0.19,377.86
+5879bb32-a05f-456e-851a-212ce4e811ae,481,Ada,Grosz,2014-10-29,CG,Port Elizabeth,2009-05-12,Dawn,Email,793,Canned sausages,298.09,647.01,0.19,325.1
+60f4879a-958b-4f58-88f2-a729025afdd2,768,Kylynn,Thilda,2022-05-30,AI,Puerto Williams,2012-11-03,Felice,Phone,848,Canned sausages,439.83,737.61,0.19,478.39
+0432eacc-85e2-4c2b-9385-1f7104d0f63c,605,Ninnetta,Arquit,2017-03-22,TR,Manaus,2016-02-02,Juliane,Phone,83,Spätzle,470.63,528.58,0.19,389.43
+6df23037-18ab-4f12-ab7a-d5cdd247cbdc,636,Sibella,Stoller,2024-05-28,DO,Raleigh,2023-10-24,Agathe,Phone,596,Canned sausages,327.57,549.38,0.19,312.03
+5541625f-eaa6-4d14-822b-2fc4c1469f6e,710,Tressa,Niles,2005-01-25,CH,Riyadh,2023-06-24,Dorice,Phone,784,Spätzle,361.47,784.73,0.19,405.3
+535fa244-aa11-4934-9f2b-11fa06cb1d7f,427,Minne,Nadia,2007-02-24,BG,Christchurch,2006-03-08,Lita,Phone,134,Spätzle,449.57,679.4,0.19,386.3
+8af26ce9-4688-44cd-a171-065df1a64bd0,115,Minda,Laurianne,2014-02-18,ZM,Medina,2018-11-24,Sissy,Email,674,Canned sausages,261.44,894.85,0.19,448.76
+5cc061db-f2e0-4b81-a493-815c76ed15c6,516,Teriann,Ellerey,2018-05-06,VE,Rabi Island,2007-06-18,Annecorinne,Phone,338,Canned sausages,489.13,776.18,0.19,402
+feccf7f0-bf70-41cf-bd3f-876962900534,673,Starla,Parsaye,2014-03-31,TW,Hat Yai,2001-09-19,Gertrud,Email,383,Canned sausages,238.25,530.45,0.19,330.04
+c643d7e9-2cae-4ae3-bb95-a25fc44804c6,164,Laurene,Martsen,2003-02-15,RE,Mexico City,2018-02-27,Belva,Email,171,Canned sausages,362.02,528.34,0.19,444.63
+c4d4d186-5c05-4c8a-b3b6-f56c8a4565f7,867,Tani,Milde,2006-08-07,GM,Alofi,2015-10-06,Rhea,Email,608,Spätzle,399.23,577.57,0.19,382.32
+64081ce0-3034-4f20-a805-17fb667bafe1,85,Tina,Georgy,2019-10-28,SN,Perm,2011-01-10,Cathyleen,Phone,662,Canned sausages,480.42,539.05,0.19,366.87
+beede9c9-5129-4522-bb05-516ccee498c8,376,Marcelline,Azeria,2019-07-06,IR,Bulawayo,2023-07-15,Ashlee,Phone,735,Spätzle,374.08,755.11,0.19,302.16
+acd2de9c-683c-4053-bc18-e035b4da759f,658,Cyb,Tillford,2022-08-17,LC,Monterrey,2016-05-30,Lilith,Phone,707,Spätzle,409.75,805.21,0.19,424.85
+83909ba8-a5d4-4c73-a420-2e816037238e,562,Lucille,Damarra,2023-03-25,CF,Daegu,2013-08-01,Farrah,Phone,423,Canned sausages,227.89,805.06,0.19,352.09
+deb20fb6-b813-4d3b-b3c5-7376ac473601,796,Tarra,Hortensia,2007-11-16,SL,Forked River,2020-10-25,Meghann,Email,790,Canned sausages,286.91,773.78,0.19,308.59
+a7eabc12-0c52-482f-b885-0759267f8e24,772,Corina,Earlie,2006-09-22,WF,Doha,2005-09-05,Robinia,Phone,320,Spätzle,231.84,791.84,0.19,482.33
+a97b7b39-b848-4169-b883-12eda96de537,877,Ardenia,Gualtiero,2008-01-06,AX,Lagos,2002-06-27,Kara-Lynn,Email,439,Canned sausages,474.8,832.03,0.19,471
+f0a77bfe-86d9-40a6-a9d0-61c4e41f93a4,672,Halette,Bronk,2016-01-02,UM,Mendoza,2021-06-20,Annice,Email,192,Spätzle,432.93,903,0.19,459.71
+46260b01-a9d6-4afd-be34-00f8a8a646bf,688,Brana,Laurianne,2010-08-18,DM,Tamale,2018-08-16,Daune,Phone,672,Spätzle,281.29,762.34,0.19,400.32
+aa3b4109-736a-4823-96f9-6b2de46d542e,997,Monika,Nikaniki,2000-08-16,TN,Valencia,2015-02-08,Mignon,Email,907,Canned sausages,280.15,879.67,0.19,403.06
+ff12bc39-f721-425d-93ca-b2aa5dc93d37,713,Madeleine,Schwejda,2013-07-17,GF,Perm,2020-01-30,Blinni,Email,892,Spätzle,358.92,941.63,0.19,309.16
+d42f36c7-afe2-4d06-bd1b-505369180749,692,Audrie,Lilybelle,2012-04-24,HT,Rotterdam,2021-04-08,Hayley,Email,837,Canned sausages,267.03,695.07,0.19,399.98
+c6ea54f1-daaf-499d-b889-5fe25ba89250,408,Zaria,Pandolfi,2015-02-23,FI,Wuhan,2001-11-15,Selma,Phone,472,Spätzle,258.36,818.49,0.19,409.6
+32656c62-d0ce-44e7-b024-467fb4144577,417,Aubrie,Hoenack,2008-07-24,FJ,Honolulu,2009-01-06,Clementine,Email,965,Spätzle,258.21,998.18,0.19,317.17
+f6e33435-e471-443c-9e15-1e1905545f2e,641,Constance,Drisko,2002-07-26,AX,Dublin,2011-06-06,Merrie,Phone,784,Canned sausages,228.67,863.38,0.19,327.22
+4f6e48bc-9606-479a-8b2a-aaa07623467f,270,Lily,Othilia,2008-09-09,MX,Kota Kinabalu,2023-01-22,Sidoney,Email,82,Canned sausages,468.2,580.98,0.19,395.71
+39fcca33-2b12-4715-94a7-fd197c3ed0ea,52,Emma,Merat,2008-11-05,PG,Gaborone,2022-03-04,Sharai,Email,285,Spätzle,448.34,594.42,0.19,382.22
+e3b5d08d-1a96-4a46-a8e6-e4d1df275d60,861,Carmencita,Trey,2003-10-02,IQ,Belfast,2009-04-25,Keelia,Email,933,Canned sausages,381.54,817.8,0.19,401.18
+da3c50db-89c9-4e43-8ae4-8aecb859d894,833,Angelique,Nunci,2024-04-16,LT,Kuala Lumpur,2000-06-01,Goldie,Phone,506,Spätzle,370.94,751.91,0.19,402.06
+f1d9177b-1e80-4573-9c34-788218d1c8d9,231,Codie,Naashom,2008-10-14,RU,Cleveland,2006-10-06,Lynnea,Email,822,Canned sausages,463.83,869.91,0.19,369.25
+fb9599db-f4bf-49b1-82d4-ea6907bd7a26,240,Dagmar,Morrill,2002-03-08,MW,Bogotá,2000-03-16,Kayla,Phone,810,Spätzle,333.93,848.04,0.19,408.24
+1edde18a-71be-4777-958f-7d2763ca6a09,422,Tobe,Jacinda,2003-02-21,CF,Birmingham,2019-03-30,Micheline,Email,693,Spätzle,401.62,926.88,0.19,301.8
+c6a8428f-bfb5-4589-8b32-e93440dc3765,363,Ermengarde,Pascia,2021-05-18,CO,Port Said,2006-09-07,Viki,Phone,408,Spätzle,290.02,928.3,0.19,451.49
+091b1d9f-0ad5-4491-8645-2d78c83dae45,352,Libbie,Deegan,2004-04-18,CZ,Medan,2024-01-18,Tybie,Phone,171,Spätzle,236.51,712.9,0.19,440.65
+74585838-7d92-44cd-b364-217e1f016e53,799,Linet,Forrer,2008-01-24,BA,Cardiff,2016-07-18,Mary,Phone,129,Spätzle,359.69,565.51,0.19,344.11
+ba526faa-6dc0-49bd-afdd-9cb00a410aa7,557,Merci,O'Rourke,2005-06-19,SB,Baltimore,2017-02-03,Catrina,Email,210,Spätzle,209.38,532.53,0.19,387.85
+f688169b-70ea-4c4c-bc87-971a78d5191c,654,Tori,Syd,2024-05-04,TL,Rawalpindi,2016-07-01,Elka,Email,381,Spätzle,302.11,977.32,0.19,415.42
+f8334fb6-b022-4363-9d21-ff3a56f2c376,171,Bernie,Uund,2023-09-11,JO,Nashville,2022-11-28,Penelopa,Email,207,Spätzle,318.16,511.39,0.19,491.25
+022f2f63-107c-4745-990f-a682c76997a2,981,Merci,Bronk,2006-03-26,IR,Christchurch,2023-06-12,Emmey,Phone,406,Canned sausages,209.76,840.25,0.19,379.14
+740f6e48-0f2b-4f93-8965-9e013bc4a507,675,Kristina,Trace,2004-11-17,NP,Port of Spain,2010-05-14,Ilse,Phone,721,Canned sausages,425.63,776.99,0.19,465.5
+f40e868a-3c4d-48b1-8da2-133ac3ef35b4,577,Marjie,Gerge,2016-10-04,TL,Thessaloniki,2014-11-05,Babita,Phone,516,Spätzle,362.82,760.43,0.19,439.48
+2978fd65-3b3a-4065-bf93-17df0a9733ab,177,Marita,Arquit,2004-05-25,PG,Kota Kinabalu,2020-06-23,Teriann,Phone,474,Canned sausages,473.05,982.78,0.19,358.28
+410d986b-4cc0-4cc5-a9f5-257300ceda52,111,Jan,Malvino,2020-11-29,BY,Ciudad del Este,2021-06-23,Zsa Zsa,Phone,462,Canned sausages,290.91,550.96,0.19,441.22
+88d79f82-3ebd-4658-9555-b7d02f4c7c4e,589,Sarette,Posner,2008-04-12,BN,San Carlos de Bariloche,2023-01-03,Nariko,Email,914,Spätzle,361.71,518.58,0.19,406.53
+fdeb800f-ef23-497c-ba93-856f9692087a,144,Ada,Mozelle,2005-11-06,WS,Liverpool,2018-02-03,Renae,Email,990,Spätzle,433.67,909.89,0.19,482.99
+981c162f-f9db-4286-a27f-bf92e54dff31,46,Sophia,Franza,2019-04-06,YT,Yamoussoukro,2000-08-10,Cacilie,Email,123,Canned sausages,280.02,801.18,0.19,390.55
+36eb430e-3951-4cfc-a381-e2471b1c5250,715,Karina,Kendrick,2021-08-12,UA,Split (city),2006-07-02,Amelia,Phone,107,Spätzle,374.97,902.26,0.19,331.37
+336f2b89-b7a9-4557-97f6-ba2a913922e7,619,Dominga,Harned,2005-05-19,GP,Ciudad del Este,2017-12-26,Orelia,Email,318,Spätzle,286.17,645.61,0.19,359.67
+b01984b7-bfd1-4904-bcdb-50e4d73858a5,538,Wynne,Sasnett,2005-03-26,PG,Porto Alegre,2020-07-27,Ira,Phone,879,Canned sausages,442.12,560.15,0.19,371.86
+052c845d-8576-4c69-9221-ec5efa8727e9,876,Rayna,Libna,2005-12-31,BG,Port Vila,2007-01-04,Gaylene,Email,524,Canned sausages,328.25,712.47,0.19,318.81
+4f317d85-e1d1-4da0-b921-855ddd262613,39,Kara-Lynn,Tybald,2004-04-25,NZ,Kobe,2020-12-02,Lenna,Email,40,Spätzle,467.36,707.08,0.19,315.81
+6b3412e3-87b4-4fb0-9956-b9cd71c19781,261,Amalie,Raseda,2022-10-27,CX,Moscow,2004-06-20,Lisette,Phone,688,Canned sausages,319.64,868.7,0.19,368.99
+af36c0cd-1adc-4b21-aead-eab247d64404,427,Kerrin,Vittoria,2024-01-26,BB,Zürich,2017-12-05,Myrtice,Phone,415,Canned sausages,360.57,818.65,0.19,313.88
+2f015e64-2799-4def-9808-c405db83a775,587,Yolane,Schonfeld,2006-09-24,MT,Bratsk,2013-05-30,Trixi,Email,191,Spätzle,372.72,593.5,0.19,471.68
+f98a9a69-1470-404d-af8b-9cc5d4a3adf7,62,Ardys,Weinreb,2022-11-04,CV,San Juan,2006-07-31,Eve,Phone,430,Canned sausages,338.8,848.62,0.19,317.45
+69acc43d-d4cf-4fdd-b2c9-9f851ee7a362,647,Tomasina,Redmond,2009-10-20,CY,Gaborone,2020-04-18,Myriam,Email,770,Canned sausages,422.83,774.77,0.19,339.18
+449a1875-2a1e-4b3f-b9d9-4093146e74c0,288,Maisey,Sheedy,2013-09-19,DE,Maputo,2020-07-10,Kristina,Phone,755,Canned sausages,352.24,795.58,0.19,451.88
+46ac5aa1-f240-4d78-9cf3-5d9a4324dadf,481,Cherilyn,Hartnett,2008-12-24,BA,Cayenne,2021-09-20,Susette,Phone,379,Canned sausages,396.62,981.02,0.19,435.66
+b324b21d-a624-415f-bb08-571439b70c82,586,Orelia,Douglass,2003-07-16,KP,Salt Lake City,2017-11-06,Vita,Phone,394,Spätzle,282.58,504.89,0.19,497.67
+06c667cd-b6c4-4dbc-951a-fa64e9f792b2,723,Misha,Skell,2017-07-25,MR,Makassar,2012-01-12,Tamqrah,Phone,871,Spätzle,498.09,967.39,0.19,354.94
+3405c0aa-a8dc-4fe8-8640-e9fb756a66e5,503,Rochette,An,2015-10-07,DJ,Hong Kong,2023-03-31,Linzy,Phone,833,Canned sausages,273.51,658.99,0.19,360.64
+923f87ab-1d4f-4efe-b7e4-236dfc29b01a,953,Alyssa,Saint,2016-02-04,ML,Ürümqi,2019-08-18,Olivette,Phone,533,Spätzle,266.85,571.42,0.19,424.26
+4cb7ea4a-aad4-4fce-90d0-02c75ceefd6d,961,Daphne,Mott,2007-06-13,MW,Concepción,2010-09-01,Anestassia,Phone,982,Spätzle,437.66,604.71,0.19,417.03
+eb03aaab-1a6f-4957-903f-a5dbb7d3be10,262,Sandie,Jotham,2017-03-14,IM,Dunedin,2002-01-28,Antonietta,Phone,817,Canned sausages,462.5,964.08,0.19,306.83
+63af337e-e803-44bb-a78f-ee9dada655ad,452,Laure,Christine,2010-08-01,TC,Albuquerque,2010-05-27,Berget,Phone,642,Canned sausages,383.7,585.56,0.19,466.72
+ec2ca757-e452-45b7-8418-780b04b6f1a3,307,Paule,Read,2004-11-11,RW,Gdańsk,2023-01-03,Leontine,Phone,386,Spätzle,467.95,740.65,0.19,443.49
+9eb0a756-3746-4424-8635-071aba5f5b35,626,Tybie,Lilybelle,2007-11-05,MN,Bangkok,2006-02-14,Rosaline,Phone,684,Spätzle,272.93,804,0.19,411.59
+b4aaaead-5b1d-4d70-83d8-fdbfa0d5f97c,846,Phedra,Melleta,2003-10-08,GY,Tbilisi,2007-03-24,Edee,Email,547,Spätzle,495.7,956.7,0.19,370.33
+3882e194-d8f3-44ac-ac12-9f8ad8336ca7,808,Tierney,Anestassia,2009-07-06,VG,Busan,2008-09-26,Genovera,Email,557,Spätzle,221.99,953.88,0.19,300.26
+e7472684-314c-465a-9493-6d8fcc7d39fd,874,Marita,Diogenes,2020-11-07,PG,Singapore,2008-11-19,Dode,Phone,474,Canned sausages,446.99,862.86,0.19,420.45
+298d4094-00bb-46cc-a732-a56e268bc400,900,Grier,Tacye,2017-12-21,EC,Charlottetown,2013-10-26,Yvonne,Phone,877,Spätzle,278.5,535.01,0.19,357.92
+bcae0e0c-0b70-4c25-8ae2-011ea95e805c,229,Shandie,Seessel,2019-06-03,NE,Port of Spain,2010-01-18,Merle,Phone,197,Spätzle,354.59,957.15,0.19,403.31
+417b5968-755f-4140-8692-18cb81983788,132,Phedra,Noam,2024-08-29,OM,Chişinău,2010-04-28,Michaelina,Email,53,Canned sausages,212.21,731.14,0.19,421.34
+ba77bb91-7446-4ea3-b801-7c6b66cabe89,188,Arlina,Kazimir,2007-01-18,AZ,Tampere,2005-08-05,Marcy,Email,742,Canned sausages,459.07,905.78,0.19,384.38
+4cc94bbd-816a-4d8b-91d1-2ad59ebe5cc0,73,Mara,Casimir,2005-01-06,AN,Taipei,2004-12-17,Hyacinthe,Phone,254,Canned sausages,488.77,879.94,0.19,489.77
+0271348a-9523-429d-b5a5-66e1890f8305,945,Laurene,Wadell,2013-02-02,KN,Barranquilla,2020-04-07,Zondra,Email,459,Spätzle,445.29,701.44,0.19,397.47
+bd0b8b44-f8f0-48ea-b10b-d7facc4a9961,778,Althea,Hertzfeld,2021-08-17,CC,Juneau,2020-09-16,Brianna,Phone,257,Canned sausages,250.58,802.1,0.19,316.22
+75bada65-385f-4c60-95da-437aa87ff020,675,Bobbi,Roxanna,2024-02-28,TL,Taichung,2018-12-18,Merle,Phone,105,Canned sausages,243.12,839.8,0.19,375.61
+73569d12-6943-4fe0-815e-b12db1d322df,117,Morganica,Old,2017-11-10,NA,Novosibirsk,2014-08-16,Netty,Phone,58,Canned sausages,313.78,767.26,0.19,448.97
+c372ae64-ce28-4bce-8821-0c464a53e671,331,Olwen,Bultman,2016-11-30,GI,Denpasar,2018-11-14,Elvira,Phone,375,Canned sausages,319.79,749.28,0.19,328.36
+12cb8f31-310f-4c2b-ad6a-f7fae99a39c8,948,Dorothy,Ietta,2017-02-11,PR,Rome,2014-01-02,Ursulina,Phone,459,Spätzle,473.78,676.6,0.19,366.75
+5b0ce00f-7eb5-40f8-8265-42e5b34c1038,663,Mureil,Cleo,2001-07-22,MW,San Antonio,2008-05-09,Cherilyn,Phone,525,Canned sausages,447.37,692.24,0.19,469.48
+6f1baf49-3696-4827-801f-c48844186e77,19,Bobbi,Chapland,2004-10-03,PW,Lviv,2003-05-16,Trixi,Email,177,Canned sausages,454.42,656.91,0.19,459.07
+e50f0137-a77f-40cc-81ee-fef4ca5d6ecc,852,Gui,Adamsen,2017-05-17,SK,Abu Dhabi,2006-02-14,Roslyn,Email,942,Canned sausages,254.81,839.81,0.19,377.32
+1deea612-da87-443c-acbc-d9a935b6b094,429,Sarette,Jerold,2018-06-29,JE,Charlotte Amalie,2013-10-25,Juliane,Email,798,Spätzle,301.09,643.93,0.19,438.86
+e407e7bd-7deb-4aa4-9f5a-412e792e7900,181,Silvana,Ammann,2021-03-19,SL,Ashgabat,2004-12-11,Trixi,Email,844,Spätzle,315.91,951.34,0.19,425.96
+77a06a8f-c922-4c37-805a-ee7eb754c955,589,Roslyn,Ferino,2011-12-26,SR,Pattaya,2014-01-09,Catharine,Email,653,Canned sausages,440.4,605.3,0.19,488.99
+2fb8c62c-23f8-42ec-bc5a-74de4c355cdf,16,Dania,Read,2007-03-29,KH,Helsinki,2010-02-22,Allyce,Email,860,Spätzle,226.04,718.88,0.19,347.45
+c0e7f125-d81f-44e0-94a3-17fd3f837d4c,50,Rhoda,Zeeba,2012-12-03,LA,Cairo,2009-12-09,Cristine,Email,105,Spätzle,241.38,654.72,0.19,328.21
+d3adaaa7-2f9a-4ef2-9eb7-135a4f8dd357,517,Glynnis,Ivens,2007-09-23,BA,Marrakech,2006-05-01,Frank,Phone,741,Canned sausages,340.77,950.36,0.19,304.45
+1468955f-81bf-4272-b469-4defb2135f96,44,Tobe,Gaulin,2002-12-05,AR,Puerto Williams,2004-10-08,Roseline,Phone,374,Spätzle,420.02,897.74,0.19,362.17
+5d82a1ac-d46f-4db2-b226-c80c6e529a08,428,Lita,Ilka,2021-01-18,ZA,Brussels,2017-06-11,Gisela,Phone,361,Canned sausages,379.96,905.1,0.19,456.74
+2bc236b8-d8ee-468c-b2d3-f394fc8003b4,779,Harmonia,Morrill,2007-10-24,AG,Kolkata,2022-06-13,Candy,Phone,43,Canned sausages,300.37,825.47,0.19,360.52
+90493f0d-c9d9-4798-affa-31c0363999b3,919,Kenna,Flyn,2007-10-09,JO,Nanning,2014-09-04,Melisent,Phone,123,Spätzle,342.28,821.53,0.19,339.15
+ad553869-e79d-40fb-b968-d2189c1f5892,967,Celene,Sholley,2011-03-15,TW,Majuro,2016-10-05,Tatiania,Phone,331,Canned sausages,395.28,645.12,0.19,455.89
+e46af493-1349-49f2-98c4-4933a9662a71,494,Margarette,Loeb,2016-05-23,GL,Phuket (city),2016-08-23,Elvira,Phone,315,Spätzle,395.31,817.09,0.19,423.92
+5ba5a122-949c-4c45-837f-e0ea5ca424bf,208,Clary,Ivens,2015-01-10,CI,Oklahoma City,2016-12-06,Barbi,Email,302,Spätzle,448.55,852.93,0.19,361.42
+1df5cc14-b6a1-42f9-b460-09846153eccb,853,Sadie,Lamoree,2016-08-29,AL,Port Moresby,2016-07-11,Minda,Phone,413,Canned sausages,256.47,926.55,0.19,342.38
+6495bb84-ae35-48f6-81bc-4917242d47b5,988,Anica,Pacorro,2004-08-18,ID,Banda Aceh,2002-07-13,Basia,Phone,687,Spätzle,440.81,904.31,0.19,461.08
+e9288ecf-833b-48d6-9a67-cab0f7ca1ef0,151,Romona,Maiah,2007-01-13,SZ,Huế,2011-09-09,Cathie,Email,700,Canned sausages,376.3,704.41,0.19,495.31
+cb0ad1ec-9c49-4429-ae67-77948246f555,569,Jessamyn,Grayce,2000-12-28,RU,Tel Aviv,2008-06-05,Mathilda,Phone,261,Canned sausages,483.63,543.29,0.19,333
+53c56286-bce7-4074-9855-d5b4cb92e53a,800,Dawn,Yerkovich,2019-05-22,DZ,Barcelona,2009-03-12,Emelina,Email,28,Canned sausages,395.28,608.04,0.19,330.24
+53dc9488-8e11-455e-9452-2c88e077c555,933,Tracey,Gherardo,2001-02-14,US,Valletta,2004-06-15,Devina,Email,262,Canned sausages,353.28,650.03,0.19,350.25
+353ad5ee-449b-4302-bc2b-20742f3673bf,177,Regina,Kesley,2024-12-07,PE,Hilo,2012-02-28,Cam,Email,331,Canned sausages,477.07,725.3,0.19,320.08
+bbc4034a-6207-4f39-aea3-409f2dfc7670,492,Dione,Claudine,2012-02-07,MV,Abu Dhabi,2022-04-13,Caressa,Phone,151,Spätzle,219.05,514.47,0.19,300.6
+b843044b-2759-49d0-aac9-2a6800ac14ce,624,Diena,Kevon,2024-10-10,LC,Dodoma,2010-02-27,Olwen,Email,111,Canned sausages,488.98,942.04,0.19,406.16
+68ff11cb-9a4c-4915-b158-3754c08dbddb,464,Addia,Fry,2017-10-11,FM,Luxembourg (city),2018-01-06,Quintina,Email,653,Canned sausages,246.84,534.88,0.19,383.17
+a0bc9a06-0c3c-420f-b56a-365481095ba2,887,Marinna,Malina,2024-11-03,GY,Brisbane,2011-07-03,Lynea,Phone,446,Spätzle,405.85,932.87,0.19,446.18
+9a030975-43e3-4cbe-afed-73794cfae9e5,393,Nyssa,Jacinda,2021-07-28,BS,Minneapolis,2011-07-06,Viki,Email,214,Spätzle,304.23,684.96,0.19,449.8
+d0b44dd0-3f50-45fd-bd84-f2e416c88a18,199,Adelle,Girardo,2004-08-16,BZ,Almaty,2000-09-10,Hermione,Phone,160,Spätzle,495.96,604.98,0.19,370.98
+61f80e5e-b1c8-43f4-bac7-3d48db5f3f75,429,Rhea,Buttaro,2004-02-25,TV,Stanley,2007-06-16,Correy,Email,893,Canned sausages,235.98,904.14,0.19,307.47
+d3ed2d29-a34a-4a8c-9da7-8ab16a1cd522,664,Heida,Jehu,2017-07-18,TV,Linz,2004-01-23,Charlena,Phone,464,Canned sausages,261.01,654.88,0.19,312.61
+be3533db-8bab-40cc-bb4e-63d032ff22e8,993,Lolita,Muriel,2017-07-10,CI,Gaborone,2023-05-09,Olivette,Phone,550,Canned sausages,437.28,750.06,0.19,381.82
+a5140996-20d7-4391-8e9d-2473e525a750,393,Lulita,Hamil,2004-05-30,RW,Porto-Novo,2008-04-16,Amii,Phone,698,Spätzle,301.6,590.82,0.19,389.88
+2c53a9bc-76de-4457-b236-4892cc3bdd2a,389,Tomasina,Sacken,2002-08-08,VC,Valparaíso,2001-06-25,Roxane,Phone,5,Spätzle,226.66,901.19,0.19,322.4
+6a714e56-cd44-409e-835c-607a35706aa7,111,Lelah,Sinegold,2023-05-15,SH,Pune,2021-04-02,Carree,Email,646,Spätzle,426.43,848.29,0.19,313.71
+6e29d277-dcef-47e9-8fba-2fd643722cd7,147,Gilda,Lilybelle,2011-01-07,SY,Nice,2008-08-27,Dale,Email,618,Spätzle,497.16,840.94,0.19,354.06
+e86a578d-2fca-4af8-a69a-6f4758bedca9,847,Cherrita,Schroth,2014-10-31,TD,Bandar Seri Begawan,2016-02-13,Carolina,Phone,83,Canned sausages,235.77,914.92,0.19,393.08
+574d0e67-0e39-4359-bcaa-17f1b77c0205,629,Ethel,Edison,2005-05-28,MG,Gaziantep,2001-09-11,Ardys,Phone,253,Spätzle,397.31,592.3,0.19,468
+80b450e8-c76d-496b-a28d-1f11dedaa043,632,Sheree,Dichy,2004-08-30,QA,Luxor,2011-02-16,Halette,Email,974,Spätzle,257.12,634.96,0.19,383.16
+91e68837-fb37-4457-b073-9c1dcb6d4d56,128,Shauna,Jeanne,2013-03-25,AF,N'Djamena,2000-02-20,Gwenneth,Email,53,Canned sausages,350.01,721.45,0.19,371.93
+f09ee356-0a67-41a7-9505-024ed855b9da,943,Goldie,Helve,2001-12-06,CM,Bishkek,2017-02-25,Tersina,Email,834,Spätzle,347.41,702.28,0.19,329.84
+b4a60e8a-a1dc-46e3-9f3b-206ab5ea58aa,386,Norine,Vivle,2014-09-29,SA,Stepanakert,2002-10-25,Florie,Phone,208,Spätzle,407.38,500.24,0.19,371.16
+3ce8b754-bbc0-4318-b3e3-1df2284f99b6,200,Brooks,Stelle,2009-01-14,MR,Douala,2016-07-23,Janey,Email,354,Canned sausages,372.86,930.95,0.19,493.41
+3149fa19-2298-4b30-bc6f-b09ef0918643,292,Sharlene,Vale,2001-11-22,VC,Handan,2007-07-03,Zsa Zsa,Email,747,Canned sausages,371.28,879.93,0.19,474.56
+0d50bc5d-c5d8-4584-a292-007c54873d23,558,Gaylene,Angelis,2007-09-14,GG,Phuket (city),2004-06-01,Dominga,Email,526,Canned sausages,418.89,729.19,0.19,452.83
+048f35f6-543e-4d7a-9c4d-e78831542ba4,222,Lindie,Rurik,2005-10-13,SC,Alofi,2014-04-19,Max,Email,966,Spätzle,238.36,748.53,0.19,494.91
+30e8e97f-a4a0-4c52-a26b-516ea22ba1c7,500,Charlena,Heisel,2013-04-12,CN,Norilsk,2014-09-04,Betta,Email,221,Canned sausages,247.21,605.01,0.19,363.88
+f3cd74c0-9f19-45b2-b56b-156f9811629f,853,Cyndie,Parsaye,2017-09-08,CF,Beijing,2015-03-28,Hermione,Email,667,Spätzle,279.05,516.26,0.19,308.6
+bf71c744-2027-41cb-9c56-d2bbc31e42ce,350,Agnese,Rogerio,2013-08-12,DK,Konya,2023-07-14,Libbie,Email,746,Spätzle,229.69,842.18,0.19,411.76
+7e3ba831-f5bb-410f-947f-ed772fc31a17,353,Di,Duwalt,2003-05-02,IL,Reykjavík,2011-08-05,Esmeralda,Phone,383,Spätzle,285.77,555.37,0.19,318.9
+6c992a3b-2120-4c28-9d8d-c3cc3c1a3959,762,Tybie,Aurelio,2008-12-15,MO,Panama City,2022-10-10,Berta,Phone,575,Canned sausages,245.94,513.25,0.19,389.77
+d783acea-a473-4175-a6cb-1d599ab395d9,760,Allis,Leonard,2012-03-09,VU,Honolulu,2020-07-08,Maryellen,Email,107,Spätzle,416.02,671.13,0.19,326.14
+e10c310f-fcd5-459e-ac55-b33860b00761,825,Mary,Wallis,2008-12-01,OM,Avarua,2007-06-22,Clarice,Phone,433,Canned sausages,283.91,876.6,0.19,433.26
+8d42d62d-47c0-4802-b380-fb1e1b820676,638,Wileen,Ovid,2004-08-09,KZ,Timbuktu,2023-12-05,Cristine,Email,983,Canned sausages,447.72,585.67,0.19,435.38
+2bd37472-83a0-42fe-9d4d-38ba13044a20,888,Kamilah,Maurine,2009-06-17,KN,Khartoum,2023-08-11,Adelle,Email,719,Spätzle,310.46,965.71,0.19,406.18
+54103071-7b83-4a4b-ba54-b6ed706295a0,75,Alisha,Land,2000-10-26,JO,Nakhon Ratchasima,2021-09-09,Adore,Email,189,Canned sausages,398.69,872.36,0.19,498.36
+01d39ca2-c5ad-4701-91ec-c336db0d6628,783,Dianemarie,Alfons,2007-08-08,SL,Anchorage,2014-08-18,Tersina,Email,543,Spätzle,265.72,861.63,0.19,425.35
+fb1c9bb5-0933-4ccd-a355-abfa862988ea,540,Vere,Wilkinson,2012-09-10,SL,Harbin,2010-10-13,Rochette,Phone,92,Spätzle,493.26,893.9,0.19,487.09
+bef082a5-9d3d-44ce-a04c-70dd6dfab60c,262,Melanie,Crudden,2010-04-01,ES,Iqaluit,2024-07-26,Ilse,Email,461,Spätzle,286.11,773.61,0.19,456.86
+cb886a19-3be2-40b3-880d-bb8f44ff2e2d,899,Jan,Bronk,2020-05-05,SM,Papeete,2010-10-10,Clementine,Phone,713,Canned sausages,397.75,701.67,0.19,351.53
+b02c866f-f5c0-436b-935e-3e8f2057d194,689,Felice,Mich,2019-05-25,CR,Stepanakert,2008-12-25,Bettine,Email,650,Spätzle,463.45,526.22,0.19,454.88
+7c84f065-93a4-41ad-b0ca-1af1ab3cd364,469,Jordan,Abernon,2022-04-20,IR,Bishkek,2024-10-08,Georgetta,Email,691,Spätzle,362.99,993.24,0.19,482.1
+64428db9-83d2-4136-916f-65833df3cc84,983,Noelle,Darian,2007-12-10,JP,Kobe,2005-08-28,Debee,Phone,450,Canned sausages,399.08,917.77,0.19,328.16
+902e8574-2c94-4a86-ab7f-9ebdaf052537,524,Mary,Harl,2018-12-14,FO,Durango,2024-01-04,Maye,Email,579,Canned sausages,375.59,653.18,0.19,336.87
+1207075d-575b-4b8a-935e-089deaef26fc,999,Robbi,Yam,2019-07-31,TK,Rochester,2004-12-19,Myriam,Email,641,Spätzle,499.79,885.38,0.19,337.18
+a4e38018-250e-4816-8ffc-2eed7a4de171,393,Silvana,Dorcy,2016-01-17,PK,Xining,2012-08-25,Dione,Email,386,Canned sausages,243.66,860.6,0.19,324.31
+14356c6d-2734-43ad-934b-d6496abcdcb8,829,Deloria,Dermott,2009-01-12,UY,Stanley,2010-01-09,Ginnie,Email,789,Canned sausages,315.52,744.09,0.19,439.23
+2a5763d9-8fe4-47bc-a37f-1defcf4d4767,586,Beth,Macey,2022-02-15,QA,Nukulaelae,2000-01-18,Livvyy,Email,258,Spätzle,458.16,980.93,0.19,356.86
+cdeac385-1818-455e-90cf-03e15ac8be78,828,Binny,Sharl,2002-12-23,LU,Port of Spain,2004-08-11,Ursulina,Phone,806,Spätzle,261.28,638.11,0.19,302.26
+0fd07050-01b5-438a-a8f2-5a4f5322f67b,897,Christy,Halla,2003-11-21,FK,Maracaibo,2023-06-27,Elyssa,Phone,615,Spätzle,226.81,914.7,0.19,439.71
+59c3d548-7912-42af-a4c4-38c7ac18741c,708,Caressa,Ursulette,2012-04-07,BR,Chaguanas,2001-02-08,Bertine,Phone,642,Canned sausages,444.91,909.94,0.19,473.9
+0848e18a-b13d-4d8d-bca2-b6c70a0bb7fa,773,Oralee,Sadowski,2008-03-05,GI,Santa Cruz de Tenerife,2011-09-01,Di,Email,407,Spätzle,455.21,840.29,0.19,302.04
+4e078535-cb3b-4705-9071-0d810d445706,222,Joceline,Eugenia,2001-03-10,MD,Willemstad,2010-02-26,Madalyn,Email,542,Canned sausages,408.68,573.57,0.19,327.93
+d418ac2a-0334-4275-9083-1fa28c389b1f,297,Phedra,Darian,2004-07-18,MY,Horta (Azores),2011-12-27,Dione,Phone,219,Spätzle,385.1,761.15,0.19,375.08
+4e53dafc-a5da-4c1f-a901-bee8dea25f46,357,Jillayne,Wattenberg,2024-03-30,TV,Chaguanas,2004-01-17,Danny,Phone,607,Spätzle,460.11,841.35,0.19,310.82
+62bd8197-cd2a-411a-aca1-3a41c25312d3,50,Ana,Sallyann,2018-10-14,WF,Vilnius,2006-01-25,Lonnie,Phone,866,Spätzle,435.67,928.59,0.19,443.36
+b04ed42f-776d-492e-86c2-21a230cbec64,347,Bill,Jacobah,2018-04-02,LS,Road Town,2013-07-03,Johna,Phone,848,Canned sausages,293.23,941.41,0.19,335.97
+871e4c55-5691-4060-8012-5e3b0df37e07,554,Gwyneth,Lilas,2023-06-27,FM,Tijuana,2013-11-16,Dominga,Phone,429,Canned sausages,224.15,732.45,0.19,381.92
+bd942428-09e5-45b5-969d-3b7ee82c20b0,511,Korrie,Hourigan,2017-04-25,VU,Guadalajara,2023-02-04,Emelina,Email,545,Spätzle,475.25,873.62,0.19,449.66
+b96c2847-0e7e-41ea-855e-4fd3a02c52bd,812,Dominga,Socha,2003-07-09,PR,Innsbruck,2022-09-30,Viviene,Phone,251,Spätzle,338.73,859.27,0.19,405.82
+01637835-eb00-4f87-a428-c04a96132840,76,Ruthe,Demitria,2013-07-17,TH,Kota Kinabalu,2020-02-01,Lynea,Email,329,Spätzle,373.81,648.72,0.19,338.02
+18003417-e41f-41a2-8e0a-de1f0e47ec3a,901,Lexine,Junie,2021-11-01,TO,Port Moresby,2013-01-13,Helena,Email,107,Spätzle,383.52,772.58,0.19,360.13
+3cdb958c-9a83-4717-a070-81bfc99df7e4,423,Meriel,Ralfston,2008-06-24,TM,Virginia Beach,2016-05-25,Gilligan,Email,624,Canned sausages,355.37,989.26,0.19,323.46
+835ff072-551f-4c1d-8479-27ce21a0eb55,674,Alleen,Drisko,2006-10-17,UA,San Juan,2019-05-28,Libbie,Email,24,Canned sausages,285.08,570.5,0.19,434.62
+4e6eb708-74ef-49f7-9595-55748ace7706,243,Ericka,Lane,2006-01-30,KW,Kinshasa,2003-02-22,Wilma,Email,414,Spätzle,420.27,515.48,0.19,306.55
+c73746fa-8f28-4a6a-9bb0-54eff62f1cd4,401,Ira,Edison,2005-04-06,AS,City of San Marino,2001-01-04,Kate,Email,125,Spätzle,344.69,774.18,0.19,487.35
+765a7b4d-c358-4c7b-b210-9b9ada06ebf1,981,Roseline,Richers,2015-01-19,SB,Suez,2022-09-21,Betta,Email,682,Spätzle,232.3,734.43,0.19,401.53
+e9721ee0-8f46-4e24-899f-a84eb2f4cf2b,370,Brena,Afton,2018-09-08,MY,Tampa,2014-08-21,Mara,Email,335,Spätzle,405.64,919.34,0.19,480.69
+bdf0564b-165e-4165-8ba5-f1442c4d20f3,515,June,Dahlia,2009-07-31,CF,Johannesburg,2005-05-02,Carly,Phone,170,Canned sausages,361.99,536.8,0.19,324.68
+1dcb1d1c-4698-4820-b1e3-79ce928515aa,520,Nickie,Madelene,2021-08-24,TZ,Hilo,2002-04-05,Dari,Email,248,Canned sausages,200.36,873.11,0.19,482.17
+ba7b699a-02b5-4075-b1b5-5227c7738c24,413,Kerrin,Gordon,2012-02-03,CZ,Geneva,2009-01-22,Goldie,Email,826,Canned sausages,376.66,640.75,0.19,476.23
+e7576164-168f-4a37-8271-4b2b0decbeae,63,Alejandra,Noman,2016-03-01,GT,Addis Ababa,2020-07-14,Rhoda,Phone,229,Spätzle,268.39,926.19,0.19,425.81
+e3421ca8-2f7b-49a9-8ac8-c570b34602cd,650,Giustina,Lytton,2009-04-04,EE,Munich,2021-05-28,Juliane,Phone,108,Canned sausages,432.37,609.45,0.19,442.52
+88fe41b7-6660-4aca-a3d3-433ab4fca97d,844,Evaleen,Xerxes,2002-07-09,CU,Nakhon Ratchasima,2020-02-10,Annice,Email,603,Canned sausages,228.91,718.81,0.19,377.49
+66023c06-6223-4586-99ac-1b6239eb906f,445,Modestia,Tillford,2008-02-22,MP,Praia,2008-12-08,Shauna,Phone,449,Spätzle,212.02,541.16,0.19,353.22
+4fee9ef7-8781-44df-92f2-ff5225aef807,246,Kate,Gaulin,2012-09-02,PE,Cape Town,2015-08-29,Donnie,Email,960,Spätzle,492.84,768.82,0.19,489.94
+2ddfd9ff-00cd-4089-b3f1-a6cdc9b77dd3,897,Malina,Ludewig,2008-03-19,DZ,Abuja,2013-09-12,Caressa,Phone,555,Spätzle,476.26,767.39,0.19,461.72
+3aceb2e5-9ce4-411a-b1b5-f895ece915b4,70,Meg,Narton,2015-11-06,TC,Sarajevo,2008-05-27,Jobi,Phone,851,Canned sausages,315.72,766.96,0.19,307.52
+12a5d786-a4f6-4f8c-adf2-45f68c9be03a,634,Madeleine,Percy,2019-06-06,TV,Winnipeg,2015-07-20,Annora,Phone,191,Canned sausages,461.61,684.41,0.19,413.72
+4321bd2d-a368-41e6-b401-f3e033530297,483,Eolanda,Hertzfeld,2006-04-11,BY,Campinas,2011-01-04,Paule,Phone,130,Canned sausages,378.83,924.5,0.19,334.85
+b1a1ce0a-c095-446f-a7aa-faaad1c175ca,841,Blinni,Alva,2020-10-31,MG,Malang,2018-09-01,Celisse,Email,595,Canned sausages,274.18,588.11,0.19,332.53
+d2ef666e-5ade-4ea6-baf8-a4d1831fb8d8,392,Fredericka,Astra,2015-11-08,GU,Amman,2004-11-12,Rivalee,Email,857,Canned sausages,480.8,846.05,0.19,339.85
+44f9c659-c398-4465-a4ba-d5c57f5a4158,689,Kimmy,Garlinda,2010-08-09,HK,Bridgetown,2006-07-14,Nollie,Phone,219,Canned sausages,442.25,585.28,0.19,428.37
+c6fe60fe-3e20-4efc-8160-11ae1eeb36f3,700,Beverley,Cosenza,2019-12-28,DJ,Moroni,2024-07-03,Joeann,Phone,357,Canned sausages,226.66,737.66,0.19,341.52
+c08ca129-70b1-4d27-8184-d92dcdd43489,802,Janis,Hull,2021-11-30,KI,Kano,2006-05-23,Tonia,Email,446,Canned sausages,472.3,692.97,0.19,340.86
+ba7092ea-63c9-4d12-b78b-c9a872c570c5,440,Viviene,Mallon,2010-10-11,AU,Caracas,2005-07-11,Merci,Email,26,Canned sausages,322.77,810.66,0.19,440.98
+5da60c8d-7929-4ea6-ab39-9fc3789e3f2e,564,Catrina,Donell,2017-09-07,GF,San Juan,2019-12-24,Celestyna,Phone,859,Spätzle,463.99,842.41,0.19,482.42
+dc1ff4b7-083b-4a3e-87ba-93d3984c6847,785,Marcelline,Ochs,2020-10-21,VG,Adamstown,2010-02-02,Tybie,Email,711,Canned sausages,277.4,662.55,0.19,449.63
+35b7da58-0277-413d-9906-829a74bfb75d,478,Rosene,Buckler,2015-06-07,BH,Nouméa,2023-03-21,Lanna,Phone,437,Spätzle,284.5,997.96,0.19,302.79
+e5991896-9e6e-4277-ad8b-28e038eb42a0,412,Doralynne,Decato,2018-07-24,GG,Havana,2007-07-22,Sharlene,Phone,406,Spätzle,419.94,742.8,0.19,356.09
+840ab338-f53e-4f08-beb3-383bbc67689d,257,Orsola,Artie,2020-06-27,MD,Phuket (city),2009-08-11,Roseline,Email,531,Canned sausages,371.32,766.45,0.19,317.36
+0263ff08-cf3e-4bec-ab00-b82f59a78276,509,Chandra,Anis,2020-12-17,GG,Konya,2024-10-26,Lita,Email,67,Canned sausages,294.21,887.4,0.19,416.96
+f7bc7d62-58c1-4fef-b2bb-1474629bbd69,307,Brooks,Artie,2018-03-03,EG,Okinawa,2008-09-02,Emylee,Email,975,Spätzle,357.71,784.24,0.19,493.3
+7df1f2ca-cdd5-4689-ab56-9238a759d8ac,755,Annaliese,Shama,2007-09-05,KG,Fortaleza,2010-09-30,Caressa,Email,27,Canned sausages,381.13,531.24,0.19,333.86
+8d45c1d3-f062-4c96-89ed-06e1ee15eca3,384,Robbi,Cecile,2006-06-04,MG,Port Louis,2006-11-13,Flory,Phone,422,Canned sausages,302.44,862.05,0.19,326.17
+aff2daf8-d074-4e00-8c2b-ae79f14f8c4d,144,Alia,Chick,2014-04-05,VI,Jeddah,2014-02-26,Magdalena,Email,786,Canned sausages,356.37,699.23,0.19,467.59
+7c45fadc-54c8-4b5d-a63e-6f3c7a0852a0,75,Roxane,Han,2011-07-12,CU,Hanoi,2012-02-09,Dawn,Email,48,Canned sausages,423.2,807.12,0.19,430.25
+81d9f175-751a-43cf-b473-317a5eacfde1,481,Annora,Gale,2003-11-01,CM,Winnipeg,2005-10-11,Edith,Phone,394,Spätzle,440.47,636.78,0.19,451.98
+ebadc0e3-7168-4e6a-8126-dea70dd9e474,668,Elena,Rooney,2022-01-13,MG,Faisalabad,2004-07-11,Di,Email,722,Canned sausages,342.58,608.95,0.19,412.05
+62c59a61-be5f-4593-b112-97d5505c22ab,8,Taffy,Emanuel,2011-03-07,MV,Shanghai,2006-06-27,Kelly,Phone,70,Canned sausages,476.45,743.74,0.19,320.37
+4a0dc720-384a-402e-95a0-387221286fbb,301,Blinni,Wattenberg,2022-12-15,NR,Agartala,2015-02-19,Wanda,Phone,220,Spätzle,294.49,717.82,0.19,450.68
+c612a59c-8ca6-4ebc-948d-b155ff7ffcc7,541,Halette,Lanita,2007-07-05,GE,Hiroshima,2020-06-22,Pierette,Phone,286,Canned sausages,290.31,651.98,0.19,482.94
+4e0856dd-7c2e-4100-9433-28f7a42b2178,850,Inga,Clarissa,2009-07-15,GL,Accra,2012-01-15,Mahalia,Email,607,Canned sausages,204.78,883.32,0.19,382.55
+5c88d2f1-6f80-4ce7-a53b-699fe2dd9d8f,103,Brietta,Hutchison,2010-11-03,NR,Asmara,2007-10-31,Roberta,Phone,281,Spätzle,366.94,569.16,0.19,400.31
+9b3fa7c1-a3e3-436a-8ac0-1217f26d4aa1,715,Priscilla,Isidore,2006-07-15,BV,Los Angeles,2011-02-01,Gwyneth,Phone,559,Spätzle,485.56,667.51,0.19,482.15
+985f077b-9c07-47d4-bfdf-ef81f26a9fc4,413,Tarra,Lacombe,2000-01-08,CR,Moroni,2006-02-14,Sidoney,Email,417,Spätzle,220.21,647.33,0.19,456.36
+9f24a4d1-8c1b-4c18-908f-b75a8673f063,299,Talya,Zamora,2008-06-20,EE,Amritsar,2024-08-21,Kerrin,Email,260,Canned sausages,282.14,604.2,0.19,495.18
+0b60ba8e-8b5d-40a1-860f-f0377cf0fa8b,889,Arabel,Gombach,2011-12-21,TR,Iloilo City,2004-10-22,Sheelagh,Phone,25,Spätzle,500.01,764.17,0.19,481.62
+8fffc76c-a144-4bc6-b156-a1ca8203de7a,933,Imojean,Heidt,2020-04-22,WF,Lhasa,2011-04-08,Meghann,Email,909,Canned sausages,374.15,888.07,0.19,462.56
+ebd56992-89d2-43b6-95e5-c9a58e7fbf55,772,Lilith,Naashom,2018-10-04,PT,Vancouver,2001-05-22,Elsie,Email,756,Spätzle,215.48,862.08,0.19,383.64
+bcd749fc-50cd-4510-b59c-5bbd9877d1ed,929,Olivette,Jorgan,2023-07-13,PS,Toulouse,2017-06-04,Desirae,Email,326,Canned sausages,497.49,789.99,0.19,420.85
+9b921bd4-ec83-4c44-9cb7-e8186ff458b8,366,Kara-Lynn,Ambrosia,2010-07-19,GH,Cuiabá,2015-02-11,Libbie,Email,641,Spätzle,332.68,730.02,0.19,389.74
+fb0dc14a-efc8-486e-905b-98b13afb5f9a,450,Jessamyn,Knowling,2021-04-15,KI,Dushanbe,2013-11-07,Lexine,Phone,126,Spätzle,463.44,598.95,0.19,364.2
+25a26511-a64e-4b87-94d0-221c571d57bf,843,Dennie,Khorma,2006-12-02,ZM,Wuhan,2001-04-26,Pearline,Phone,872,Spätzle,388.6,922.11,0.19,427
+d647bf95-c3ef-4b8d-b7c6-5676d5ccddcc,439,Wendi,Yam,2007-07-22,CM,Naples,2005-12-22,Brooks,Email,723,Spätzle,363.57,696.81,0.19,486.06
+a08f2509-6574-4a89-950e-67bb07a9a064,68,Dotty,Bury,2018-05-18,GY,Kuwait City,2004-04-16,Ronna,Email,578,Spätzle,318.2,587.54,0.19,346.37
+a7c4d1ba-6043-40d9-b1d9-25ee2948807d,912,Agnese,Ricarda,2024-07-11,ES,Chiang Mai,2001-03-08,Dorthy,Phone,973,Spätzle,242.43,550.98,0.19,309.6
+d81a6e94-26b4-465e-a679-ac8118dc2f8e,78,Larine,Shama,2014-05-21,SM,Bogor,2008-04-09,Sybille,Email,446,Canned sausages,315.66,633.07,0.19,394.31
+1e443bd8-1d68-4b6d-a73c-369c9a094ed3,828,Andeee,Means,2017-02-05,CM,Manzini,2003-04-28,Nanete,Email,190,Spätzle,213.92,816,0.19,319.08
+1a0dcd76-e671-4b9a-b782-e8ed0654bff7,820,Rhea,Stilwell,2000-12-31,TJ,Tskhinvali,2024-12-25,Kittie,Email,745,Canned sausages,376.92,789.43,0.19,303.81
+dc1d5225-4d3d-4f33-bfa7-1fc3344ea626,318,Winny,Ailyn,2020-01-31,ET,Manzini,2000-12-17,Zaria,Phone,263,Canned sausages,434.83,606.57,0.19,480.99
+c8cff079-4c55-408f-882c-2128b5fe4225,652,Livvyy,Hortensia,2010-03-09,MU,Málaga,2024-02-08,Vita,Email,620,Canned sausages,498.8,747.59,0.19,373.14
+cd751089-5de4-4a25-bbd6-f7d59682c9db,837,Celene,Gaspard,2010-03-12,AS,Basra,2016-05-19,Doro,Phone,186,Spätzle,497.66,846.41,0.19,495.5
+fc9b294e-ba25-4f5a-816c-7d55f9dd26ba,987,Mellicent,Tjon,2021-04-17,UA,Bridgetown,2023-08-02,Ivett,Phone,439,Spätzle,428.42,770.97,0.19,310.6
+20d52a32-9916-4491-b208-534c5b6b9ef4,918,Britni,Ricki,2009-11-23,SD,Avarua,2020-11-26,Gusty,Email,129,Canned sausages,388.66,686.19,0.19,309.58
+88c362d6-adb3-47ff-8954-6b1c82cf2452,541,Rori,Kendrick,2009-03-02,IQ,Yaren District,2017-01-22,Susette,Phone,741,Canned sausages,215.08,861.08,0.19,437.17
+c00339ae-4e53-4617-b4d7-6f72e81de3b5,41,Odessa,Marden,2000-05-30,FJ,Boa Vista,2000-10-06,Tersina,Phone,894,Canned sausages,245.1,677.78,0.19,459.47
+c7a19067-cc18-44c5-8d35-b2ab2488d596,316,Jolyn,Goode,2005-12-14,RU,Ürümqi,2008-05-29,Tonia,Email,341,Canned sausages,349.62,789.42,0.19,319.97
+2a92f20f-f37b-4288-8566-846f69ec3018,891,Mamie,Sherfield,2008-08-16,AS,Kabul,2000-05-12,Elora,Phone,907,Spätzle,345.66,713.65,0.19,371.23
+29edc8bf-2760-4c42-bd8d-54f20ae6580e,373,Ida,Lalitta,2022-07-11,GR,Manzini,2004-07-03,Nanete,Phone,541,Canned sausages,434.97,620.36,0.19,314.04
+aa495304-4f62-455c-8fbb-2d4a7a34c9f8,321,Halette,Sawtelle,2014-05-02,FK,Yakutsk,2018-08-22,Florencia,Email,407,Spätzle,205.78,830.5,0.19,419.33
+bb262499-90b4-407f-89b4-b25e51bd6a8e,60,Helsa,Lunsford,2011-02-11,ML,Beirut,2002-05-27,Korrie,Phone,972,Spätzle,330.57,920.27,0.19,307.92
+e63056e5-ccde-4e56-8dd4-8ae19aec9352,787,Steffane,Suanne,2010-10-17,CG,Raleigh,2018-07-06,Rosanne,Email,996,Canned sausages,416.18,691.33,0.19,342.38
+396b0935-bc9d-475b-81a0-629a25f04043,274,Carly,Tryck,2023-07-29,VE,Ludhiana,2007-01-08,Lanna,Email,765,Canned sausages,356.47,746.05,0.19,393.06
+bc1525c3-bc2e-43f4-b4c9-2316a32481ed,996,Ruthe,Cimbura,2022-01-24,GM,St. George's,2011-09-11,Jany,Email,893,Spätzle,397.46,958.81,0.19,480.22
+7ba2376c-1d83-4bd6-b6af-9bb368f8cb80,362,Annaliese,Candy,2022-06-21,PN,Gothenburg,2016-11-22,Tina,Phone,912,Canned sausages,251.9,722.39,0.19,383.56
+5bf4dbca-dd1e-410a-a379-7c5a887c2e3b,71,June,Tannie,2003-08-04,PR,Durban,2013-10-25,Selma,Email,789,Spätzle,398.85,880.08,0.19,328.4
+0aea0c47-bf9d-47e6-bdda-f13d7371ce33,939,Heida,Fillbert,2019-06-13,YT,Port-au-Prince,2022-10-14,Katuscha,Email,697,Spätzle,398,631.73,0.19,482.61
+4cf1948a-5528-468f-8fda-57d3a0a3a096,455,Britte,McNully,2012-09-23,LR,Douala,2010-09-27,Coral,Phone,315,Canned sausages,361.38,705.93,0.19,340.33
+c336448d-9d54-4d68-b658-f71a351346ec,402,Estell,Presber,2022-08-17,CZ,Melekeok,2012-04-26,Eve,Email,144,Spätzle,407.12,705.77,0.19,492.02
+2e93ce52-95aa-48d0-b359-0182a2072efd,794,Madeleine,Isacco,2005-12-10,CU,Almaty,2000-12-16,Maisey,Phone,909,Spätzle,301.9,862.7,0.19,485.29
+1e889c35-8273-4e32-9ed0-a6029b5e47da,637,Minda,Marijo,2016-08-01,IL,Petropavlovsk-Kamchatsky,2001-06-30,Louella,Phone,268,Canned sausages,310.82,976.93,0.19,350.5
+85503566-590e-453c-81b2-989a1f035a49,51,Frank,Bearnard,2004-01-06,WS,Ahmedabad,2008-02-23,Marsiella,Email,73,Spätzle,497.8,887.49,0.19,490.47
+1054ef24-daf0-462b-a9e2-d78e4ac87138,523,Elmira,Berl,2007-01-23,YE,Jakarta,2023-11-23,Queenie,Email,16,Canned sausages,297.83,619.98,0.19,398.8
+53abcd0c-66f2-4fe1-87d4-b87cd141ab1e,540,Carlie,Maurine,2015-02-08,TR,Leeds,2001-07-31,Ariela,Phone,105,Canned sausages,452.8,625.46,0.19,316.87
+7b0ab24f-2577-46f9-b363-b7bcbc0b96c6,466,Perry,Engdahl,2005-11-27,KI,Kandahar,2009-10-16,Annecorinne,Phone,51,Spätzle,267.08,600.71,0.19,318.29
+f8d5baa2-b0ad-435b-96c0-2bf49e119f5f,896,Gabi,Gale,2020-09-09,ML,Rio Branco,2014-01-26,Ingrid,Email,723,Spätzle,228.53,881.81,0.19,315.47
+194fe9ec-b5e3-474a-9b6c-8e5128a73b4c,891,Viviene,Nisbet,2021-05-16,NP,Boa Vista,2004-03-07,Vivia,Email,36,Canned sausages,456.63,657.41,0.19,499.64
+177cb6d2-6f7b-4563-88db-daa4397ba436,529,Jere,Letsou,2001-02-24,PT,Recife,2006-08-23,Leona,Phone,14,Spätzle,481.17,992.88,0.19,352.94
+ef8a23b5-71fb-4b98-8c85-b33bb839ce5a,300,Tobe,Syd,2001-10-22,CR,Washington,2012-04-02,Minda,Phone,438,Canned sausages,281.37,559.83,0.19,418.84
+73c3f957-69b6-4c5a-8f69-aa399580f2f6,232,Nadine,Fiester,2023-02-16,NC,Perm,2017-05-11,Rhea,Phone,61,Canned sausages,417.52,757.85,0.19,499.04
+f1893c73-587b-4da1-8f1a-be5c581fb179,735,Vivia,Eliathas,2000-12-06,QA,Bandar Seri Begawan,2014-08-23,Etta,Phone,388,Spätzle,311.37,856.14,0.19,405.86
+e8d96c60-7429-48a0-888a-dbbd86668df8,335,Ariela,Colbert,2018-07-18,KY,Ipoh,2003-04-18,Clementine,Phone,316,Spätzle,330.79,950.86,0.19,468.26
+e0798d9f-3ed4-461d-a17e-20acd431b4c4,688,Ermengarde,Orpah,2019-10-03,GN,Tijuana,2013-04-03,Edyth,Phone,713,Spätzle,324.3,910.46,0.19,411.94
+6ed6f93b-4649-4cd7-b6bb-5caf5d366f09,407,Myriam,Ferrell,2014-08-28,OM,Batticaloa,2019-11-04,Nanete,Email,515,Canned sausages,424.02,735.37,0.19,350
+dfe46e78-3dc1-4a96-bb6b-606002faf39c,951,Teddie,Morrill,2017-04-02,MX,Alexandria,2007-09-09,Jasmina,Email,747,Spätzle,387.63,621.14,0.19,361.44
+a3020ed6-9fa3-432f-8f22-a9f3dc51417e,169,Agathe,Edee,2021-11-22,GP,Adamstown,2007-01-14,Corly,Email,468,Spätzle,450.06,529.07,0.19,379.61
+9738f0fd-a3b1-49ca-bea1-7b9e02f21070,543,Cassondra,Erskine,2020-02-16,NC,Bilbao,2008-08-29,Sonni,Email,326,Spätzle,476.22,821.12,0.19,500.66
+d6a4d16a-c562-4bbd-96a5-af8d624dfe7b,539,Korrie,Warthman,2003-09-20,AI,Cleveland,2000-02-21,Flo,Email,267,Spätzle,343.57,763.71,0.19,305.35
+9540eab9-4e20-4690-b8ed-e828f3b64360,10,Laurene,Earlie,2017-08-02,ID,Manama,2019-10-02,Max,Email,125,Canned sausages,447.01,888.79,0.19,334.5
+45e3e9fb-e6e5-4d58-93d7-7462ad255950,803,Dorothy,Zrike,2010-10-15,BW,Sapporo,2022-08-01,Anica,Email,193,Canned sausages,496.81,536.77,0.19,475.31
+d2422226-a984-4419-b89c-4f24dec06524,903,Harrietta,Weaks,2017-05-28,NU,Cape Town,2014-12-10,Kore,Email,419,Spätzle,328.61,582.48,0.19,488.82
+a01e2e82-4c25-463c-8cea-a56eed05da45,493,Adriana,Israeli,2015-04-06,EH,Mendoza,2013-03-07,Mignon,Email,464,Spätzle,500.31,748.37,0.19,333.34
+fa562dd0-8d4e-4389-86a3-711a03ddfc45,283,Cyb,Krystle,2005-12-18,GR,Tartu,2009-12-24,Gaylene,Email,536,Spätzle,256.38,639.12,0.19,342.29
+de712d25-ad94-4738-95dd-97d2756e6a87,726,Wendi,Hirsch,2018-07-08,ML,Jaipur,2020-09-29,Romona,Phone,127,Canned sausages,494.73,830.35,0.19,330.49
+bd569fd9-5324-45dc-9cbf-dd82b87b6d4e,268,Carol-Jean,Milson,2010-02-03,HT,Hangzhou,2022-06-27,Gusty,Email,429,Canned sausages,252.72,751.27,0.19,445.85
+1746d2b6-5b04-43a3-a27a-dfe85d843e1d,262,Mariann,Hull,2008-10-29,KZ,Managua,2007-11-04,Florie,Email,837,Canned sausages,265.8,661.41,0.19,306.59
+165fdcb2-633a-42ec-a872-65e32900b393,936,Letizia,Olympium,2000-02-06,GN,Norilsk,2014-06-20,Danika,Phone,350,Spätzle,444.61,822.16,0.19,372.02
+27bdb6ad-17a9-4616-8ff2-7277c76a2c41,329,Bettine,Hillel,2019-07-18,LV,Saint John,2022-09-13,Lorie,Email,319,Canned sausages,283.85,848.82,0.19,307.67
+ce5b4122-455a-4829-a6e6-e1d8bf7e4649,110,Allyce,Stav,2013-05-21,KP,Milwaukee,2021-09-22,Gerianna,Email,241,Canned sausages,258.53,538.57,0.19,454.52
+cf450e37-dc0d-4c4e-a847-be10de76d8bc,707,Jorry,Madelene,2021-12-29,SH,Faisalabad,2012-12-28,Lory,Phone,665,Canned sausages,429.68,832.89,0.19,402.75
+a2618a5c-e77b-4d07-85d3-53bbfcacfd80,46,Tierney,Anselmi,2023-08-30,UA,Ulan Bator,2010-04-03,Charissa,Phone,858,Spätzle,432.19,937.42,0.19,439.69
+9822290a-e0f9-4ad2-b963-1c99bbd34952,456,Cristabel,Noelyn,2016-10-06,SG,Beijing,2022-10-03,Yetty,Email,807,Canned sausages,350.81,970.13,0.19,492.3
+81c726a5-0c0d-4614-8e6a-f95878ff463e,192,Bee,Hylan,2014-09-21,FR,Frankfurt,2018-08-18,Marnia,Email,560,Canned sausages,358.22,890.12,0.19,444.98
+cedaeed5-af6f-4a44-b661-db8ac6bd58d8,243,Delilah,Clywd,2000-06-23,CI,Belgrade,2003-01-06,Elora,Email,653,Spätzle,363.04,702.1,0.19,489.39
+8a0585c9-b280-4bb6-9c20-e3a483aa0eff,175,Jeanna,Fulmer,2000-12-29,CY,Lahore,2006-01-24,Betta,Phone,617,Canned sausages,202.27,756.19,0.19,313.58
+29dd790d-a9d3-4a3f-820c-1b46efe64264,336,Corry,Haldas,2023-10-27,BH,Okinawa,2020-01-06,Alameda,Phone,614,Canned sausages,453.6,763.64,0.19,309.15
+17e52c4c-a4aa-45bb-acd5-153b67ea7847,852,Cacilie,Clarissa,2000-09-20,GR,Arequipa,2020-10-20,Nerta,Phone,799,Spätzle,259,910.88,0.19,352.89
+e783d208-9590-4fe4-92dc-419604f160f7,777,Etta,Willie,2016-03-13,KY,Apia,2007-09-27,Roberta,Email,559,Spätzle,371.23,877.12,0.19,488.5
+8943e3d9-74c6-4b31-8720-e15178ca7f5d,584,Mady,Buckler,2001-03-28,AQ,Durango,2004-10-03,Berta,Email,316,Spätzle,329.34,719.74,0.19,345.59
+b87912c7-1398-47ef-bc5b-b6565c405a91,695,Sharai,Pulsifer,2014-02-08,MQ,Charlotte Amalie,2001-05-15,Morganica,Phone,349,Canned sausages,384.34,845.98,0.19,368.45
+45e0578b-8a5b-48a3-a465-92e3828d649f,414,Lynnea,Bivins,2017-09-15,MW,Santiago,2005-01-26,Nickie,Phone,809,Canned sausages,357.49,690.88,0.19,378.5
+31d35eb1-1075-4e11-900f-02dab7f6c899,837,Helena,Garlinda,2011-07-21,KY,Medan,2001-12-10,Teriann,Phone,412,Spätzle,401.34,654.66,0.19,396.45
+d7b00915-94fb-421b-a126-eb9f7ed1f6ee,361,Veda,Bord,2014-10-12,NF,Adelaide,2016-11-06,Dorice,Phone,93,Spätzle,425.69,733.21,0.19,445.72
+e2767f88-9507-483d-ad84-81443ba7544e,879,Leona,Keelia,2000-03-11,TV,Brazzaville,2017-11-22,Almeta,Phone,791,Spätzle,450.55,514.3,0.19,439.34
+544700cc-7203-4f4a-9cca-34cdac6deaf5,215,Allyce,Carbo,2004-01-20,CA,São Paulo,2014-01-15,Dione,Email,897,Canned sausages,233.07,506.42,0.19,455.59
+1445fd9e-5b26-44da-8cce-79b10bfb538c,470,Florie,Viddah,2018-09-26,IL,Kabul,2017-11-23,Sheree,Phone,762,Canned sausages,387.54,580.87,0.19,472.91
+3e412c7e-8ed9-4cf0-93a3-235d74af092b,488,Anica,Adlare,2024-10-15,CF,Pune,2002-03-22,Ada,Email,631,Spätzle,323.25,834.88,0.19,443.08
+6061e67a-4ec6-4f19-a1a4-cfac04a6fc01,962,Elyssa,Seligman,2008-08-16,GL,Rotterdam,2015-09-19,Aurore,Email,173,Spätzle,370.89,880.6,0.19,337.36
+a7225821-1f64-428f-932b-834312d66a64,65,Rubie,Loring,2001-07-07,BR,Cologne,2000-05-11,Melina,Email,781,Spätzle,453.28,794.76,0.19,401.26
+3a4ff3fe-ad8e-4b88-b8d9-b7057151abb1,897,Julieta,Kinnard,2002-07-19,FI,Atlanta,2014-03-08,Genevra,Email,503,Canned sausages,389.16,940.13,0.19,421.48
+3b370b14-a6ba-48be-a224-83d82e9aae79,233,Gertrud,Lorenz,2005-10-20,GR,Castries,2003-03-10,Doro,Email,912,Spätzle,249.88,647.89,0.19,415.49
+52595980-6047-4e2e-b8bb-9814cd35c11e,595,Cissiee,Creamer,2007-08-13,SM,Chişinău,2012-04-10,Caressa,Phone,185,Canned sausages,343.58,650.02,0.19,423.95
+db698b2c-8997-4c29-bd97-a6f34af60495,909,Lesly,Ramona,2011-04-28,NE,Jersey City,2017-10-26,Elvira,Email,106,Spätzle,380.56,907.38,0.19,396.22
+64daa4e5-dafc-4154-8639-0de322db6518,492,Dyann,Leopold,2006-01-25,AZ,Madrid,2007-05-27,Norine,Phone,811,Spätzle,251.19,552.81,0.19,357.24
+9953d846-9bae-4170-b08a-144f61200eaa,922,Cacilie,Goerke,2001-01-10,PH,Dallas,2004-01-22,Neila,Phone,150,Spätzle,207.14,922.23,0.19,379.68
+df155942-c9d6-410e-969e-d5ac045ea089,14,Corene,Calhoun,2024-04-23,IM,Chiang Mai,2019-12-06,Paola,Phone,126,Spätzle,448.15,598.2,0.19,460.11
+6b17b5f0-fc61-431b-9590-8dd1503e4fe3,4,Willetta,Bevin,2001-11-24,DE,Asmara,2008-04-26,Calla,Phone,19,Spätzle,252.41,876,0.19,478.6
+a58ed341-93db-46ce-9e85-c3bcb33cc33c,527,Jenda,Gusella,2016-06-08,MS,San Antonio,2000-11-20,Ivett,Phone,326,Spätzle,468.21,978.86,0.19,465.81
+3f4a7954-a89d-41ba-b6e9-8782feac11a0,532,Modestia,Charmine,2016-08-07,BA,Banda Aceh,2000-08-21,Ardys,Phone,529,Canned sausages,230.65,841.56,0.19,425.53
+e46fa7d0-3d86-41d7-a368-5158809b8bdb,447,Ginnie,Dawkins,2009-08-17,AX,Nukus,2007-08-03,Susan,Phone,755,Spätzle,483.28,849.03,0.19,456.91
+e2967b9d-7a2c-48f2-8839-26036301f07b,629,Christian,Jary,2018-01-01,TH,Leeds,2023-11-28,Sallie,Phone,206,Canned sausages,212.51,603.62,0.19,356.2
+08eee518-3600-4a25-b7ca-d2c1d0e8189e,360,Tani,Muriel,2023-10-30,PA,Dublin,2019-07-09,Bobinette,Email,192,Canned sausages,219.6,999.42,0.19,378.43
+95d6e1bc-fee8-4fbe-b475-e3379543a652,668,Tersina,Emerson,2017-08-21,QA,Sydney,2018-03-20,Charlena,Email,752,Canned sausages,397.18,611.1,0.19,405.93
+d75156cf-19ac-4e36-b1c6-06787f4dafe1,237,Clo,Maribeth,2006-06-05,AT,Alor Star,2010-10-06,Mara,Email,932,Spätzle,363.61,868.56,0.19,466.05
+7ea944c6-7cd6-4a45-86cf-b389b2c29e43,366,Cindelyn,Meli,2011-12-17,PG,Vatican City,2023-03-12,Mureil,Phone,73,Spätzle,408.84,938.55,0.19,308.07
+c8ab311e-c045-42da-a11c-4fd240e5adac,301,Gisela,Catie,2011-11-12,GR,Cockburn Town,2010-07-03,Genovera,Email,151,Canned sausages,264.09,830.58,0.19,425.87
+20ef8f91-3c44-47c3-ad07-911a64c247c7,634,Meg,Orpah,2002-09-30,TO,Basse-Terre,2023-10-05,Deloria,Email,952,Canned sausages,419.34,877.89,0.19,392.06
+89bf9d04-8b96-419d-a06b-11a8745b93da,200,Maye,Suzetta,2016-08-04,AO,Xining,2015-07-05,Melisent,Phone,957,Canned sausages,273.05,923.13,0.19,385.27
+aaeec9f3-1a0d-4931-b2a1-90a37fc1a46a,487,Ingrid,Aloise,2012-11-18,MW,Wichita,2023-03-05,Alameda,Phone,291,Spätzle,340.97,979.92,0.19,412.07
+b28de175-c39e-41a3-81c8-fddfe11ecd89,138,Bettine,Selway,2008-01-12,QA,El Aaiún,2007-06-13,Sonni,Phone,613,Spätzle,358.01,915.66,0.19,389.8
+dfa1e4df-0f85-4b00-a4ab-a38fb60fa62b,129,Claudina,Atonsah,2013-10-01,NU,Dubai,2003-08-09,Bobinette,Phone,137,Canned sausages,212.64,860.27,0.19,446.73
+dd3b743d-324d-4f84-90c3-70f7d6bc90fd,275,Lusa,Whiffen,2013-07-04,SA,Kingston,2013-06-04,Bernardine,Email,5,Spätzle,311.94,785.09,0.19,411.46
+ac5f9306-9c87-4a13-84f8-fadafc8fa372,981,Evaleen,Nahum,2022-04-23,FI,Malabo,2006-08-26,Edyth,Phone,442,Spätzle,235.08,886.03,0.19,386.37
+0453458f-b180-4128-9ee4-7eb71a595273,480,Constance,Cohdwell,2015-12-10,BW,Lhasa,2011-09-05,Sharai,Phone,483,Canned sausages,229.16,847.67,0.19,407.43
+9869fe1b-1713-4445-9767-06a531fef8cf,207,Cordi,Wallis,2006-05-16,TV,Bridgetown,2008-08-10,Lorne,Phone,981,Canned sausages,269.51,753.3,0.19,380.14
+1fe64af0-98c9-49ae-b97a-efbed2f952bb,347,Wendi,Loring,2000-08-17,ZW,Malabo,2011-02-10,Edyth,Email,883,Spätzle,423.27,502.76,0.19,373.53
+d511aeee-c15e-486b-93de-7a036058e3d7,551,Norine,Eldrid,2001-12-30,MY,Dakar,2012-12-09,Carilyn,Email,460,Canned sausages,409.12,904.64,0.19,362.15
+8fef819e-b334-40eb-ad60-71bdd8850f25,424,Suzette,Shanley,2009-04-25,TO,Mecca,2004-11-15,Melina,Phone,899,Spätzle,250.69,557.2,0.19,380.82
+02432004-1da5-4c5e-a3ba-abaa0cc0115b,960,Evaleen,Albertine,2021-12-06,MT,Novosibirsk,2009-01-12,Calla,Email,666,Canned sausages,249,624.47,0.19,434.14
+890d2195-27ff-4ec2-9e86-dc3695109c45,522,Jacquetta,Holtz,2018-04-30,SD,Montevideo,2020-06-18,Bibby,Email,387,Spätzle,351.03,850.99,0.19,315.38
+7a705eeb-0c77-4938-8a53-1401c1b3d80c,169,Trixi,Decato,2000-05-11,CR,Novosibirsk,2006-10-24,Elmira,Email,498,Canned sausages,433.42,989.5,0.19,324.33
+b8d62079-07f7-4ec1-8676-8b0c9d3613c4,203,Melisent,Fontana,2002-11-12,PN,Palma,2021-01-14,Nadine,Email,164,Canned sausages,281.79,674.08,0.19,451.5
+73fa35b1-b35e-4408-9034-e171ddc40533,811,Sara-Ann,Joli,2009-12-26,KI,Valparaíso,2022-11-20,Laurene,Email,4,Spätzle,312.37,633.94,0.19,471.6
+85875f08-73db-45f5-87d5-6e557504e6e6,61,Merrie,Katrine,2014-03-23,SO,Guwahati,2023-04-05,Elmira,Email,70,Spätzle,378.41,936.11,0.19,384.93
+a01bd4eb-13ed-440a-aa32-dc4d1a653374,861,Jessamyn,Seumas,2009-04-01,GM,Medellín,2013-04-15,Basia,Phone,333,Spätzle,456.01,971.03,0.19,311.97
+3f9d22a4-e0af-4f3c-8ed0-84d1d4c37a36,490,Merrie,Decato,2018-03-23,SY,Buffalo,2002-09-20,Chastity,Phone,881,Spätzle,485.29,551.08,0.19,476.75
+c881da8b-5f77-49f3-8b42-533af6f52903,763,Trudie,Cimbura,2003-07-09,BS,Huế,2021-05-16,Mariann,Phone,227,Spätzle,421.66,600.6,0.19,489.38
+ac688761-e68e-46f8-87b1-fcfb61b472b6,73,Natka,Tiffa,2010-09-11,KP,Dar es Salaam,2022-12-22,Nelle,Phone,229,Spätzle,358.28,745.13,0.19,334.19
+5327e712-69d5-4e40-b85d-2a9f03b33ee6,197,Sam,Alwin,2010-12-04,PE,Novosibirsk,2003-10-26,Merle,Email,139,Spätzle,249.8,684.82,0.19,368.04
+5b23ad2d-34b8-4ff7-8058-62f44cc07aba,14,Vevay,Chauncey,2000-08-08,BD,Asmara,2007-07-03,Di,Email,721,Canned sausages,344.9,815.54,0.19,452.07
+e9098c7f-7820-4c7f-b4b1-8afab50b18ea,536,Tonia,Lesley,2008-01-22,SA,Brussels,2012-04-15,Gianina,Email,230,Spätzle,286.54,590.88,0.19,348.41
+a6c71e9d-2514-4a3d-ab71-464b100d2b9e,22,Feliza,Crudden,2016-07-23,FJ,Tel Aviv,2011-11-17,Delilah,Phone,403,Spätzle,426.05,636.17,0.19,443.55
+5a9a3ec8-5551-4cc3-93a0-ca8b92e2b879,625,Constance,Hewitt,2014-07-25,FK,Cuiabá,2009-12-20,Sue,Phone,299,Canned sausages,228.22,853.22,0.19,496.59
+2ab2797a-6197-4aca-9784-706eb4cadb1d,786,Isa,Tound,2016-10-09,PF,Ulan Bator,2022-05-17,Myrtice,Phone,186,Canned sausages,385.65,501.68,0.19,484.4
+f0cdce54-c2b9-4467-89ef-c4a015b20e13,886,Cissiee,Cutlerr,2022-08-17,JP,Valencia,2003-09-10,Courtnay,Phone,961,Canned sausages,401,562.86,0.19,442.26
+29b26186-44b4-48b7-93dd-de4a0a533602,975,Rebeca,Thilda,2013-05-16,SH,Istanbul,2011-01-28,Anica,Email,612,Canned sausages,268.09,970,0.19,480.03
+255cdada-2e3e-43fa-8893-5d2e18380842,609,Agnese,Bertold,2013-06-16,TL,Banda Aceh,2011-03-28,Pollyanna,Phone,342,Canned sausages,431.87,992.6,0.19,380.02
+3d029543-e9eb-46aa-bd31-a2847c88d59d,940,Nanete,Lea,2005-10-26,GG,Sofia,2014-02-09,Mariele,Phone,409,Spätzle,262.66,796.88,0.19,338.91
+a09f789e-30d8-4b88-a1a7-d2a3caa6eede,890,Dione,Freddi,2010-01-26,SH,Yakutsk,2004-04-11,Ellette,Email,287,Spätzle,356.57,628.1,0.19,330.34
+2f52cd51-535a-4b2e-9219-dadbda940edb,71,Asia,Oscar,2017-12-07,LC,Tagbilaran,2012-05-27,Jolyn,Phone,187,Canned sausages,332.42,604.16,0.19,347.36
+f8e9e2c5-6d58-4846-97a8-e60189acea21,242,Clarice,Eno,2000-09-28,UM,Omdurman,2016-10-19,Vere,Phone,878,Canned sausages,239.27,709.43,0.19,496.62
+54225741-9a99-47e2-acd7-8ba710bf8b90,788,Hollie,Sinegold,2002-02-12,NP,Batticaloa,2015-01-19,Bee,Phone,434,Spätzle,280.11,796.47,0.19,473.6
+3dc50016-70b9-4d84-9a11-e147c3595df5,709,Korrie,Dowski,2019-03-09,SO,Banjul,2017-09-05,Barbi,Phone,85,Canned sausages,305.59,860.95,0.19,374.45
+31a1bea5-b0f7-473d-a9cd-b757267d1b81,362,Kary,Pacorro,2023-04-22,LK,Pekanbaru,2019-08-22,Sadie,Phone,251,Canned sausages,303.2,924.55,0.19,304.37
+fb7cf22c-ccb7-4d6e-ba81-7a0670af88ad,7,Elyssa,Ariella,2015-02-16,AZ,Santa Cruz de la Sierra,2017-01-13,Albertina,Email,97,Canned sausages,259.16,803.41,0.19,371.94
+aae64289-f3a5-49fb-be22-97c0486d5b2f,945,Blondelle,Chinua,2000-08-10,DZ,Kobe,2024-01-16,Starla,Phone,996,Canned sausages,342.64,707.57,0.19,385.53
+62437479-07ab-4149-a587-6d861b54d525,331,Elie,Ethban,2017-02-04,BO,Detroit,2012-02-22,Valli,Phone,780,Spätzle,352.13,726.03,0.19,446.16
+2b3d10e2-5f1b-4983-ab70-532c97f9d0a8,484,Carilyn,Vivle,2020-02-04,IS,Strasbourg,2000-10-30,Bee,Phone,843,Spätzle,307.76,631.72,0.19,497.73
+2e5fca30-34f6-4650-9ea7-d0f196eb1bf1,610,Charlena,Nance,2020-10-18,NR,Madrid,2006-02-06,Gwenneth,Phone,932,Canned sausages,355.5,719.85,0.19,480.23
+5b292931-c2b1-440b-aa3c-0e85a2c77704,757,Ellette,Whittaker,2019-01-17,TC,Tucson,2001-07-09,Rubie,Email,701,Spätzle,314.01,542.43,0.19,489.38
+9a60bc6a-9a89-4f4d-92c8-7accddf8ecae,532,Tersina,Faust,2018-12-24,GT,Hanover,2005-12-23,Briney,Phone,500,Canned sausages,353.74,993.54,0.19,491.14
+51a228aa-f8b2-4f35-b4a6-b7a5b3968737,765,Violet,Delila,2000-08-15,AM,Gold Coast,2004-01-21,Gretal,Phone,687,Canned sausages,320.45,955.58,0.19,446.82
+8919e539-f977-417a-adbf-60eb407ee4ed,561,Evaleen,Gibbeon,2017-02-14,HK,Maceió,2015-11-22,Meg,Email,213,Spätzle,445.38,553.75,0.19,341.91
+ff2ce8b0-868c-4200-8dcf-9c70de47d8d3,48,Gerianna,Rad,2013-05-18,GB,Simferopol,2013-08-08,Hannis,Email,553,Spätzle,335.4,992.22,0.19,459.34
+2498d17e-f031-414b-a7cc-9658ff37e90f,523,Sean,Oneida,2011-03-04,AX,Mexicali,2003-08-08,Alexine,Phone,978,Canned sausages,465.87,512.15,0.19,428.52
+684e3116-a85b-494a-80e2-5555ea5c8fa8,327,Alyda,Dannye,2013-08-02,GD,Da Nang,2011-09-02,Evita,Email,89,Spätzle,461.76,659.6,0.19,313.77
+d3415a97-05a6-401e-964a-06c6824383e8,782,Cherilyn,Yuille,2015-07-22,HN,Pyongyang,2007-09-20,Jean,Email,677,Canned sausages,299,511.96,0.19,487.9
+058d8f30-79a7-48e6-949c-4922e4b4aaf6,781,Wynne,Eiser,2011-09-29,UG,Thiès,2018-06-10,Selia,Email,597,Spätzle,259.13,618.06,0.19,410.66
+a5707b35-1fcd-40ad-b102-cf071f51f975,707,Wendi,Blake,2009-06-29,BY,Phnom Penh,2017-05-26,Ginnie,Phone,525,Spätzle,451.31,764.31,0.19,446.68
+96e276d1-02ab-4315-b168-3c0526b972f0,105,Addia,Emmaline,2003-10-23,MC,Madrid,2008-07-23,Kaia,Phone,992,Spätzle,421.19,545.6,0.19,312.25
+77971d88-97c8-4464-81d9-69608fa756fd,307,Pierette,Dex,2007-03-03,TG,Marrakech,2020-06-12,Addia,Email,858,Spätzle,252.36,598.9,0.19,406.34
+e9aed4cf-893a-4a8f-b90f-88afc272615b,620,Gretal,Dearborn,2012-02-07,NE,Cairns,2019-11-07,Corly,Phone,338,Spätzle,447.5,546.99,0.19,340.51
+d5c26adc-c17b-43c7-88b4-1de60c603551,846,Ermengarde,Elvyn,2004-07-13,FR,Rabi Island,2012-07-27,Felice,Phone,216,Spätzle,346.29,882.23,0.19,355.23
+ecff3404-6f2b-4fe9-9662-380ebf3bd972,664,Dominga,Blisse,2009-02-02,MT,Ushuaia,2010-09-11,Nicoli,Email,598,Canned sausages,305.25,740.09,0.19,496.64
+22a24447-02ee-4885-b016-d7a486eadf9b,295,Candy,Nedrud,2002-02-04,CM,Kano,2006-05-29,Susette,Phone,888,Canned sausages,366.01,800.32,0.19,424.48
+180739ed-a915-455b-bef3-4ca21c96efe1,545,Neila,Solitta,2011-06-28,GG,Zamboanga City,2018-06-11,Brandise,Phone,925,Spätzle,247.3,657.49,0.19,326.03
+49943bfc-4acc-4ecb-b78c-09329cb023a5,170,Lory,Abbot,2005-08-16,FK,Djibouti (city),2023-10-15,Paule,Email,183,Spätzle,489.74,947.06,0.19,359.88
+94085e59-5015-4f3e-98ae-ebccbe9bb1df,270,Jaime,Ilka,2024-06-29,NU,San Carlos de Bariloche,2009-08-01,Cacilie,Email,851,Spätzle,231.72,685.46,0.19,375.53
+1e72b051-570d-46c9-b4cf-bb9e51064a57,986,Paulita,Stanwood,2010-04-15,ZM,Stepanakert,2016-08-24,Tori,Phone,509,Spätzle,222.92,999.99,0.19,313.84
+edcd0176-a26f-47ef-868c-ed7576091abf,386,Merci,Podvin,2024-01-02,AL,Mersin,2009-12-02,Xylina,Email,910,Canned sausages,233.36,807.85,0.19,324.6
+1f5dbe6c-b7e4-4db3-bcac-fd93fe939e5c,529,Nicoli,Vary,2019-11-03,TC,Tamale,2015-12-30,Vivia,Phone,65,Canned sausages,262.93,863.75,0.19,471.5
+59ec2efc-3b8d-456b-a25a-a32c11c49129,591,Lilith,Warthman,2011-03-20,TC,Indianapolis,2018-10-09,Meghann,Email,689,Spätzle,447.27,552.17,0.19,344.92
+8a2ee924-5c96-4db0-8d7b-e09840a06427,93,Nickie,Rustice,2001-03-31,SD,Lhasa,2011-09-02,Cristine,Phone,516,Canned sausages,230.02,694.23,0.19,436.42
+0a724226-0148-41ea-a6c8-8e5f77c23295,65,Sara-Ann,Skell,2022-07-13,SK,Riverside,2020-03-02,Modestia,Email,373,Canned sausages,438.35,632.63,0.19,495.29
+3b80d107-62af-4860-9fa3-cf67f77704f6,351,Karina,Yerkovich,2008-10-03,LY,Asunción,2008-04-22,Alie,Email,206,Spätzle,428.6,804.32,0.19,437.77
+fb4a3cee-96d2-4645-919c-96abb0a97336,524,Fanchon,Faso,2013-12-01,CI,Paris,2009-06-14,Ira,Phone,928,Spätzle,376.01,902.55,0.19,399.54
+ee664530-c849-4a6f-a6bf-10f1c2b3bb2c,274,Amii,Cadmar,2006-03-01,GA,Shanghai,2022-05-22,Jaime,Email,453,Canned sausages,347.97,508.51,0.19,497.3
+7abd95e8-f957-49ad-a1de-d28f8de9e307,561,Meghann,Stefa,2012-01-06,GA,Agartala,2015-05-22,Carolina,Phone,802,Canned sausages,378.25,586.75,0.19,358.3
+b2a5f294-90b1-469b-997c-73520b93a3c4,58,Darci,Pernick,2015-07-30,GQ,Gdańsk,2012-02-12,Tybie,Email,803,Canned sausages,201.84,678.67,0.19,479.05
+f2d4c7db-1989-4f2c-98ab-5bbef9a84eed,942,Damaris,Sherfield,2006-05-30,IE,Honolulu,2020-04-26,Heida,Phone,956,Spätzle,202.94,917.18,0.19,367.31
+d5067b28-8771-478c-8d16-cd837c8aec9d,817,Marti,Keily,2018-06-21,HU,Sitka,2005-02-20,Carolina,Email,966,Spätzle,403.91,935.55,0.19,401.32
+b42f5c1d-4e2a-4763-962f-629bd503f6fd,399,Corene,Silvan,2022-12-03,BA,The Hague,2015-04-06,Alie,Phone,718,Canned sausages,250.09,652.54,0.19,395.33
+f1939803-1be2-4d2e-829b-4ac9db1fff67,332,Miquela,Koziara,2024-05-22,BW,Mbabane,2018-12-25,Bernardine,Phone,123,Canned sausages,209.97,828.06,0.19,374.6
+3a974c31-f2ce-4755-81d5-b1c57c95a52f,605,Gisela,Delp,2003-06-23,MP,Gangtok,2014-09-11,Janey,Phone,688,Spätzle,351.96,557.85,0.19,477.82
+c9c199e1-1e03-4dbf-8a86-55dc42d1a62e,243,Chrystel,Ovid,2008-10-05,SD,Port Blair,2006-04-04,Viviene,Email,298,Canned sausages,292.24,975.5,0.19,428.55
+0e71ee64-e121-4a86-926d-714491a3414f,128,Bettine,Orelee,2011-09-11,VU,Andorra la Vella,2011-08-18,Dagmar,Phone,200,Canned sausages,478.59,961.39,0.19,437.33
+1ec3e932-17eb-466b-8945-81796c6e3f7e,223,Hyacinthe,Phyllis,2009-07-19,PA,Koulikoro,2002-01-17,Rori,Phone,973,Canned sausages,437.83,633.16,0.19,447.61
+f342b3c5-ee69-4912-a775-6eb8f5d66ceb,615,Dorene,Annabella,2010-02-18,GW,Bamako,2020-04-24,Sindee,Email,158,Canned sausages,298.83,958.57,0.19,460.86
+9b3d7635-da60-4968-8128-f325e405822a,286,Moyna,Terrence,2015-03-02,LB,Basra,2010-04-21,Kenna,Phone,31,Spätzle,345.66,751.1,0.19,440.07
+026418aa-8ca2-48dd-a41c-24dff2a5bc7a,806,Berget,Radu,2002-11-27,AS,Tbilisi,2015-10-08,Brandise,Email,984,Spätzle,456.39,807.99,0.19,447.73
+86f3cb3c-5661-4fee-a60a-3bd101fbe693,116,Deloria,Reneta,2006-03-16,TM,Manaus,2017-03-27,Donnie,Email,35,Spätzle,271.14,967.95,0.19,436.46
+684dae3e-20e6-4e77-9cc3-a0ba955aec05,600,Ginnie,Hortensia,2012-01-04,TG,Ottawa,2015-12-16,Lucille,Email,2,Spätzle,282.55,788.09,0.19,304.08
+b244cb15-356b-4c2a-80d1-25dccc5d3ebd,80,Malina,Vernier,2005-08-16,PW,Munich,2018-07-11,Joelly,Phone,972,Canned sausages,344.32,548.16,0.19,420.17
+89565347-1129-4557-aeaf-fc0a971a16a0,271,Isa,Seumas,2007-04-18,VC,Nukus,2015-08-17,Winifred,Phone,877,Spätzle,338.96,918.53,0.19,364.97
+7e5c2a07-fb85-4e42-9920-41a1d84f1fe5,902,Glynnis,Sherfield,2023-04-03,BE,Qingdao,2005-02-22,Drucie,Email,734,Spätzle,228.39,873.9,0.19,374
+7716c448-cce3-4eca-bcdb-4a767b5d85d8,508,Starla,Manolo,2011-07-07,IE,Tripoli,2010-05-30,Ericka,Phone,612,Canned sausages,340.37,962.85,0.19,381.88
+d1b4e016-2dd6-4d13-9077-58a1a7816aa4,765,Libbie,Reinke,2012-11-30,WF,Alofi,2000-11-18,Marinna,Phone,78,Canned sausages,425.49,602.23,0.19,391.38
+b0055ff4-1d32-4be9-922b-5ed3f4e62b29,287,Aeriela,Prouty,2023-02-17,CA,Hanover,2018-05-06,Nananne,Email,383,Canned sausages,311.09,522.41,0.19,473.51
+67689c4c-7b0e-4c46-8c79-b27b8cfccc94,439,Roz,Cleavland,2013-10-06,NA,St. Louis,2001-01-01,Desirae,Phone,820,Spätzle,496.51,501.07,0.19,489.99
+f82f6556-b900-4a99-9182-db4ff9195375,981,Josephine,Willie,2013-02-07,AT,Ludhiana,2015-05-13,Mary,Email,462,Spätzle,454.93,792.27,0.19,387.84
+06a00675-bade-4735-821e-e138493e27cb,576,Giustina,Ellerey,2017-06-04,KW,Tunis,2014-08-17,Tierney,Email,202,Spätzle,445.05,757.87,0.19,320.3
+4dec0d09-fa70-49ee-9475-60ea25d67de1,488,Annecorinne,Klemperer,2007-10-07,MZ,Santiago,2022-02-26,Kara-Lynn,Email,322,Canned sausages,387.15,661.11,0.19,434.32
+e4714296-b5a2-4bfb-a565-b3a51bf122bf,972,Vere,Sherrie,2016-04-10,MN,Lviv,2017-12-12,Gertrud,Phone,605,Spätzle,253.65,695.02,0.19,322.06
+eacc338b-4b05-44b4-97ea-0d2fbde23a51,840,Kassey,Zina,2002-02-27,ES,Kaesong,2017-02-24,Elfreda,Phone,954,Spätzle,317.11,960.62,0.19,480.91
+4b752229-05fb-4e79-b827-0b13c860003a,502,Selma,Isidore,2010-10-12,BO,Lisbon,2010-08-27,Maurene,Email,527,Spätzle,252.16,506.04,0.19,434.58
+a929f4e8-9aff-42a7-957c-dc51e52c7e99,967,Morganica,Bigner,2011-01-27,ZW,Abuja,2024-01-16,Dode,Phone,274,Canned sausages,313.03,834.4,0.19,497.35
+6ae2bee1-6b87-4462-9211-ca1c1a7ff194,772,Molli,Idelia,2007-08-01,GT,Nouakchott,2003-04-26,Robbi,Email,73,Canned sausages,313.55,705.03,0.19,419.94
+5ba3efef-357f-4aca-87be-15f93f5921d5,867,Aurelie,Ethban,2021-05-27,LB,Amman,2000-10-29,Celene,Phone,198,Spätzle,429.67,897.67,0.19,338.71
+d3c0f5ff-56e4-4247-9e2d-b9e378a9a711,325,Bettine,Kalinda,2016-07-20,GT,Busan,2003-01-12,Aryn,Email,472,Spätzle,262.91,851.9,0.19,313.85
+21d5f26c-0c62-4729-8875-18f52e5ed3aa,237,Berget,Dituri,2007-11-17,KY,Johor Bahru,2020-09-13,Elise,Email,36,Spätzle,347.71,786.07,0.19,398.23
+28ad3ad1-29f2-4001-9a8f-cce36f1ef587,47,Kara-Lynn,Woodberry,2017-05-03,BA,Shanghai,2018-07-19,Eolanda,Phone,883,Canned sausages,313.81,868.72,0.19,498.73
+b53459bc-59fa-4442-bfa3-c97eb0f0f19d,479,Jere,Pillsbury,2008-03-15,BA,Djibouti (city),2020-06-30,Brana,Email,244,Spätzle,242.98,557.2,0.19,435.59
+83514568-a859-49bb-990d-9dbf1dce7e9b,64,Farrah,Leffen,2012-08-08,PL,Arbil,2009-01-05,Marika,Phone,546,Spätzle,243.11,939.4,0.19,471.5
+28dfd8f9-1a9d-4b88-a0d5-51faa6b3b01d,991,Beatriz,Uird,2007-05-21,CI,Lagos,2000-10-10,Emelina,Phone,406,Canned sausages,388.27,585.74,0.19,452.38
+ae1e7cd4-599e-4bdb-8d07-b17029efb7db,744,Edyth,Presber,2024-08-06,ST,Port of Spain,2024-09-08,Dede,Phone,870,Canned sausages,385.76,869.34,0.19,409.88
+de895e56-ca36-46c6-92bc-47d4e47a2096,78,Cherilyn,Chem,2005-02-05,SD,Bangalore,2007-08-21,Brena,Phone,946,Spätzle,321.75,698.78,0.19,411.8
+2c71af6e-779e-45a3-90d7-2aedd63d844c,476,Sharai,Vharat,2021-09-16,CR,Macau,2007-03-14,Brooks,Phone,303,Spätzle,311.74,739.25,0.19,362.75
+6502e97e-ea9c-45d5-9f0c-a5dc4be7e2e6,449,Kathy,Chobot,2023-07-23,SR,Santo Domingo,2012-07-07,Kelly,Phone,983,Canned sausages,500.62,675.52,0.19,452.6
+f1b91b1a-928b-4f75-b44b-268ff701e571,259,Christy,Olympium,2007-12-08,BR,Novosibirsk,2000-01-02,Nanete,Phone,697,Spätzle,243.15,932.06,0.19,416.75
+15c2f92c-67ec-4784-93f2-239c0d4c6b8b,222,Sarette,Moseley,2001-03-30,VU,Douala,2009-11-22,Doro,Phone,436,Spätzle,489.59,691.09,0.19,316.84
+553b1bc0-9496-4058-9395-5ce8c4c698a9,253,Shauna,Gahl,2018-06-13,NF,Ouagadougou,2024-02-19,Maisey,Phone,475,Spätzle,424.86,707.05,0.19,448.01

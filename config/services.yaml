@@ -25,3 +25,7 @@ services:
     App\EventListener\ExceptionListener:
         tags:
             - { name: kernel.event_listener, event: kernel.exception }
+
+    App\Validator\ExcelFileValidator:
+        arguments:
+            $validator: '@validator'

@@ -38,5 +38,8 @@ COPY . .
 RUN chown -R www-data:www-data /var/www/html \
     && chmod -R 777 /var/www/html/var
 
+RUN echo "upload_max_filesize=50M" > /usr/local/etc/php/conf.d/uploads.ini
+RUN echo "post_max_size=50M" >> /usr/local/etc/php/conf.d/uploads.ini
+
 # Install PHP dependencies
 RUN set -e && composer install --no-interaction --optimize-autoloader
