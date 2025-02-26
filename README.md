@@ -19,6 +19,7 @@ This project provides an **import system** for an Excel/CSV file, allowing bands
 ## 🔧 Requirements
 - [git](https://github.com/git-guides/install-git)
 - [docker-compose](https://docs.docker.com/compose/install/)
+- [docker](https://www.docker.com/get-started/)
 - [PHP](https://www.php.net/manual/en/install.php)
 
 ## 📦 Installation
