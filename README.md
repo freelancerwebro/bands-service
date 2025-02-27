@@ -33,12 +33,17 @@ git clone git@github.com:freelancerwebro/bands-service.git
 ./deploy.sh
 ```
 
-## ✅ Running Tests:
+## ✅ Running Tests
 ```
 composer test
 ```
 
-## 📂 API Endpoints:
+## ✅ Running code quality tools
+```
+composer cs
+```
+
+## 📂 API Endpoints
 ```
 - POST `/import`: Import bands from an Excel/CSV file
 - GET `/band`: List all bands
@@ -46,4 +51,10 @@ composer test
 - POST `/band`: Add a new band
 - PUT `/band/{id}`: Update an existing band
 - DELETE `/band/{id}`: Delete a band
+```
+
+## 📖 API Documentation
+To explore the Swagger documentation, visit the following URL:
+```
+http://localhost:8079
 ```
