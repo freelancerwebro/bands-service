@@ -28,6 +28,7 @@ class BandController extends AbstractController
      * @OA\Get(
      *     path="/band",
      *     summary="List all bands",
+     *
      *     @OA\Response(response=200, description="List of bands")
      * )
      */
@@ -45,13 +46,16 @@ class BandController extends AbstractController
      * @OA\Get(
      *     path="/band/{id}",
      *     summary="Retrieve a single band",
+     *
      *     @OA\Parameter(
      *         name="id",
      *         in="path",
      *         required=true,
+     *
      *         @OA\Schema(type="integer"),
      *         description="Band ID"
      *     ),
+     *
      *     @OA\Response(response=200, description="Band details"),
      *     @OA\Response(response=404, description="Band not found")
      * )
@@ -68,14 +72,18 @@ class BandController extends AbstractController
      * @OA\Post(
      *     path="/band",
      *     summary="Add a new band",
+     *
      *     @OA\RequestBody(
      *         required=true,
+     *
      *         @OA\JsonContent(
      *             required={"name"},
+     *
      *             @OA\Property(property="name", type="string", description="Band name"),
      *             @OA\Property(property="genre", type="string", description="Music genre")
      *         )
      *     ),
+     *
      *     @OA\Response(response=201, description="Band created"),
      *     @OA\Response(response=400, description="Invalid input")
      * )
@@ -108,14 +116,19 @@ class BandController extends AbstractController
      * @OA\Put(
      *     path="/band/{id}",
      *     summary="Update an existing band",
+     *
      *     @OA\Parameter(name="id", in="path", required=true, @OA\Schema(type="integer")),
+     *
      *     @OA\RequestBody(
      *         required=true,
+     *
      *         @OA\JsonContent(
+     *
      *             @OA\Property(property="name", type="string"),
      *             @OA\Property(property="genre", type="string")
      *         )
      *     ),
+     *
      *     @OA\Response(response=200, description="Band updated"),
      *     @OA\Response(response=404, description="Band not found")
      * )
@@ -153,7 +166,9 @@ class BandController extends AbstractController
      * @OA\Delete(
      *     path="/band/{id}",
      *     summary="Delete a band",
+     *
      *     @OA\Parameter(name="id", in="path", required=true, @OA\Schema(type="integer")),
+     *
      *     @OA\Response(response=204, description="Band deleted"),
      *     @OA\Response(response=404, description="Band not found")
      * )

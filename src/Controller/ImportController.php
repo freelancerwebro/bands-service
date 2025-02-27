@@ -23,15 +23,20 @@ class ImportController extends AbstractController
      * @OA\Post(
      *     path="/import",
      *     summary="Import bands from an Excel/CSV file",
+     *
      *     @OA\RequestBody(
      *         required=true,
+     *
      *         @OA\MediaType(
      *             mediaType="multipart/form-data",
+     *
      *             @OA\Schema(
+     *
      *                 @OA\Property(property="file", type="string", format="binary", description="The Excel or CSV file")
      *             )
      *         )
      *     ),
+     *
      *     @OA\Response(response=201, description="File processed successfully"),
      *     @OA\Response(response=400, description="Invalid file format")
      * )
