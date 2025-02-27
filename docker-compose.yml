@@ -8,6 +8,8 @@ services:
     working_dir: /var/www/html
     volumes:
       - .:/var/www/html
+    environment:
+      CORS_ALLOW_ORIGIN: "*"
     depends_on:
       - database
     networks:
@@ -42,6 +44,18 @@ services:
     networks:
       - symfony
 
+  swagger-ui:
+    image: swaggerapi/swagger-ui
+    container_name: bands-service-swagger-ui
+    restart: unless-stopped
+    ports:
+      - "8079:8080"
+    depends_on:
+      - nginx
+    environment:
+      SWAGGER_JSON_URL: "${SWAGGER_JSON_URL}"
+    networks:
+      - symfony
 networks:
   symfony:
     driver: bridge
