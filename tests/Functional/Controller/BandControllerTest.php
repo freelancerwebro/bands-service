@@ -154,8 +154,8 @@ class BandControllerTest extends WebTestCase
         );
 
         $response = $this->client->getResponse();
-        $this->assertEquals(Response::HTTP_BAD_REQUEST, $response->getStatusCode());
-        $this->assertStringContainsString('object not found', $response->getContent());
+        $this->assertEquals(Response::HTTP_NOT_FOUND, $response->getStatusCode());
+        $this->assertStringContainsString('Band not found', $response->getContent());
     }
 
     public function test_get_nonexistent_url()

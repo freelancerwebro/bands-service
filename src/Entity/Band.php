@@ -5,6 +5,7 @@ namespace App\Entity;
 use App\Repository\BandRepository;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
+use Symfony\Component\Validator\Constraints as Assert;
 
 #[ORM\Entity(repositoryClass: BandRepository::class)]
 class Band
@@ -15,24 +16,34 @@ class Band
     private ?int $id = null;
 
     #[ORM\Column(length: 30)]
+    #[Assert\NotBlank(message: 'Name is required.', groups: ['create'])]
     private ?string $name = null;
 
     #[ORM\Column(length: 30)]
+    #[Assert\NotBlank(message: 'Origin is required.', groups: ['create'])]
     private ?string $origin = null;
 
     #[ORM\Column(length: 30)]
+    #[Assert\NotBlank(message: 'City is required.', groups: ['create'])]
     private ?string $city = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
+    #[Assert\NotBlank(message: 'Start year is required.', groups: ['create'])]
+    #[Assert\Type(type: 'integer', message: 'Start year must be an integer.')]
+    #[Assert\Range(notInRangeMessage: 'Start year must be between 1900 and 2100.', min: 1900, max: 2100)]
     private ?int $startYear = null;
 
     #[ORM\Column(type: Types::SMALLINT, nullable: true)]
+    #[Assert\Type(type: 'integer', message: 'Separation year must be an integer.')]
+    #[Assert\Range(notInRangeMessage: 'Separation year must be between 1900 and 2100.', min: 1900, max: 2100)]
     private ?int $separationYear = null;
 
     #[ORM\Column(length: 255, nullable: true)]
     private ?string $founders = null;
 
     #[ORM\Column(type: Types::SMALLINT, nullable: true)]
+    #[Assert\Type(type: 'integer', message: 'Members must be an integer.')]
+    #[Assert\Range(notInRangeMessage: 'Members must be between 1 and 50.', min: 1, max: 50)]
     private ?int $members = null;
 
     #[ORM\Column(length: 30, nullable: true)]
