@@ -29,3 +29,6 @@ services:
     App\Validator\ExcelFileValidator:
         arguments:
             $validator: '@validator'
+
+    App\Serializer\BandNormalizer:
+        tags: [ 'serializer.normalizer' ]

@@ -100,7 +100,7 @@ class BandController extends AbstractController
             'json'
         );
 
-        $errors = $validator->validate($band);
+        $errors = $validator->validate($band, null, ['create']);
         if (count($errors) > 0) {
             return $this->json($errors, 422);
         }
@@ -135,15 +135,19 @@ class BandController extends AbstractController
      */
     #[Route('/band/{id}', name: 'app_band_update', methods: ['PUT'])]
     public function update(
+        int $id,
         Request $request,
         SerializerInterface $serializer,
         ValidatorInterface $validator,
-        Band $band,
     ): JsonResponse {
+        $band = $this->bandRepository->find($id);
+        if (!$band) {
+            return $this->json(['error' => 'Band not found'], 404);
+        }
+
         $band = $serializer->deserialize(
             $request->getContent(),
             Band::class,
-
             'json',
             [
                 AbstractNormalizer::OBJECT_TO_POPULATE => $band,
@@ -155,7 +159,7 @@ class BandController extends AbstractController
             return $this->json($errors, 422);
         }
 
-        $this->bandRepository->save($band);
+        $this->bandRepository->flush();
 
         return $this->json($band);
     }
