@@ -26,6 +26,7 @@ This project provides an **import system** for an Excel/CSV file, allowing bands
 🔹 Clone the git repository:
 ```
 git clone git@github.com:freelancerwebro/bands-service.git
+cd bands-service
 ```
 
 🔹 Run the following command to build the service:
